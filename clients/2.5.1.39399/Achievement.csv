@@ -1,0 +1,7 @@
+Description_lang,Title_lang,Reward_lang,ID,Instance_ID,Faction,Supercedes,Category,Minimum_criteria,Points,Flags,Ui_order,IconFileID,Criteria_tree,Shares_criteria
+End a PvP season in the top 0.1% of the arena ladder (requires 50 games won in Season 1).,Infernal Gladiator,Title Reward: Infernal Gladiator,15018,-1,-1,0,15452,0,0,2048,1,136219,0,0
+End a PvP season in the top 0.5% of the arena ladder (requires 50 games won in Season 1).,Gladiator: Season 1,Title Reward: Gladiator,15019,-1,-1,0,15452,0,0,2048,2,136219,0,0
+End a PvP season in the top 3% of the arena ladder (requires 50 games won in Season 1).,Duelist: Season 1,Title Reward: Duelist,15020,-1,-1,0,15452,0,0,2048,3,136219,0,0
+End a PvP season in the top 10% of the arena ladder (requires 50 games won in Season 1).,Rival: Season 1,Title Reward: Rival,15021,-1,-1,0,15452,0,0,2048,4,136219,0,0
+End a PvP season in the top 35% of the arena ladder (requires 50 games won in Season 1).,Challenger: Season 1,Title Reward: Challenger,15022,-1,-1,0,15452,0,0,2048,5,136219,0,0
+,[DNT] BCC Arena Tournament - Vanquisher Title,,15198,-1,-1,0,15452,0,0,2048,6,136243,0,0

@@ -1,0 +1,47 @@
+ID,Faction,Field_3_0_1_8303_002,Instance_ID,Title_lang[0],Title_lang[1],Title_lang[2],Title_lang[3],Title_lang[4],Title_lang[5],Title_lang[6],Title_lang[7],Title_lang[8],Title_lang[9],Title_lang[10],Title_lang[11],Title_lang[12],Title_lang[13],Title_lang[14],Title_lang[15],Title_lang_mask,Description_lang[0],Description_lang[1],Description_lang[2],Description_lang[3],Description_lang[4],Description_lang[5],Description_lang[6],Description_lang[7],Description_lang[8],Description_lang[9],Description_lang[10],Description_lang[11],Description_lang[12],Description_lang[13],Description_lang[14],Description_lang[15],Description_lang_mask,Category
+1,-1,-1,0,Race/Level Achievement [PH],,,,,,,,,,,,,,,,16711884,Every race level guy. [PH],,,,,,,,,,,,,,,,16711884,93
+2,-1,-1,0,Class/Level Achievement [PH],,,,,,,,,,,,,,,,16711884,Every class level guy. [PH],,,,,,,,,,,,,,,,16711884,93
+3,-1,-1,0,Level Each Faction to 80. [PH],,,,,,,,,,,,,,,,16711884,Multi-Faction level guy. [PH],,,,,,,,,,,,,,,,16711884,93
+4,-1,-1,0,Level Two Classes to 80. [PH],,,,,,,,,,,,,,,,16711884,Mutli-Class level 80 guy. [PH],,,,,,,,,,,,,,,,16711884,93
+5,-1,-1,0,Level to 15 without dying. [PH],,,,,,,,,,,,,,,,16711752,Level without dying guy. [PH],,,,,,,,,,,,,,,,16711752,96
+6,-1,-1,0,Level to 10. [PH],,,,,,,,,,,,,,,,16711752,Level to 10. [PH],,,,,,,,,,,,,,,,16711752,93
+7,-1,-1,6,Level to 20. [PH],,,,,,,,,,,,,,,,16711752,Level to 20. [PH],,,,,,,,,,,,,,,,16711752,93
+8,-1,-1,7,Level to 30. [PH],,,,,,,,,,,,,,,,16711752,Level to 30. [PH],,,,,,,,,,,,,,,,16711752,93
+9,-1,-1,8,Level to 40. [PH],,,,,,,,,,,,,,,,16711752,Level to 40. [PH],,,,,,,,,,,,,,,,16711752,93
+10,-1,-1,9,Level to 50. [PH],,,,,,,,,,,,,,,,16711752,Level to 50. [PH],,,,,,,,,,,,,,,,16711752,93
+11,-1,-1,10,Level to 60. [PH],,,,,,,,,,,,,,,,16711752,Level to 60. [PH],,,,,,,,,,,,,,,,16711752,93
+12,-1,-1,11,Level to 70. [PH],,,,,,,,,,,,,,,,16711752,Level to 70. [PH],,,,,,,,,,,,,,,,16711752,93
+13,-1,-1,12,Level to 80. [PH],,,,,,,,,,,,,,,,16711752,Level to 80. [PH],,,,,,,,,,,,,,,,16711752,93
+14,-1,-1,0,Level to 55. [PH],,,,,,,,,,,,,,,,16711752,Deathknight unlocked! [PH],,,,,,,,,,,,,,,,16711752,93
+15,-1,-1,0,Collect 10 flavor pets. [PH],,,,,,,,,,,,,,,,16711752,Pet collector. [PH],,,,,,,,,,,,,,,,16711752,93
+16,-1,-1,0,Max unarmed skill. [PH],,,,,,,,,,,,,,,,16711752,Level unarmed to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+17,-1,-1,0,Max dagger skill. [PH],,,,,,,,,,,,,,,,16711752,Level daggers to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+18,-1,-1,0,Max two-handed swords. [PH],,,,,,,,,,,,,,,,16711752,Level two-handed swords to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+19,-1,-1,0,Max axes. [PH],,,,,,,,,,,,,,,,16711752,Level axes to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+20,-1,-1,0,Max two-handed axes.  [PH],,,,,,,,,,,,,,,,16711752,Level two-handed axes to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+21,-1,-1,0,Max maces.  [PH],,,,,,,,,,,,,,,,16711752,Level maces to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+22,-1,-1,0,Max two-handed maces.  [PH],,,,,,,,,,,,,,,,16711752,Level two-handed maces to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+23,-1,-1,0,Max polearms.  [PH],,,,,,,,,,,,,,,,16711752,Level polearms to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+24,-1,-1,0,Max staves.  [PH],,,,,,,,,,,,,,,,16711752,Level staves to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+25,-1,-1,0,Max guns.  [PH],,,,,,,,,,,,,,,,16711752,Level guns to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+26,-1,-1,0,Max crossbows.  [PH],,,,,,,,,,,,,,,,16711752,Level crossbows to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+27,-1,-1,0,Max bows.  [PH],,,,,,,,,,,,,,,,16711752,Level bows to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+28,-1,-1,0,Max wands. [PH],,,,,,,,,,,,,,,,16711752,Level wands to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+29,-1,-1,0,Max swords.  [PH],,,,,,,,,,,,,,,,16711752,Level swords to 400. [PH],,,,,,,,,,,,,,,,16711752,93
+30,-1,-1,0,Get 4 weapon skills to 400. [PH],,,,,,,,,,,,,,,,16711752,Get 4 weapon skills to 400. [PH].,,,,,,,,,,,,,,,,16711752,93
+31,-1,-1,0,Daily quest each day. [PH],,,,,,,,,,,,,,,,16711752,Complete a daily quest every day for five days. [PH],,,,,,,,,,,,,,,,16711752,96
+32,-1,-1,0,Super quest dude. [PH],,,,,,,,,,,,,,,,16711752,"Complete 2,000 quests. [PH]",,,,,,,,,,,,,,,,16711752,96
+33,571,-1,0,Borean Tundra Quest. [PH],,,,,,,,,,,,,,,,16711752,Complete 10 quests in Boren Tundra. [PH],,,,,,,,,,,,,,,,16711752,96
+34,571,-1,0,Howling Fjord Quest. [PH],,,,,,,,,,,,,,,,16711752,Complete 10 quests in Howling Fjord. [PH],,,,,,,,,,,,,,,,16711752,96
+35,571,-1,0,Dragonblight Quest. [PH],,,,,,,,,,,,,,,,16711752,Complete 10 quests in Dragonblight. [PH],,,,,,,,,,,,,,,,16711752,96
+36,571,-1,0,Zul'Drak Quest. [PH],,,,,,,,,,,,,,,,16711752,Complete 10 quests in Zul'Drak. [PH],,,,,,,,,,,,,,,,16711752,96
+37,571,-1,0,Grizzly Hills Quest. [PH],,,,,,,,,,,,,,,,16711752,Complete 10 quests in Grizzly Hills. [PH],,,,,,,,,,,,,,,,16711752,96
+38,571,-1,0,Storm Peaks Quest. [PH],,,,,,,,,,,,,,,,16711752,Complete 10 quests in  Storm Peaks. [PH],,,,,,,,,,,,,,,,16711752,96
+39,571,-1,0,Scholozar Basin Quest. [PH],,,,,,,,,,,,,,,,16711752,Complete 10 quests in Scholozar Basin. [PH],,,,,,,,,,,,,,,,16711752,96
+40,571,-1,0,Icecrown Glacier Quest. [PH],,,,,,,,,,,,,,,,16711752,Complete 10 quests in Icecrown Glacier. [PH],,,,,,,,,,,,,,,,16711752,96
+41,-1,-1,0,Northrend Quest Dude. [PH],,,,,,,,,,,,,,,,16711752,Complete every Northrend Zone Quest Achievement. [PH],,,,,,,,,,,,,,,,16711752,96
+42,0,-1,0,Azeroth Revealed! [PH],,,,,,,,,,,,,,,,16711744,Reveal the entire Azeroth map. [PH],,,,,,,,,,,,,,,,16711744,97
+43,1,-1,0,Kalimdor Revealed! [PH],,,,,,,,,,,,,,,,16711744,Reveal the entire Kalimdor map. [PH],,,,,,,,,,,,,,,,16711744,97
+44,530,-1,0,Outland Revealed! [PH],,,,,,,,,,,,,,,,16711744,Reveal the entire Outland map. [PH],,,,,,,,,,,,,,,,16711744,97
+45,571,-1,0,Norhtrend Revealed! [PH],,,,,,,,,,,,,,,,16711744,Reveal the entire Northrend map. [PH],,,,,,,,,,,,,,,,16711744,97
+46,-1,-1,0,All areas Revealed! [PH],,,,,,,,,,,,,,,,16711744,"Reveal Azeroth, Kalimdor, Outland, and Northrend. [PH]",,,,,,,,,,,,,,,,16711744,97

@@ -1,0 +1,20 @@
+ID,Name_lang,Description_lang,OrderIndex,IconFileDataID,AlliedRaceID
+1,Ancient History,Increases Inscription skill.,0,1723985,2
+2,Arcane Affinity,Increases magical damage.,0,1723986,2
+3,Cantrips,Summon a flying book that acts as a mailbox.,0,1723988,2
+4,Entropic Embrace,Your abilities have a chance to empower you with the essence of the Void.,0,1723992,5
+5,Ethereal Connection,Reduces the cost of Transmogrification and Void Storage.,0,1723993,5
+6,Preternatural Calm,Your spell casts are not delayed by taking damage.,0,1724001,5
+7,Chill of Night,Reduces Arcane and Shadow damage taken.,0,1723989,5
+8,Spatial Rift,Rip a rift in space and time and teleport to a destination.,0,1724004,5
+9,Magical Resistance,Reduces magical damage taken.,0,1723997,2
+10,Force Shield,"Enchants an area with arcane energy, damaging and snaring nearby enemies.",0,1391782,2
+11,Bull Rush,"Charge forward, knocking down your enemies.",0,1723987,4
+12,Pride of Ironhorn,Increases mining skill and speed.,0,1724002,4
+13,"Waste Not, Want Not",Chance to gather additional Meat and Fish.,0,1724005,4
+14,Mountaineer,Increases Versatility.,0,1723999,4
+15,Rugged Tenacity,Reduces damage from incoming attacks.,0,1724003,4
+16,Light's Judgment,Deal mighty holy damage to an area.,0,1724000,6
+17,Holy Resistance,Reduces Holy damage taken.,0,1723996,6
+18,Light's Reckoning,"Erupt upon death, dealing Holy damage to nearby enemies and healing nearby allies.",0,1723994,6
+19,Forge of Light,Increases Blacksmithing skill and allows you to summon an anvil.,0,1723995,6
