@@ -1,0 +1,8 @@
+ID,FactionID,DepositRate,ConsignmentRate,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang_mask
+2,3,20,5,Ironforge Auction House,,,,,,,,983042
+3,4,20,5,Darnassus Auction House,,,,,,,,983042
+4,5,20,5,Undercity Auction House,,,,,,,,983042
+5,6,20,5,Thunder Bluff  Auction House,,,,,,,,983042
+6,2,20,5,Orgrimmar Auction House,,,,,,,,983042
+7,21,100,15,Booty Bay  Auction House,,,,,,,,983042
+1,1,20,5,Stormwind Auction House,,,,,,,,983042
