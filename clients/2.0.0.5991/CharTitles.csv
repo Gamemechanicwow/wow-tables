@@ -1,0 +1,29 @@
+ID,Condition_ID,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang_mask,Mask_ID
+1,5879,Private,,,,,,,,3604558,1
+2,5880,Corporal,,,,,,,,3604558,2
+3,5881,Sergeant,,,,,,,,3604558,3
+4,5882,Master Sergeant,,,,,,,,3604558,4
+5,5883,Sergeant Major,,,,,,,,3604558,5
+6,5884,Knight,,,,,,,,3604558,6
+7,5885,Knight-Lieutenant,,,,,,,,3604558,7
+8,5886,Knight-Captain,,,,,,,,3604558,8
+9,5887,Knight-Champion,,,,,,,,3604558,9
+10,5888,Lieutenant Commander,,,,,,,,3604558,10
+11,5889,Commander,,,,,,,,3604558,11
+12,5890,Marshal,,,,,,,,3604558,12
+13,5891,Field Marshal,,,,,,,,3604558,13
+14,5892,Grand Marshal,,,,,,,,3604558,14
+15,5893,Scout,,,,,,,,3604558,15
+16,5894,Grunt,,,,,,,,3604558,16
+17,5895,Sergeant,,,,,,,,3604558,17
+18,5896,Senior Sergeant,,,,,,,,3604558,18
+19,5897,First Sergeant,,,,,,,,3604558,19
+20,5898,Stone Guard,,,,,,,,3604558,20
+21,5899,Blood Guard,,,,,,,,3604558,21
+22,5900,Legionnare,,,,,,,,3604558,22
+23,5901,Centurion,,,,,,,,3604558,23
+24,5902,Champion,,,,,,,,3604558,24
+25,5903,Lieutenant General,,,,,,,,3604558,25
+26,5904,General,,,,,,,,3604558,26
+27,5905,Warlord,,,,,,,,3604558,27
+28,5906,High Warlord,,,,,,,,3604558,28

@@ -1,0 +1,43 @@
+ID,Name_lang,Name1_lang,Mask_ID,Flags
+1,Private %s,Private %s,1,0
+2,Corporal %s,Corporal %s,2,0
+3,Sergeant %s,Sergeant %s,3,0
+4,Master Sergeant %s,Master Sergeant %s,4,0
+5,Sergeant Major %s,Sergeant Major %s,5,0
+6,Knight %s,Knight %s,6,0
+7,Knight-Lieutenant %s,Knight-Lieutenant %s,7,0
+8,Knight-Captain %s,Knight-Captain %s,8,0
+9,Knight-Champion %s,Knight-Champion %s,9,0
+10,Lieutenant Commander %s,Lieutenant Commander %s,10,0
+11,Commander %s,Commander %s,11,0
+12,Marshal %s,Marshal %s,12,0
+13,Field Marshal %s,Field Marshal %s,13,0
+14,Grand Marshal %s,Grand Marshal %s,14,0
+15,Scout %s,Scout %s,15,0
+16,Grunt %s,Grunt %s,16,0
+17,Sergeant %s,Sergeant %s,17,0
+18,Senior Sergeant %s,Senior Sergeant %s,18,0
+19,First Sergeant %s,First Sergeant %s,19,0
+20,Stone Guard %s,Stone Guard %s,20,0
+21,Blood Guard %s,Blood Guard %s,21,0
+22,Legionnaire %s,Legionnaire %s,22,0
+23,Centurion %s,Centurion %s,23,0
+24,Champion %s,Champion %s,24,0
+25,Lieutenant General %s,Lieutenant General %s,25,0
+26,General %s,General %s,26,0
+27,Warlord %s,Warlord %s,27,0
+28,High Warlord %s,High Warlord %s,28,0
+42,Gladiator %s,Gladiator %s,29,0
+43,Duelist %s,Duelist %s,30,0
+44,Rival %s,Rival %s,31,0
+45,Challenger %s,Challenger %s,32,0
+46,Scarab Lord %s,Scarab Lord %s,33,0
+47,Conqueror %s,Conqueror %s,34,0
+48,Justicar %s,Justicar %s,35,0
+53,"%s, Champion of the Naaru","%s, Champion of the Naaru",36,0
+62,Merciless Gladiator %s,Merciless Gladiator %s,37,0
+63,%s of the Shattered Sun,%s of the Shattered Sun,38,0
+64,"%s, Hand of A'dal","%s, Hand of A'dal",39,0
+71,Vengeful Gladiator %s,Vengeful Gladiator %s,40,0
+163,Vanquisher %s,Vanquisher %s,128,0
+697,Infernal Gladiator %s,Infernal Gladiator %s,41,0

@@ -1,0 +1,41 @@
+ID,Condition_ID,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang[8],Name_lang[9],Name_lang[10],Name_lang[11],Name_lang[12],Name_lang[13],Name_lang[14],Name_lang[15],Name_lang_mask,Name1_lang[0],Name1_lang[1],Name1_lang[2],Name1_lang[3],Name1_lang[4],Name1_lang[5],Name1_lang[6],Name1_lang[7],Name1_lang[8],Name1_lang[9],Name1_lang[10],Name1_lang[11],Name1_lang[12],Name1_lang[13],Name1_lang[14],Name1_lang[15],Name1_lang_mask,Mask_ID
+1,5879,Private %s,,,,,,,,,,,,,,,,16712190,Private %s,,,,,,,,,,,,,,,,16712190,1
+2,5880,Corporal %s,,,,,,,,,,,,,,,,16712190,Corporal %s,,,,,,,,,,,,,,,,16712190,2
+3,5881,Sergeant %s,,,,,,,,,,,,,,,,16712190,Sergeant %s,,,,,,,,,,,,,,,,16712190,3
+4,5882,Master Sergeant %s,,,,,,,,,,,,,,,,16712190,Master Sergeant %s,,,,,,,,,,,,,,,,16712190,4
+5,5883,Sergeant Major %s,,,,,,,,,,,,,,,,16712190,Sergeant Major %s,,,,,,,,,,,,,,,,16712190,5
+6,5884,Knight %s,,,,,,,,,,,,,,,,16712190,Knight %s,,,,,,,,,,,,,,,,16712190,6
+7,5885,Knight-Lieutenant %s,,,,,,,,,,,,,,,,16712190,Knight-Lieutenant %s,,,,,,,,,,,,,,,,16712190,7
+8,5886,Knight-Captain %s,,,,,,,,,,,,,,,,16712190,Knight-Captain %s,,,,,,,,,,,,,,,,16712190,8
+9,5887,Knight-Champion %s,,,,,,,,,,,,,,,,16712190,Knight-Champion %s,,,,,,,,,,,,,,,,16712190,9
+10,5888,Lieutenant Commander %s,,,,,,,,,,,,,,,,16712190,Lieutenant Commander %s,,,,,,,,,,,,,,,,16712190,10
+11,5889,Commander %s,,,,,,,,,,,,,,,,16712190,Commander %s,,,,,,,,,,,,,,,,16712190,11
+12,5890,Marshal %s,,,,,,,,,,,,,,,,16712190,Marshal %s,,,,,,,,,,,,,,,,16712190,12
+13,5891,Field Marshal %s,,,,,,,,,,,,,,,,16712190,Field Marshal %s,,,,,,,,,,,,,,,,16712190,13
+14,5892,Grand Marshal %s,,,,,,,,,,,,,,,,16712190,Grand Marshal %s,,,,,,,,,,,,,,,,16712190,14
+15,5893,Scout %s,,,,,,,,,,,,,,,,16712190,Scout %s,,,,,,,,,,,,,,,,16712190,15
+16,5894,Grunt %s,,,,,,,,,,,,,,,,16712190,Grunt %s,,,,,,,,,,,,,,,,16712190,16
+17,5895,Sergeant %s,,,,,,,,,,,,,,,,16712190,Sergeant %s,,,,,,,,,,,,,,,,16712190,17
+18,5896,Senior Sergeant %s,,,,,,,,,,,,,,,,16712190,Senior Sergeant %s,,,,,,,,,,,,,,,,16712190,18
+19,5897,First Sergeant %s,,,,,,,,,,,,,,,,16712190,First Sergeant %s,,,,,,,,,,,,,,,,16712190,19
+20,5898,Stone Guard %s,,,,,,,,,,,,,,,,16712190,Stone Guard %s,,,,,,,,,,,,,,,,16712190,20
+21,5899,Blood Guard %s,,,,,,,,,,,,,,,,16712190,Blood Guard %s,,,,,,,,,,,,,,,,16712190,21
+22,5900,Legionnaire %s,,,,,,,,,,,,,,,,16712190,Legionnaire %s,,,,,,,,,,,,,,,,16712190,22
+23,5901,Centurion %s,,,,,,,,,,,,,,,,16712190,Centurion %s,,,,,,,,,,,,,,,,16712190,23
+24,5902,Champion %s,,,,,,,,,,,,,,,,16712190,Champion %s,,,,,,,,,,,,,,,,16712190,24
+25,5903,Lieutenant General %s,,,,,,,,,,,,,,,,16712190,Lieutenant General %s,,,,,,,,,,,,,,,,16712190,25
+26,5904,General %s,,,,,,,,,,,,,,,,16712190,General %s,,,,,,,,,,,,,,,,16712190,26
+27,5905,Warlord %s,,,,,,,,,,,,,,,,16712190,Warlord %s,,,,,,,,,,,,,,,,16712190,27
+28,5906,High Warlord %s,,,,,,,,,,,,,,,,16712190,High Warlord %s,,,,,,,,,,,,,,,,16712190,28
+42,0,Gladiator %s,,,,,,,,,,,,,,,,16712190,Gladiator %s,,,,,,,,,,,,,,,,16712190,29
+43,0,Duelist %s,,,,,,,,,,,,,,,,16712190,Duelist %s,,,,,,,,,,,,,,,,16712190,30
+44,0,Rival %s,,,,,,,,,,,,,,,,16712190,Rival %s,,,,,,,,,,,,,,,,16712190,31
+45,0,Challenger %s,,,,,,,,,,,,,,,,16712190,Challenger %s,,,,,,,,,,,,,,,,16712190,32
+46,6341,Scarab Lord %s,,,,,,,,,,,,,,,,16712190,Scarab Lord %s,,,,,,,,,,,,,,,,16712190,33
+47,6407,Conqueror %s,,,,,,,,,,,,,,,,16712190,Conqueror %s,,,,,,,,,,,,,,,,16712190,34
+48,6406,Justicar %s,,,,,,,,,,,,,,,,16712190,Justicar %s,,,,,,,,,,,,,,,,16712190,35
+53,6686,"%s, Champion of the Naaru",,,,,,,,,,,,,,,,16712190,"%s, Champion of the Naaru",,,,,,,,,,,,,,,,16712190,36
+62,0,Merciless Gladiator %s,,,,,,,,,,,,,,,,16712190,Merciless Gladiator %s,,,,,,,,,,,,,,,,16712190,37
+63,6806,%s of the Shattered Sun,,,,,,,,,,,,,,,,16712190,%s of the Shattered Sun,,,,,,,,,,,,,,,,16712190,38
+64,6944,"%s, Hand of A'dal",,,,,,,,,,,,,,,,16712190,"%s, Hand of A'dal",,,,,,,,,,,,,,,,16712190,39
+71,0,Vengeful Gladiator %s,,,,,,,,,,,,,,,,16712190,Vengeful Gladiator %s,,,,,,,,,,,,,,,,16712190,40
