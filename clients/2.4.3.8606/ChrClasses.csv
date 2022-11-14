@@ -1,0 +1,10 @@
+ID,DamageBonusStat,DisplayPower,PetNameToken,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang[8],Name_lang[9],Name_lang[10],Name_lang[11],Name_lang[12],Name_lang[13],Name_lang[14],Name_lang[15],Name_lang_mask,Name_female_lang[0],Name_female_lang[1],Name_female_lang[2],Name_female_lang[3],Name_female_lang[4],Name_female_lang[5],Name_female_lang[6],Name_female_lang[7],Name_female_lang[8],Name_female_lang[9],Name_female_lang[10],Name_female_lang[11],Name_female_lang[12],Name_female_lang[13],Name_female_lang[14],Name_female_lang[15],Name_female_lang_mask,Name_male_lang[0],Name_male_lang[1],Name_male_lang[2],Name_male_lang[3],Name_male_lang[4],Name_male_lang[5],Name_male_lang[6],Name_male_lang[7],Name_male_lang[8],Name_male_lang[9],Name_male_lang[10],Name_male_lang[11],Name_male_lang[12],Name_male_lang[13],Name_male_lang[14],Name_male_lang[15],Name_male_lang_mask,Filename,SpellClassSet,Flags
+1,0,1,PET,Warrior,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712140,,,,,,,,,,,,,,,,,16712188,WARRIOR,4,3
+2,0,0,PET,Paladin,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712140,,,,,,,,,,,,,,,,,16712140,PALADIN,10,11
+3,1,0,PET,Hunter,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712188,,,,,,,,,,,,,,,,,16712140,HUNTER,9,7
+4,1,3,PET,Rogue,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712140,,,,,,,,,,,,,,,,,16712140,ROGUE,8,3
+5,0,0,PET,Priest,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712188,,,,,,,,,,,,,,,,,16712188,PRIEST,6,2
+7,0,0,PET,Shaman,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712140,,,,,,,,,,,,,,,,,16712140,SHAMAN,11,11
+8,0,0,PET,Mage,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712140,,,,,,,,,,,,,,,,,16712140,MAGE,3,2
+9,0,0,DEMON,Warlock,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712140,,,,,,,,,,,,,,,,,16712140,WARLOCK,5,6
+11,0,0,PET,Druid,,,,,,,,,,,,,,,,16712191,,,,,,,,,,,,,,,,,16712140,,,,,,,,,,,,,,,,,16712140,DRUID,7,11
