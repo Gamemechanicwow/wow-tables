@@ -1,0 +1,9 @@
+ID,MapID[0],MapID[1],MapID[2],MapID[3],MapID[4],MapID[5],MapID[6],MapID[7],InstanceType,MinLevel,MaxLevel,Field_2_0_0_5610_005,Field_2_0_0_5610_006,GroupsAllowed,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang[8],Name_lang[9],Name_lang[10],Name_lang[11],Name_lang[12],Name_lang[13],Name_lang[14],Name_lang[15],Name_lang_mask,Field_2_4_0_8089_009
+1,30,0,0,0,0,0,0,0,3,51,70,40,10,1,Alterac Valley,,,,,,,,,,,,,,,,16712190,5
+2,489,0,0,0,0,0,0,0,3,10,70,10,10,1,Warsong Gulch,,,,,,,,,,,,,,,,16712190,40
+3,529,0,0,0,0,0,0,0,3,20,70,15,10,1,Arathi Basin,,,,,,,,,,,,,,,,16712190,40
+4,559,0,0,0,0,0,0,0,4,10,70,5,5,1,Nagrand Arena,,,,,,,,,,,,,,,,16712190,40
+5,562,0,0,0,0,0,0,0,4,10,70,5,5,1,Blade's Edge Arena,,,,,,,,,,,,,,,,16712190,40
+6,559,562,572,0,0,0,0,0,4,10,70,5,5,1,All Arenas,,,,,,,,,,,,,,,,16712190,40
+7,566,0,0,0,0,0,0,0,3,61,70,15,9,1,Eye of the Storm,,,,,,,,,,,,,,,,16712190,40
+8,572,0,0,0,0,0,0,0,4,10,70,5,5,1,Ruins of Lordaeron,,,,,,,,,,,,,,,,16712190,40
