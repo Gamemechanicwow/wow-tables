@@ -1,7 +1,0 @@
-ID,MapID[0],MapID[1],MapID[2],MapID[3],MapID[4],MapID[5],MapID[6],MapID[7],InstanceType,MinLevel,MaxLevel,Field_2_0_0_5610_005,Field_2_0_0_5610_006,GroupsAllowed,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang_mask
-1,30,0,0,0,0,0,0,0,3,51,60,40,0,0,Alterac Valley,,,,,,,,65536
-2,489,0,0,0,0,0,0,0,3,10,60,10,10,1,Warsong Gulch,,,,,,,,65536
-3,529,0,0,0,0,0,0,0,3,20,60,15,10,1,Arathi Basin,,,,,,,,65536
-4,559,0,0,0,0,0,0,0,4,10,70,0,5,1,Nagrand Arena,,,,,,,,65536
-5,562,0,0,0,0,0,0,0,4,10,70,0,5,1,Blade's Edge Arena,,,,,,,,65536
-6,559,562,0,0,0,0,0,0,4,10,70,0,5,1,All Arenas,,,,,,,,65536
