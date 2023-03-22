@@ -1,0 +1,20 @@
+ID,Name,SoundID,Priority,MinDelayMinutes
+101,Spooky01,5037,1,10
+122,Stormwind-Southseas,5334,1,0
+141,Stormwind08,5294,1,10
+161,Haunted02,5174,1,10
+162,Jungle,2535,1,10
+261,Magic01,5675,1,10
+62,Orgrimmar Intro,3402,1,60
+63,Darnassus Intro,3900,1,60
+102,Warrior Terrace,5354,1,10
+61,Valley of Heroes,2541,1,60
+181,Stormwind02,5036,1,10
+221,Sacred,4454,1,10
+121,Swamp01,4514,1,10
+182,Stormwind01,5035,1,10
+123,Stormwind03,5054,1,10
+81,Angelic01,4517,1,10
+103,Druid Grove,4434,1,10
+201,Magic,5534,1,10
+241,Orgrimmar Walking,5055,1,10

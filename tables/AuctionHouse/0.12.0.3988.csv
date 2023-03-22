@@ -1,8 +1,8 @@
-ID,FactionID,DepositRate,ConsignmentRate,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang_mask
-2,3,5,5,Ironforge Auction House,,,,,,,,983070
-3,4,5,5,Darnassus Auction House,,,,,,,,983070
-4,5,5,5,Undercity Auction House,,,,,,,,983070
-5,6,5,5,Thunder Bluff  Auction House,,,,,,,,983070
-6,2,5,5,Orgrimmar Auction House,,,,,,,,983070
-7,21,25,15,Booty Bay  Auction House,,,,,,,,983070
-1,1,5,5,Stormwind Auction House,,,,,,,,983070
+ID,FactionID,DepositRate,ConsignmentRate,Name_lang[0]
+2,3,5,5,Ironforge Auction House
+3,4,5,5,Darnassus Auction House
+4,5,5,5,Undercity Auction House
+5,6,5,5,Thunder Bluff  Auction House
+6,2,5,5,Orgrimmar Auction House
+7,369,25,15,Gadgetzan Auction House
+1,1,5,5,Stormwind Auction House

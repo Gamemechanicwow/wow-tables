@@ -1,3 +1,5 @@
-ID,Flags,FactionGroup,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang_mask,Shortcut_lang[0],Shortcut_lang[1],Shortcut_lang[2],Shortcut_lang[3],Shortcut_lang[4],Shortcut_lang[5],Shortcut_lang[6],Shortcut_lang[7],Shortcut_lang_mask
-1,3,0,General - %s,,,,,,,,983042,General,,,,,,,,983042
-2,3,0,Trade - %s,,,,,,,,983042,Trade,,,,,,,,983042
+ID,Flags,FactionGroup,Name_lang[0],Shortcut_lang[0]
+1,3,0,General - %s,
+2,27,0,Trade - %s,
+23,65541,0,WorldDefense,
+22,65539,0,LocalDefense - %s,
