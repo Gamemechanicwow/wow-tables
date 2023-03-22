@@ -272,16 +272,17 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 8864,20040814,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 7471,20040803,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 7464,20040803,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
-10249,20040908,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
-10244,20040908,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
+10249,20041116,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
+10244,20041116,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 7457,20040630,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 8544,20040804,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 8541,20040804,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 8556,20040804,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
-5142,20040803,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
+5142,20041116,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 7015,20040803,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 7008,20040803,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,0
 6849,20040709,0,-1363319748,Tileset\Stranglethorn\StrangleThornCobbleStoneRoad.tga,-1,-1,-1,-1,0,0
+11299,20041111,0,-1363319748,Tileset\Stranglethorn\StrangleThornCobbleStoneRoad.tga,-1,-1,-1,-1,0,0
 8307,20040918,0,-1363319748,Tileset\Stranglethorn\StrangleThornCobbleStoneRoad.tga,-1,-1,-1,-1,0,0
 8347,20040918,0,-1363319748,Tileset\Stranglethorn\StrangleThornCobbleStoneRoad.tga,-1,-1,-1,-1,0,0
 8305,20040918,0,-1363319748,Tileset\Stranglethorn\StrangleThornCobbleStoneRoad.tga,-1,-1,-1,-1,0,0
@@ -482,11 +483,11 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 4993,20040306,0,-937443324,Tileset\Duskwood\DuskwoodGrassBase.TGA,-1,-1,-1,-1,0,0
 6512,20040828,0,-907442974,Tileset\Elwynn\ElwynnCrop92.tga,-1,-1,-1,-1,0,0
 4979,20040306,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
-5141,20040803,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
+5141,20041116,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
 10295,20040909,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
 10294,20040909,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
-10247,20040908,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
-10242,20040908,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
+10247,20041116,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
+10242,20041116,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
 10236,20040908,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
 10226,20040908,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
 10218,20040908,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
@@ -509,11 +510,11 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 6976,20040625,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,-1,-1,-1,-1,0,0
 4985,20040305,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
 7009,20040803,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
-5143,20040803,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
-5138,20040803,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
+5143,20041116,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
+5138,20041116,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
 10822,20040924,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
-10250,20040908,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
-10246,20040908,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
+10250,20041116,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
+10246,20041116,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
 10240,20040908,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
 10231,20040908,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
 10223,20040908,0,-892135704,Tileset\BurningStepps\BurningSteppsAshCracks.TGA,-1,-1,-1,-1,0,0
@@ -597,15 +598,15 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 8553,20040804,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 7705,20040803,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 7776,20040709,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+11078,20041004,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10642,20040921,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10283,20040909,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10282,20040924,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
-10251,20040908,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
-10245,20040908,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+10251,20041116,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+10245,20041116,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10239,20040908,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10229,20040908,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10220,20040908,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
-11078,20041004,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10423,20040913,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10543,20040918,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 8869,20040814,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
@@ -615,7 +616,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7938,20040907,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 7007,20040803,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 5934,20040828,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
-5145,20040803,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+5145,20041116,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 5951,20040917,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 5658,20040829,0,-767652853,Tileset\PlagueLandsEast\EastPlaguedBaseDirt.TGA,-1,-1,-1,-1,0,0
 9656,20040924,0,-767652853,Tileset\PlagueLandsEast\EastPlaguedBaseDirt.TGA,-1,-1,-1,-1,0,0
@@ -670,6 +671,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 9632,20040929,0,-683352314,Tileset\PlagueLands\PlaguedEarthcreep01.tga,-1,-1,-1,-1,0,0
 9636,20040929,0,-683352314,Tileset\PlagueLands\PlaguedEarthcreep01.tga,-1,-1,-1,-1,0,0
 10962,20040927,0,-609311976,Tileset\Deadwind Pass\DeadwindPassWeeds.tga,-1,-1,-1,-1,0,0
+11240,20041108,0,-609311976,Tileset\Deadwind Pass\DeadwindPassWeeds.tga,-1,-1,-1,-1,0,0
 10632,20040923,0,-609311976,Tileset\Deadwind Pass\DeadwindPassWeeds.tga,-1,-1,-1,-1,0,0
 10620,20040923,0,-609311976,Tileset\Deadwind Pass\DeadwindPassWeeds.tga,-1,-1,-1,-1,0,0
 10626,20040923,0,-609311976,Tileset\Deadwind Pass\DeadwindPassWeeds.tga,-1,-1,-1,-1,0,0
@@ -947,7 +949,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 8649,20040806,0,-207460209,Tileset\The Badlands\BadlandsRockRed.TGA,-1,-1,-1,-1,0,0
 8660,20040806,0,-207460209,Tileset\The Badlands\BadlandsRockRed.TGA,-1,-1,-1,-1,0,0
 7469,20040803,0,-207460209,Tileset\The Badlands\BadlandsRockRed.TGA,-1,-1,-1,-1,0,0
-10255,20040908,0,-207460209,Tileset\The Badlands\BadlandsRockRed.TGA,-1,-1,-1,-1,0,0
+10255,20041116,0,-207460209,Tileset\The Badlands\BadlandsRockRed.TGA,-1,-1,-1,-1,0,0
 8661,20040806,0,-207460209,Tileset\The Badlands\BadlandsRockRed.TGA,-1,-1,-1,-1,0,0
 7455,20040630,0,-207460209,Tileset\The Badlands\BadlandsRockRed.TGA,-1,-1,-1,-1,0,0
 8652,20040806,0,-207460209,Tileset\The Badlands\BadlandsRockRed.TGA,-1,-1,-1,-1,0,0
@@ -1131,6 +1133,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7768,20040918,0,268624807,Tileset\Stranglethorn\StrangleThornMossroot01Alpha.tga,-1,-1,-1,-1,0,0
 8320,20040918,0,268624807,Tileset\Stranglethorn\StrangleThornMossroot01Alpha.tga,-1,-1,-1,-1,0,0
 9120,20040918,0,268624807,Tileset\Stranglethorn\StrangleThornMossroot01Alpha.tga,-1,-1,-1,-1,0,0
+11300,20041111,0,268624807,Tileset\Stranglethorn\StrangleThornMossroot01Alpha.tga,-1,-1,-1,-1,0,0
 8332,20040918,0,268624807,Tileset\Stranglethorn\StrangleThornMossroot01Alpha.tga,-1,-1,-1,-1,0,0
 8327,20040918,0,268624807,Tileset\Stranglethorn\StrangleThornMossroot01Alpha.tga,-1,-1,-1,-1,0,0
 8301,20040918,0,268624807,Tileset\Stranglethorn\StrangleThornMossroot01Alpha.tga,-1,-1,-1,-1,0,0
@@ -1227,13 +1230,14 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7103,20040828,0,669793460,Tileset\Wetlands\Wetlandsroad01.tga,-1,-1,-1,-1,0,0
 5915,20040524,0,669793460,Tileset\Wetlands\Wetlandsroad01.tga,-1,-1,-1,-1,0,0
 5234,20040828,0,669793460,Tileset\Wetlands\Wetlandsroad01.tga,-1,-1,-1,-1,0,0
-10359,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
-10961,20040927,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
-10629,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
-10636,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
 10627,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
-10633,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
+10359,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
 10621,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
+10633,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
+11241,20041108,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
+10636,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
+10629,20040923,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
+10961,20040927,0,689694775,Tileset\Deadwind Pass\DeadwindPassShale.tga,-1,-1,-1,-1,0,0
 5000,20040828,0,728885973,Tileset\Westwood\WestFallStrawBase.tga,-1,-1,-1,-1,0,0
 6436,20040828,0,728885973,Tileset\Westwood\WestFallStrawBase.tga,-1,-1,-1,-1,0,0
 6456,20040828,0,728885973,Tileset\Westwood\WestFallStrawBase.tga,-1,-1,-1,-1,0,0
@@ -1347,6 +1351,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 8317,20040918,0,962353784,Tileset\Stranglethorn\StrangleThornDirt03.tga,-1,-1,-1,-1,0,0
 8330,20040918,0,962353784,Tileset\Stranglethorn\StrangleThornDirt03.tga,-1,-1,-1,-1,0,0
 9118,20040918,0,962353784,Tileset\Stranglethorn\StrangleThornDirt03.tga,-1,-1,-1,-1,0,0
+11298,20041111,0,962353784,Tileset\Stranglethorn\StrangleThornDirt03.tga,-1,-1,-1,-1,0,0
 8346,20040918,0,962353784,Tileset\Stranglethorn\StrangleThornDirt03.tga,-1,-1,-1,-1,0,0
 8325,20040918,0,962353784,Tileset\Stranglethorn\StrangleThornDirt03.tga,-1,-1,-1,-1,0,0
 8300,20040918,0,962353784,Tileset\Stranglethorn\StrangleThornDirt03.tga,-1,-1,-1,-1,0,0
@@ -1355,6 +1360,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 6482,20040828,0,983336491,Tileset\Elwynn\ElwynnCobbleStoneBase.tga,-1,-1,-1,-1,0,0
 8006,20040818,0,983336491,Tileset\Elwynn\ElwynnCobbleStoneBase.tga,-1,-1,-1,-1,0,0
 6629,20040918,0,991731445,Tileset\Deadwind Pass\DeadwindPassDirt.tga,-1,-1,-1,-1,0,0
+11239,20041108,0,991731445,Tileset\Deadwind Pass\DeadwindPassDirt.tga,-1,-1,-1,-1,0,0
 10635,20040923,0,991731445,Tileset\Deadwind Pass\DeadwindPassDirt.tga,-1,-1,-1,-1,0,0
 10631,20040923,0,991731445,Tileset\Deadwind Pass\DeadwindPassDirt.tga,-1,-1,-1,-1,0,0
 10625,20040923,0,991731445,Tileset\Deadwind Pass\DeadwindPassDirt.tga,-1,-1,-1,-1,0,0
@@ -1540,7 +1546,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 8543,20040804,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
 7468,20040803,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
 10228,20040908,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
-10254,20040908,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
+10254,20041116,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
 10241,20040908,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
 10222,20040908,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
 7474,20040803,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
@@ -1549,6 +1555,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7021,20040803,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
 5146,20040803,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,0,0
 6633,20040918,0,1551789611,Tileset\Deadwind Pass\DeadwindPassRockBase.tga,-1,-1,-1,-1,0,0
+11238,20041108,0,1551789611,Tileset\Deadwind Pass\DeadwindPassRockBase.tga,-1,-1,-1,-1,0,0
 10634,20040923,0,1551789611,Tileset\Deadwind Pass\DeadwindPassRockBase.tga,-1,-1,-1,-1,0,0
 10630,20040923,0,1551789611,Tileset\Deadwind Pass\DeadwindPassRockBase.tga,-1,-1,-1,-1,0,0
 10624,20040923,0,1551789611,Tileset\Deadwind Pass\DeadwindPassRockBase.tga,-1,-1,-1,-1,0,0
@@ -1666,8 +1673,8 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5109,20040714,0,1973525784,Tileset\TirisFall\TirisFallRockyMudGrassHighlight.tga,-1,-1,-1,-1,0,0
 4980,20040306,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
 7019,20040803,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
-10248,20040908,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
-10243,20040908,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
+10248,20041116,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
+10243,20041116,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
 10237,20040908,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
 10227,20040908,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
 10219,20040908,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
@@ -1688,7 +1695,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7006,20040803,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
 7011,20040803,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
 6320,20040615,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
-5144,20040803,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
+5144,20041116,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,0,0
 5378,20040701,0,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 10169,20040918,0,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 10150,20040907,0,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
@@ -2468,15 +2475,15 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 3545,20040323,0,-1812635961,Tileset\RedRidge\RedridgeGrassDirtBase.tga,-1,-1,-1,-1,0,0
 555,20030405,0,-1482692803,Tileset\RedRidge\Brandon\RedridgeGrassDirtBase.tga,-1,-1,-1,-1,8,5
 862,20030405,0,-1400593052,Tileset\RedRidge\Brandon\RedridgeDirtBase.tga,-1,-1,-1,-1,0,0
-1046,20040803,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,2
+1046,20041116,0,-1374869163,Tileset\BurningStepps\BurningSteppsCharcoal01.tga,-1,-1,-1,-1,0,2
 467,20020129,0,-1321142998,Tileset\Elwynn\ElwynnRockBase.tga,-1,-1,-1,-1,8,2
 958,20020717,0,-1273780544,Tileset\The Badlands\CobraPillarTile02Alpha.tga,-1,-1,-1,-1,0,1
 468,20040803,0,-1095065661,Tileset\Elwynn\ElwynnGrassBase.tga,-1,-1,-1,-1,8,5
 3537,20040323,0,-987422089,Tileset\RedRidge\RedridgeRockBase.tga,-1,-1,-1,-1,0,0
-453,20040803,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,102,116,107,106,5,7
+453,20041116,0,-904069231,Tileset\BurningStepps\BurningSteppsAsh01.TGA,102,116,107,106,5,7
 957,20020717,0,-883486942,Tileset\BurningStepps\BurningSteppsAshHighlight.TGA,-1,-1,-1,-1,0,7
 4216,20040323,0,-866162749,Tileset\Swamp of Sorrows\SwampSorrowsRock02.tga,-1,-1,-1,-1,0,0
-954,20040803,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,2
+954,20041116,0,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,2
 546,20030405,0,-690098691,Tileset\RedRidge\Brandon\RedridgeRockBase.tga,-1,-1,-1,-1,8,2
 709,20040803,0,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,2
 462,20040803,0,-525950136,Tileset\The Badlands\BadlandsDirt.TGA,-1,-1,-1,-1,8,0
@@ -2492,7 +2499,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 682,20020403,0,1410636751,Tileset\Elwynn\ElwynnRock2Base.tga,-1,-1,-1,-1,8,2
 470,20040803,0,1512085133,Tileset\BurningStepps\BurningSteppsLavatest02.tga,-1,-1,-1,-1,8,6
 471,20020717,0,1557548737,Tileset\BurningStepps\BurningSteppsBrick01.TGA,-1,-1,-1,-1,8,2
-454,20040803,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,8,2
+454,20041116,0,2017182986,Tileset\BurningStepps\BurningSteppsRock01.TGA,-1,-1,-1,-1,8,2
 951,20030603,0,2137005801,Tileset\BurningStepps\BurningSteppsSpireRock01.TGA,-1,-1,-1,-1,0,2
 579,20020730,0,-2146575620,Tileset\Stranglethorn\StrangleThornplants01.tga,-1,-1,-1,-1,8,5
 875,20020510,0,-2006144263,Tileset\The Blasted Lands\BlastedLandsDirt01.TGA,-1,-1,-1,-1,0,0
@@ -4236,11 +4243,11 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 8062,20040722,1,-2106936086,Tileset\Kalidar\KalidarWoodGold.TGA,-1,-1,-1,-1,0,0
 5178,20040915,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
 7078,20040625,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
-10584,20040919,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
-10596,20040922,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
-10603,20040922,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
-10588,20040922,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
 6179,20040922,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
+10588,20040922,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
+10596,20040922,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
+10584,20040919,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
+10603,20040922,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
 6184,20040925,1,-2091733396,Tileset\Stonetalon Mts\StonetalonSand.tga,-1,-1,-1,-1,0,0
 6196,20040828,1,-2081244478,Tileset\RedRidge\RedridgeStoneHighlight.TGA,-1,-1,-1,-1,0,0
 5750,20040607,1,-2045040698,Tileset\Barrens\BarrensBaseGrassDead.tga,-1,-1,-1,-1,0,0
@@ -4396,6 +4403,8 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5715,20040921,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 5721,20040924,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 5711,20040921,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
+10568,20040921,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
+10558,20040924,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 7486,20040626,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 7286,20040917,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 7291,20040917,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
@@ -4407,10 +4416,8 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5826,20040917,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 5309,20040421,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,230,237,228,229,7,5
 5817,20040917,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
-10562,20040924,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
-10568,20040921,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
-10558,20040924,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 10652,20040924,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
+10562,20040924,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 10553,20040924,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 10547,20040918,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
 8401,20041001,1,-1599373959,Tileset\Feralas\FeralasBrushRoots.TGA,-1,-1,-1,-1,0,0
@@ -4451,6 +4458,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5697,20040924,1,-1518716061,Tileset\AlteracMtns\AlteracDirtBase02.tga,-1,-1,-1,-1,0,0
 6068,20040917,1,-1518716061,Tileset\AlteracMtns\AlteracDirtBase02.tga,-1,-1,-1,-1,0,0
 5804,20040917,1,-1518716061,Tileset\AlteracMtns\AlteracDirtBase02.tga,-1,-1,-1,-1,0,0
+11314,20041111,1,-1518716061,Tileset\AlteracMtns\AlteracDirtBase02.tga,-1,-1,-1,-1,0,0
 9817,20040916,1,-1518716061,Tileset\AlteracMtns\AlteracDirtBase02.tga,-1,-1,-1,-1,0,0
 9811,20040917,1,-1518716061,Tileset\AlteracMtns\AlteracDirtBase02.tga,-1,-1,-1,-1,0,0
 8217,20040828,1,-1518716061,Tileset\AlteracMtns\AlteracDirtBase02.tga,-1,-1,-1,-1,0,0
@@ -4485,6 +4493,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 6544,20040922,1,-1514990267,Tileset\Ashzara\AshzaraGrass.TGA,-1,-1,-1,-1,0,0
 6401,20040902,1,-1514990267,Tileset\Ashzara\AshzaraGrass.TGA,-1,-1,-1,-1,0,0
 5198,20040909,1,-1513327146,Tileset\Durotar\DurotarRoad.TGA,-1,-1,-1,-1,0,0
+11313,20041111,1,-1513327146,Tileset\Durotar\DurotarRoad.TGA,-1,-1,-1,-1,0,0
 8252,20040902,1,-1513327146,Tileset\Durotar\DurotarRoad.TGA,-1,-1,-1,-1,0,0
 5083,20040630,1,-1513327146,Tileset\Durotar\DurotarRoad.TGA,-1,-1,-1,-1,0,0
 6269,20040902,1,-1513327146,Tileset\Durotar\DurotarRoad.TGA,-1,-1,-1,-1,0,0
@@ -4624,12 +4633,12 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 9678,20040903,1,-1149164213,Tileset\Duskwallow Marsh\DuskwallowMoss.tga,-1,-1,-1,-1,0,0
 6619,20040625,1,-1149164213,Tileset\Duskwallow Marsh\DuskwallowMoss.tga,-1,-1,-1,-1,0,0
 5180,20040915,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
-10586,20040922,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
-10600,20040922,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
+10579,20040919,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
 10641,20040924,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
 10605,20040924,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
 10593,20040922,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
-10579,20040919,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
+10586,20040922,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
+10600,20040922,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
 9832,20040916,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
 6183,20040925,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
 7090,20040920,1,-1080528574,Tileset\Stonetalon Mts\StonetalonRockBrown.tga,-1,-1,-1,-1,0,0
@@ -4741,12 +4750,12 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7445,20041001,1,-804921547,Tileset\Feralas\FeralasRockBrown.tga,-1,-1,-1,-1,0,0
 5181,20040915,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 6186,20040602,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
-10581,20040919,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
-10601,20040922,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
+10443,20040914,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 10607,20040924,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 10595,20040922,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 10589,20040922,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
-10443,20040914,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
+10581,20040919,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
+10601,20040922,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 10440,20040914,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 7084,20040625,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 7091,20040920,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
@@ -4754,8 +4763,8 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 6181,20040828,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 6180,20040922,1,-774843899,Tileset\Stonetalon Mts\StonetalonGrass.tga,-1,-1,-1,-1,0,0
 5437,20040607,1,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
-10654,20040924,1,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10299,20040921,1,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+10654,20040924,1,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 10554,20040918,1,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 7397,20041001,1,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 7300,20040917,1,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
@@ -4811,7 +4820,6 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5523,20040929,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,2
 5527,20040926,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 5529,20040926,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
-11103,20040930,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 9757,20040903,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 9673,20040903,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 9258,20040902,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
@@ -4828,6 +4836,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5644,20040608,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 5580,20040902,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 5549,20040607,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
+11103,20040930,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 8393,20040926,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 8273,20040902,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 8264,20040902,1,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
@@ -4856,6 +4865,8 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5186,20040909,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 5189,20040727,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 5171,20040828,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
+11102,20040930,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
+10410,20040926,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 9610,20040926,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 9205,20040902,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 8218,20040926,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
@@ -4867,8 +4878,6 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 6399,20040902,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 6391,20040927,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 7111,20040926,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
-11102,20040930,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
-10410,20040926,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 10296,20040909,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 9753,20040903,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
 9769,20040904,1,-523836209,Tileset\Barrens\BarrensBaseDirt.TGA,-1,-1,-1,-1,0,0
@@ -4916,6 +4925,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5578,20040929,1,-457021727,Tileset\Feralas\FeralasBrushCol.TGA,227,229,226,234,5,0
 5520,20040828,1,-457021727,Tileset\Feralas\FeralasBrushCol.TGA,227,229,226,234,5,6
 5423,20040909,1,-455325665,Tileset\Durotar\DurotarRock.TGA,-1,-1,-1,-1,0,0
+11312,20041111,1,-455325665,Tileset\Durotar\DurotarRock.TGA,-1,-1,-1,-1,0,0
 8250,20040902,1,-455325665,Tileset\Durotar\DurotarRock.TGA,-1,-1,-1,-1,0,0
 6272,20040902,1,-455325665,Tileset\Durotar\DurotarRock.TGA,-1,-1,-1,-1,0,0
 6267,20040902,1,-455325665,Tileset\Durotar\DurotarRock.TGA,-1,-1,-1,-1,0,0
@@ -5075,7 +5085,6 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7437,20041004,1,-134124232,Tileset\Silithis\SilithisRockDark.TGA,-1,-1,-1,-1,0,0
 5017,20040609,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 11200,20041025,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
-10398,20040927,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 9885,20040927,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 9881,20040927,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 9877,20040927,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
@@ -5085,6 +5094,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 9141,20041004,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 9667,20040929,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 9601,20040927,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
+10398,20040927,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 9448,20040902,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 9901,20040929,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
 9894,20040926,1,-122640179,Tileset\Kalidar\KalidarFerns.TGA,-1,-1,-1,-1,0,0
@@ -5107,7 +5117,6 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 11198,20041025,1,-115451379,Tileset\Ashenvale\AshenvaleSand.TGA,-1,-1,-1,-1,0,0
 9138,20040926,1,-115451379,Tileset\Ashenvale\AshenvaleSand.TGA,-1,-1,-1,-1,0,0
 5798,20040917,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
-10819,20040924,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
 10197,20040916,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
 10193,20040907,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
 10184,20040915,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
@@ -5117,6 +5126,8 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 9319,20040902,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
 9816,20040916,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
 9815,20041015,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
+11398,20041215,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
+10819,20040924,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
 8624,20040901,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
 7263,20040918,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,0
 7254,20040918,1,-89509408,Tileset\Desolace\DesolaceRock01.TGA,-1,-1,-1,-1,0,2
@@ -5219,9 +5230,9 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 8458,20040729,1,-8985111,Tileset\Darkshore\DarkshoreSandRocks.TGA,-1,-1,-1,-1,0,0
 6578,20040829,1,-8985111,Tileset\Darkshore\DarkshoreSandRocks.TGA,-1,-1,-1,-1,0,0
 6094,20040924,1,-7917700,Tileset\Loch Modan\LochModanGravelDirt.tga,-1,-1,-1,-1,0,0
+10281,20040924,1,-7917700,Tileset\Loch Modan\LochModanGravelDirt.tga,-1,-1,-1,-1,0,0
 10565,20040921,1,-7917700,Tileset\Loch Modan\LochModanGravelDirt.tga,-1,-1,-1,-1,0,0
 10653,20040924,1,-7917700,Tileset\Loch Modan\LochModanGravelDirt.tga,-1,-1,-1,-1,0,0
-10281,20040924,1,-7917700,Tileset\Loch Modan\LochModanGravelDirt.tga,-1,-1,-1,-1,0,0
 6101,20040917,1,-7917700,Tileset\Loch Modan\LochModanGravelDirt.tga,-1,-1,-1,-1,0,0
 7578,20040917,1,-7917700,Tileset\Loch Modan\LochModanGravelDirt.tga,-1,-1,-1,-1,0,0
 5213,20040326,1,4910649,Tileset\Winterspring Grove\WinterspringRock.tga,-1,-1,-1,-1,0,0
@@ -5516,11 +5527,11 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7430,20041005,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 11034,20041004,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 11044,20041004,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
-11098,20040930,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 11071,20041004,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 11064,20040929,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 11058,20040929,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 11055,20040929,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
+11098,20040930,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 11038,20041004,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 11025,20040929,1,759348318,Tileset\Silithis\SilithisSandDetail.TGA,-1,-1,-1,-1,0,0
 9167,20040929,1,779270387,Tileset\Darkshore\DarkshoreBarnacle.tga,-1,-1,-1,-1,0,0
@@ -5652,8 +5663,9 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 8369,20040805,1,1153478445,Tileset\Generic\Black.tga,-1,-1,-1,-1,0,0
 7579,20040917,1,1153478445,Tileset\Generic\Black.tga,-1,-1,-1,-1,0,0
 10711,20040922,1,1172657565,Tileset\Duskwood\DuskwoodRockGravel.tga,-1,-1,-1,-1,0,0
-11218,20041027,1,1172657565,Tileset\Duskwood\DuskwoodRockGravel.tga,-1,-1,-1,-1,0,0
 10941,20040927,1,1172657565,Tileset\Duskwood\DuskwoodRockGravel.tga,-1,-1,-1,-1,0,0
+11218,20041027,1,1172657565,Tileset\Duskwood\DuskwoodRockGravel.tga,-1,-1,-1,-1,0,0
+11318,20041112,1,1172657565,Tileset\Duskwood\DuskwoodRockGravel.tga,-1,-1,-1,-1,0,0
 10907,20040927,1,1172657565,Tileset\Duskwood\DuskwoodRockGravel.tga,-1,-1,-1,-1,0,0
 10908,20040927,1,1172657565,Tileset\Duskwood\DuskwoodRockGravel.tga,-1,-1,-1,-1,0,0
 10920,20040927,1,1172657565,Tileset\Duskwood\DuskwoodRockGravel.tga,-1,-1,-1,-1,0,0
@@ -5880,6 +5892,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5185,20040909,1,1557212719,Tileset\Durotar\DurotarDirtSmooth.TGA,-1,-1,-1,-1,0,0
 5534,20040828,1,1557212719,Tileset\Durotar\DurotarDirtSmooth.TGA,-1,-1,-1,-1,0,0
 6268,20040902,1,1557212719,Tileset\Durotar\DurotarDirtSmooth.TGA,-1,-1,-1,-1,0,0
+11311,20041111,1,1557212719,Tileset\Durotar\DurotarDirtSmooth.TGA,-1,-1,-1,-1,0,0
 8251,20040902,1,1557212719,Tileset\Durotar\DurotarDirtSmooth.TGA,-1,-1,-1,-1,0,0
 6273,20040902,1,1557212719,Tileset\Durotar\DurotarDirtSmooth.TGA,-1,-1,-1,-1,0,0
 6263,20040902,1,1557212719,Tileset\Durotar\DurotarDirtSmooth.TGA,-1,-1,-1,-1,0,0
@@ -5888,7 +5901,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7444,20040830,1,1557548737,Tileset\BurningStepps\BurningSteppsBrick01.TGA,-1,-1,-1,-1,0,0
 5797,20040917,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 5809,20040917,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
-10678,20040922,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
+10599,20040919,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 9824,20040904,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 9290,20040918,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,7
 8623,20040806,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
@@ -5897,13 +5910,13 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7249,20040918,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 7243,20040918,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 7234,20040626,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
-10599,20040919,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 10606,20040919,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 10818,20040924,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 10201,20040916,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 10190,20040907,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 10188,20040915,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 10180,20041015,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,7
+10678,20040922,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 7072,20040918,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 7177,20040918,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
 7182,20040918,1,1580700183,Tileset\Desolace\DesolaceSand01.TGA,-1,-1,-1,-1,0,0
@@ -5919,11 +5932,11 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 9219,20041004,1,1605857611,Tileset\Tanaris\TanarisPurpleBug03.tga,-1,-1,-1,-1,0,0
 7394,20041001,1,1605857611,Tileset\Tanaris\TanarisPurpleBug03.tga,-1,-1,-1,-1,0,8
 7194,20040918,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
+7264,20040918,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
 10187,20040924,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
 10420,20040913,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
 10194,20040907,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
 10182,20040907,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
-7264,20040918,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
 10821,20040924,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
 10683,20040922,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
 7275,20040917,1,1607980868,Tileset\Desolace\DesolaceMudSolid.TGA,-1,-1,-1,-1,0,0
@@ -5965,6 +5978,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7028,20040830,1,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
 6984,20040929,1,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,2
 5421,20040909,1,1729680511,Tileset\Durotar\DurotarDirt.TGA,-1,-1,-1,-1,0,0
+11310,20041111,1,1729680511,Tileset\Durotar\DurotarDirt.TGA,-1,-1,-1,-1,0,0
 8249,20040922,1,1729680511,Tileset\Durotar\DurotarDirt.TGA,-1,-1,-1,-1,0,0
 6271,20040902,1,1729680511,Tileset\Durotar\DurotarDirt.TGA,-1,-1,-1,-1,0,0
 6266,20040902,1,1729680511,Tileset\Durotar\DurotarDirt.TGA,-1,-1,-1,-1,0,0
@@ -6009,11 +6023,11 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 9356,20040901,1,1770299320,Tileset\Winterspring Grove\WinterspringIce.TGA,-1,-1,-1,-1,0,0
 5177,20040915,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
 6177,20040922,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
-10598,20040922,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
 10604,20040924,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
 10592,20040922,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
 10585,20040922,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
 10578,20040919,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
+10598,20040922,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
 9833,20040916,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
 9599,20040926,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
 8198,20040723,1,1799147160,Tileset\Stonetalon Mts\StonetalonRockRed.tga,-1,-1,-1,-1,0,0
@@ -6091,10 +6105,10 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5710,20040921,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
 5706,20040924,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
 5701,20040924,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
-10651,20040924,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
 10566,20040921,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
 10561,20040924,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
 10557,20040924,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
+10651,20040924,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
 8841,20041001,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
 8836,20041001,1,1920421436,Tileset\Feralas\FeralasBrush.tga,-1,-1,-1,-1,0,0
 6948,20040903,1,1936248222,Tileset\Felwood\FelwoodFernsOrange2Alpha.tga,-1,-1,-1,-1,0,0
@@ -6138,11 +6152,11 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 5801,20040917,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 5811,20040924,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 6402,20040902,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
+10567,20040921,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
+10416,20040912,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 10650,20040924,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 10560,20040924,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 10556,20040924,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
-10567,20040921,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
-10416,20040912,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 9458,20040902,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 9814,20040916,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
 9772,20040904,1,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
@@ -6209,11 +6223,11 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 9240,20040827,1,2073949416,Tileset\Outland\OutlandDirt02.TGA,-1,-1,-1,-1,0,0
 9243,20040827,1,2073949416,Tileset\Outland\OutlandDirt02.TGA,-1,-1,-1,-1,0,0
 5519,20040828,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,235,230,235,230,1,0
-10555,20040924,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
 10564,20040921,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
 10559,20040924,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
 11100,20040930,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
 10649,20040924,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
+10555,20040924,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
 10550,20040924,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
 10544,20040918,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
 8838,20041001,1,2113733491,Tileset\Feralas\FeralasDirt.TGA,-1,-1,-1,-1,0,0
@@ -7882,32 +7896,88 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 10667,20041005,30,-2006144263,Tileset\The Blasted Lands\BlastedLandsDirt01.TGA,-1,-1,-1,-1,0,0
 7840,20040712,30,-1897724016,Tileset\Winterspring Grove\WinterspringSnowSolid.TGA,-1,-1,-1,-1,0,0
 10658,20041005,30,-1897724016,Tileset\Winterspring Grove\WinterspringSnowSolid.TGA,-1,-1,-1,-1,0,2
+11301,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11358,20041207,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11378,20041214,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11258,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11267,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11276,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11284,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11290,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11281,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11271,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
+11265,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
 11118,20041005,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,3
+11305,20041111,30,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
 7842,20040712,30,-1709313344,Tileset\The Blasted Lands\BlastedLandsRockHighlight01.TGA,-1,-1,-1,-1,0,0
 10672,20041005,30,-1531524484,Tileset\Winterspring Grove\WinterspringIceSmooth.tga,-1,-1,-1,-1,0,3
 7843,20040712,30,-1486199294,Tileset\IronForge\IronForgeRock06road2.TGA,-1,-1,-1,-1,0,0
 10671,20041005,30,-1458793234,Tileset\Winterspring Grove\WinterspringIceSnowAlpha.tga,-1,-1,-1,-1,0,3
+11309,20041111,30,-1458793234,Tileset\Winterspring Grove\WinterspringIceSnowAlpha.tga,-1,-1,-1,-1,0,0
+11296,20041111,30,-1458793234,Tileset\Winterspring Grove\WinterspringIceSnowAlpha.tga,-1,-1,-1,-1,0,0
 7901,20040713,30,-1382093608,Tileset\PlagueLands\PlaguedEarthcreep03.tga,-1,-1,-1,-1,0,0
 7899,20040713,30,-793724976,Tileset\IronForge\IronForgeRock07mountain.TGA,-1,-1,-1,-1,0,0
 10666,20041005,30,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+11381,20041214,30,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+11287,20041111,30,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+11293,20041111,30,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
+11304,20041111,30,-769722226,Tileset\The Blasted Lands\BlastedLandsBlack.tga,-1,-1,-1,-1,0,0
 7898,20040713,30,-557644610,Tileset\IronForge\IronForgeSnow04Rock.TGA,-1,-1,-1,-1,0,0
 10673,20041005,30,-551618936,Tileset\The Badlands\BadlandsRock.TGA,-1,-1,-1,-1,0,0
 7839,20040712,30,-321790749,Tileset\Winterspring Grove\WinterspringIceCracked.TGA,-1,-1,-1,-1,0,0
+11274,20041111,30,-321790749,Tileset\Winterspring Grove\WinterspringIceCracked.TGA,-1,-1,-1,-1,0,0
 10664,20041005,30,-321790749,Tileset\Winterspring Grove\WinterspringIceCracked.TGA,-1,-1,-1,-1,0,3
 10670,20041005,30,-290671177,Tileset\IronForge\IronForgeIce01.TGA,-1,-1,-1,-1,0,3
+11308,20041111,30,-290671177,Tileset\IronForge\IronForgeIce01.TGA,-1,-1,-1,-1,0,0
+11295,20041111,30,-290671177,Tileset\IronForge\IronForgeIce01.TGA,-1,-1,-1,-1,0,0
 10669,20041005,30,-248803873,Tileset\IronForge\IronForgeSnow03ripple.tga,-1,-1,-1,-1,0,3
+11288,20041111,30,-248803873,Tileset\IronForge\IronForgeSnow03ripple.tga,-1,-1,-1,-1,0,0
+11289,20041111,30,-248803873,Tileset\IronForge\IronForgeSnow03ripple.tga,-1,-1,-1,-1,0,0
+11294,20041111,30,-248803873,Tileset\IronForge\IronForgeSnow03ripple.tga,-1,-1,-1,-1,0,0
 7841,20040712,30,-218601444,Tileset\The Blasted Lands\BlastedLandsRockCrackHighlight.TGA,-1,-1,-1,-1,0,0
 10675,20041005,30,-218601444,Tileset\The Blasted Lands\BlastedLandsRockCrackHighlight.TGA,-1,-1,-1,-1,0,0
 7844,20040712,30,-157365265,Tileset\Winterspring Grove\WinterspringFootprints.TGA,-1,-1,-1,-1,0,0
 10668,20041005,30,164710539,Tileset\IronForge\IronforgeFootprintsAlpha.tga,-1,-1,-1,-1,0,3
 10665,20041005,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11303,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11261,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11273,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11283,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11292,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11286,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11278,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11266,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11380,20041214,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11307,20041111,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
+11360,20041207,30,300208945,Tileset\Winterspring Grove\WinterspringDirt.tga,-1,-1,-1,-1,0,0
 7900,20040713,30,321661295,Tileset\IronForge\IronForgeRock09BrownCracks.TGA,-1,-1,-1,-1,0,0
 10661,20041005,30,926940565,Tileset\Winterspring Grove\WinterspringSnowRipple.TGA,-1,-1,-1,-1,0,3
+11263,20041111,30,926940565,Tileset\Winterspring Grove\WinterspringSnowRipple.TGA,-1,-1,-1,-1,0,0
+11270,20041111,30,926940565,Tileset\Winterspring Grove\WinterspringSnowRipple.TGA,-1,-1,-1,-1,0,0
+11259,20041111,30,926940565,Tileset\Winterspring Grove\WinterspringSnowRipple.TGA,-1,-1,-1,-1,0,0
 10660,20041005,30,991731445,Tileset\Deadwind Pass\DeadwindPassDirt.tga,-1,-1,-1,-1,0,0
 10674,20041005,30,1153478445,Tileset\Generic\Black.tga,-1,-1,-1,-1,0,10
+11297,20041111,30,1153478445,Tileset\Generic\Black.tga,-1,-1,-1,-1,0,0
+11275,20041111,30,1153478445,Tileset\Generic\Black.tga,-1,-1,-1,-1,0,0
+11279,20041111,30,1153478445,Tileset\Generic\Black.tga,-1,-1,-1,-1,0,0
 10659,20041005,30,1551789611,Tileset\Deadwind Pass\DeadwindPassRockBase.tga,-1,-1,-1,-1,0,2
+11280,20041111,30,1551789611,Tileset\Deadwind Pass\DeadwindPassRockBase.tga,-1,-1,-1,-1,0,0
 10662,20041005,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,2
+11302,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11291,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11285,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11282,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11277,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11272,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11269,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11264,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11260,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11379,20041214,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11359,20041207,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
+11306,20041111,30,1707884873,Tileset\IronForge\IronForgeSnow05ScrapeBrown.TGA,-1,-1,-1,-1,0,0
 7838,20040712,30,1770299320,Tileset\Winterspring Grove\WinterspringIce.TGA,-1,-1,-1,-1,0,0
+11268,20041111,30,1770299320,Tileset\Winterspring Grove\WinterspringIce.TGA,-1,-1,-1,-1,0,0
+11262,20041111,30,1770299320,Tileset\Winterspring Grove\WinterspringIce.TGA,-1,-1,-1,-1,0,0
 10663,20041005,30,1770299320,Tileset\Winterspring Grove\WinterspringIce.TGA,-1,-1,-1,-1,0,3
 7534,20040626,33,-1943713774,Tileset\SilverPine\SilverPineCropBase.TGA,-1,-1,-1,-1,0,0
 7522,20040626,33,-1640034600,Tileset\SilverPine\SilverPineShore.TGA,-1,-1,-1,-1,0,0
@@ -8368,6 +8438,7 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 9045,20040818,329,1586961951,Tileset\PlagueLandsEast\EastPlaguedCreep01.TGA,-1,-1,-1,-1,0,0
 9028,20040818,329,1741894447,Tileset\PlagueLandsWest\WestPlaguedMudGrassHighlight.tga,-1,-1,-1,-1,0,0
 9037,20040818,329,2023907837,Tileset\AlteracMtns\AlteracRockBase.tga,-1,-1,-1,-1,0,0
+11340,20041117,451,-2120662563,Tileset\ZulAman\ZulAmanDirtBase.TGA,-1,-1,-1,-1,0,0
 6032,20040525,451,-2106936086,Tileset\Kalidar\KalidarWoodGold.TGA,-1,-1,-1,-1,0,4
 5996,20040525,451,-1979631862,Tileset\Elwynn\ElwynnRockBaseTest2.tga,-1,-1,-1,-1,0,0
 7332,20040626,451,-1979631862,Tileset\Elwynn\ElwynnRockBaseTest2.tga,-1,-1,-1,-1,0,0
@@ -8396,13 +8467,15 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 7333,20040626,451,-92794705,Tileset\Elwynn\ElwynnFlowerBase.tga,-1,-1,-1,-1,0,0
 5983,20040525,451,-47374851,Tileset\Westwood\WestFallRubbleBase.tga,-1,-1,-1,-1,0,0
 6030,20040525,451,133034880,Tileset\Generic\Grey.tga,-1,-1,-1,-1,0,1
+11339,20041117,451,165013594,Tileset\ZulAman\ZulAmanGrassHighlight.TGA,-1,-1,-1,-1,0,0
 5980,20040525,451,252135659,Tileset\Westwood\AlphaWestFallLeaf.tga,-1,-1,-1,-1,0,0
 5985,20040525,451,728885973,Tileset\Westwood\WestFallStrawBase.tga,-1,-1,-1,-1,0,0
 5982,20040525,451,755811417,Tileset\Westwood\WestFallDirtBase.tga,-1,-1,-1,-1,0,0
 7327,20040626,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,0,0
 7330,20040626,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,0,0
-11179,20041020,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,0,0
 11178,20041020,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,0,0
+11179,20041020,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,0,0
+11341,20041117,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,0,0
 7331,20040626,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,0,0
 7328,20040626,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,0,0
 5987,20040525,451,941670396,Tileset\Westwood\WestFallCropBase.tga,-1,-1,-1,-1,0,0
@@ -8416,28 +8489,29 @@ ID,Datestamp,ContinentID,TextureID,TextureName,DoodadID[0],DoodadID[1],DoodadID[
 6029,20040525,451,1296069330,Tileset\UnGoro\UnGoroDirt.tga,-1,-1,-1,-1,0,0
 6033,20040525,451,1367570123,Tileset\Duskwallow Marsh\DuskwallowMuck.tga,-1,-1,-1,-1,0,8
 7329,20040626,451,1902476840,Tileset\ZulAman\ZulAmanGrassBase.TGA,-1,-1,-1,-1,0,0
+11338,20041117,451,1902476840,Tileset\ZulAman\ZulAmanGrassBase.TGA,-1,-1,-1,-1,0,0
 5486,20040421,451,1920421436,Tileset\Feralas\FeralasBrush.tga,227,229,226,234,8,5
 5483,20040421,451,2113733491,Tileset\Feralas\FeralasDirt.TGA,235,230,235,230,8,0
 5978,20040525,451,2135155090,Tileset\Westwood\WestFallRockBase.tga,-1,-1,-1,-1,0,0
-670,20040817,451,-2120662563,Tileset\ZulAman\ZulAmanDirtBase.TGA,-1,1,13,13,8,0
+670,20041117,451,-2120662563,Tileset\ZulAman\ZulAmanDirtBase.TGA,-1,1,13,13,8,0
 972,20020814,451,-1363319748,Tileset\Stranglethorn\StrangleThornCobbleStoneRoad.tga,-1,-1,-1,-1,0,2
 967,20040421,451,-1207261478,Tileset\Westwood\WestFallSandBase.tga,-1,-1,-1,-1,0,2
-691,20040817,451,-1095065661,Tileset\Elwynn\ElwynnGrassBase.tga,3,3,3,3,8,5
-2527,20040817,451,-907442974,Tileset\Elwynn\ElwynnCrop92.tga,-1,-1,-1,-1,0,0
+691,20041117,451,-1095065661,Tileset\Elwynn\ElwynnGrassBase.tga,3,3,3,3,8,5
+2527,20041117,451,-907442974,Tileset\Elwynn\ElwynnCrop92.tga,-1,-1,-1,-1,0,0
 969,20020814,451,-517319186,Tileset\Stranglethorn\StrangleThornplantsAlpha01.tga,-1,-1,-1,-1,0,5
-2526,20040817,451,-498877378,Tileset\Elwynn\ElwynnDirtBase2.tga,-1,-1,-1,-1,0,0
+2526,20041117,451,-498877378,Tileset\Elwynn\ElwynnDirtBase2.tga,-1,-1,-1,-1,0,0
 692,20030609,451,-151689395,Tileset\ZulAman\ZulAmanRoadBase.TGA,-1,-1,-1,-1,8,2
 970,20020906,451,78077765,Tileset\Stranglethorn\StrangleThornMossroot01.tga,-1,-1,-1,-1,0,5
-669,20040817,451,165013594,Tileset\ZulAman\ZulAmanGrassHighlight.TGA,1,-1,1,13,8,5
+669,20041117,451,165013594,Tileset\ZulAman\ZulAmanGrassHighlight.TGA,1,-1,1,13,8,5
 990,20020820,451,268624807,Tileset\Stranglethorn\StrangleThornMossroot01Alpha.tga,-1,-1,-1,-1,0,5
 971,20020814,451,623100232,Tileset\Generic\CausticTest.tga,-1,-1,-1,-1,0,2
-2528,20040817,451,728885973,Tileset\Westwood\WestFallStrawBase.tga,-1,-1,-1,-1,0,0
-667,20040817,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,8,2
+2528,20041117,451,728885973,Tileset\Westwood\WestFallStrawBase.tga,-1,-1,-1,-1,0,0
+667,20041117,451,791167638,Tileset\ZulAman\ZulAmanRockBase.TGA,-1,-1,-1,-1,8,2
 966,20020906,451,962353784,Tileset\Stranglethorn\StrangleThornDirt03.tga,-1,-1,-1,-1,0,0
-2529,20040817,451,983336491,Tileset\Elwynn\ElwynnCobbleStoneBase.tga,-1,-1,-1,-1,0,0
-690,20040817,451,1040676057,Tileset\Elwynn\ElwynnDirtBase.tga,7,7,7,7,8,0
+2529,20041117,451,983336491,Tileset\Elwynn\ElwynnCobbleStoneBase.tga,-1,-1,-1,-1,0,0
+690,20041117,451,1040676057,Tileset\Elwynn\ElwynnDirtBase.tga,7,7,7,7,8,0
 968,20020906,451,1492807921,Tileset\Stranglethorn\StrangleThornRock05.tga,-1,-1,-1,-1,0,2
-668,20040817,451,1902476840,Tileset\ZulAman\ZulAmanGrassBase.TGA,-1,1,13,13,8,5
+668,20041117,451,1902476840,Tileset\ZulAman\ZulAmanGrassBase.TGA,-1,1,13,13,8,5
 10884,20040925,469,-1979631862,Tileset\Elwynn\ElwynnRockBaseTest2.tga,-1,-1,-1,-1,0,0
 10881,20040925,469,-1838329702,Tileset\IronForge\IronForgeSnow01solid.TGA,-1,-1,-1,-1,0,0
 10784,20040923,469,-1603837609,Tileset\The Badlands\BadlandsSand.TGA,-1,-1,-1,-1,0,0

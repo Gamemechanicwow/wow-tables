@@ -1,4 +1,7 @@
 ID,TextureFilename
+162,Interface\Icons\Ability_Repair
+163,Interface\Icons\Ability_PoisonSting
+164,Interface\Icons\Spell_Shadow_Twilight
 165,Interface\Icons\Spell_Nature_ChainLightning
 166,Interface\Icons\Ability_Devour
 167,Interface\Icons\Spell_Holy_Dizzy
@@ -627,6 +630,10 @@ ID,TextureFilename
 1661,Interface\Icons\Racial_Troll_Berserk
 1662,Interface\Icons\Racial_Orc_BerserkerStrength
 1663,Interface\Icons\INV_Hammer_05
+1664,Interface\Icons\INV_Hammer_01
+1665,Interface\Icons\INV_Ammo_Snowball
+1666,Interface\Icons\INV_Boots_05
+1667,Interface\Icons\INV_Gizmo_07
 1,Interface\Icons\Temp
 9,Interface\Icons\Spell_Shadow_BlackPlague
 10,Interface\Icons\Spell_Nature_NaturesBlessing
@@ -781,6 +788,8 @@ ID,TextureFilename
 159,Interface\Icons\Spell_Holy_Retribution
 160,Interface\Icons\Spell_Shadow_CorpseExplode
 161,Interface\Icons\Ability_TownWatch
-162,Interface\Icons\Ability_Repair
-163,Interface\Icons\Ability_PoisonSting
-164,Interface\Icons\Spell_Shadow_Twilight
+1670,Interface\Icons\INV_Potion_03
+1671,Interface\Icons\INV_Misc_Herb_07
+1672,Interface\Icons\INV_Jewelry_Talisman_08
+1668,Interface\Icons\INV_Shield_10
+1669,Interface\Icons\Spell_Holy_PrayerOfFortitude

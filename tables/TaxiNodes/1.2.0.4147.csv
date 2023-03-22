@@ -65,6 +65,8 @@ ID,ContinentID,Pos[0],Pos[1],Pos[2],Name_lang[0]
 24,0,-6666,-2222.3,278.6,Generic, World target for Zeppelin Paths
 34,1,-1965.17,-5824.29,-1.06,The Barrens, Ratchet to Booty Bay Boat
 54,1,-4203.87,3284,-12.86,Feralas, Feathermoon Stronghold - Boat
-59,30,574.21,-46.65,37.61,Alliance Stronghold, Alterac Valley
-60,30,-1335.44,-319.69,90.66,Horde Stronghold, Alterac Valley
-69,1,7474.36,-2118.68,491.75,Moonglade
+59,30,574.21,-46.65,37.61,Dun Baldar, Alterac Valley
+60,30,-1335.44,-319.69,90.66,Frostwolf Keep, Alterac Valley
+69,1,7469.86,-2122.75,492.34,Moonglade
+70,0,-7504.03,-2187.54,165.53,Flame Crest, Burning Steppes
+71,0,-8364.61,-2738.35,185.46,Morgan's Vigil, Burning Steppes

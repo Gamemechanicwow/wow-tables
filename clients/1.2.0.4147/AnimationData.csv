@@ -14,6 +14,10 @@ ID,Name,Weaponflags,Bodyflags,Field_0_7_0_3694_004,Flags,Fallback
 201,Submerge,0,0,0,3,0
 202,Submerged,0,0,0,3,0
 197,EmoteDanceOnce,0,0,0,0,69
+204,ArrowBirth,0,0,0,0,0
+205,GroupArrowBirth,0,0,0,0,0
+206,CorpseArrowBirth,0,0,0,0,0
+207,GuideArrowBirth,0,0,0,0,0
 195,EmoteTrain,0,0,0,3,0
 196,EmoteDead,0,0,0,2,1
 169,Sway,0,0,0,0,0
