@@ -1,4 +1,5 @@
 ItemButtonName,SlotIcon,SlotNumber
+AmmoSlot,interface\paperdoll\UI-PaperDoll-Slot-Ranged.blp,0
 HeadSlot,interface\paperdoll\UI-PaperDoll-Slot-Head.blp,1
 NeckSlot,interface\paperdoll\UI-PaperDoll-Slot-Neck.blp,2
 ShoulderSlot,interface\paperdoll\UI-PaperDoll-Slot-Shoulder.blp,3

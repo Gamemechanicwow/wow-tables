@@ -1,6 +1,6 @@
 ID,Xp,Factor,OutdoorHours,InnHours,Name_lang[0],Threshold
 1,10000,2,-1,8,Rested,0
-2,13333,1.5,-1,6,Normal,0
-3,20000,1,8,4,Tired,0
+2,13333,1,-1,6,Normal,0
+3,20000,1,8,4,XXXTired,0
 4,40000,0.5,4,2,XXXTired,0
 5,-1,0.25,0,0,XXXExhausted,0
