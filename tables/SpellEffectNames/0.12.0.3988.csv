@@ -1,8 +1,17 @@
 EnumID,Name_lang[0]
 93,Summon Phantasm
 94,Self Resurrect
+104,Summon Object (slot 1)
+107,Summon Object (slot 4)
+108,Dispel Mechanic
+9,Health Leech
+110,Destroy All Totems
+111,Durability Damage
 95,Skinning
 96,Charge
+102,Dismiss Pet
+105,Summon Object (slot 2)
+106,Summon Object (slot 3)
 0,None
 1,Instakill
 2,School Damage
@@ -10,8 +19,8 @@ EnumID,Name_lang[0]
 4,Portal Teleport
 5,Teleport Units
 6,Apply Aura
+7,Environmental Damage
 8,Power Drain
-9,Health Leech
 10,Heal
 11,Bind
 12,Portal
@@ -19,7 +28,6 @@ EnumID,Name_lang[0]
 14,Ritual Specialize
 15,Ritual Activate Portal
 16,Quest Complete
-17,Weapon Damage + (noschool)
 18,Resurrect
 19,Extra Attacks
 20,Dodge
@@ -30,18 +38,14 @@ EnumID,Name_lang[0]
 25,Weapon
 26,Defense
 27,Persistent Area Aura
-28,Summon
 29,Leap
 30,Energize
 31,Weapon % Dmg
 32,Trigger Missile
-33,Open Lock
-34,Summon Mount (OBSOLETE)
 35,Apply Area Aura
 36,Learn Spell
 37,Spell Defense
 38,Dispel
-39,Language
 40,Dual Wield
 41,Summon Wild
 42,Summon Guardian
@@ -50,50 +54,58 @@ EnumID,Name_lang[0]
 47,Spell Cast UI
 48,Stealth
 49,Detect
-50,Summon Object
 51,Force Critical Hit
 52,Guarantee Hit
-53,Enchant Item Permanent
 54,Enchant Item Temporary
 55,Tame Creature
 56,Summon Pet
 57,Learn Pet Spell
 58,Weapon Damage +
-59,Open Lock (Item)
 60,Proficiency
 61,Send Event
 62,Power Burn
 63,Threat
 64,Trigger Spell
-65,Health Funnel
-66,Mana Funnel
+66,Power Funnel
 67,Heal Max Health
 68,Interrupt Cast
 69,Distract
 70,Pull
-71,Pickpocket
 72,Add Farsight
 73,Summon Possessed
 74,Summon Totem
-75,Heal Mechanical
 76,Summon Object (Wild)
 77,Script Effect
 78,Attack
 79,Sanctuary
 80,Add Combo Points
-81,Create House
 82,Bind Sight
 83,Duel
 84,Stuck
 85,Summon Player
-86,Activate Object
-87,Summon Totem (slot 1)
 88,Summon Totem (slot 2)
 89,Summon Totem (slot 3)
 90,Summon Totem (slot 4)
 91,Threat (All)
 92,Enchant Held Item
+101,Feed Pet
+17,Weapon Damage + (noschool)
+28,Summon
+33,Open Lock
+39,Language
+50,Summon Object
+53,Enchant Item Permanent
+59,Open Lock (Item)
+65,Health Funnel
+71,Pickpocket
+75,Heal Mechanical
+81,Create House
+86,Activate Object
+87,Summon Totem (slot 1)
+103,Reputation
+112,Summon Demon
 97,Summon Critter
 98,Knock Back
 99,Disenchant
 100,Inebriate
+109,Summon Dead Pet
