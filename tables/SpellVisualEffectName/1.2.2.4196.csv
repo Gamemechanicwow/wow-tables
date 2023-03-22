@@ -467,6 +467,7 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 103,SummonPet PreCast Impact Base,Spells\SummonPet_Impact_Base.mdx,0,1
 104,zzOLD__DismemberBlood_Impact_Chest,Particles\DismemberBlood_Impact_Chest.mdl,0,1
 105,Footstep Spray Dirt Run,Particles\FootstepSprayDirt.mdl,4,1
+2702,HARDCODED Meeting Stone Join,Spells\Bind_Impact_Base.mdx,0,0
 717,Ghost_state,Spells\Ghost_state.mdx,0,0
 718,Mana Shield State Base,Spells\ManaShield_State_Base.mdx,0,0
 719,Dampen Magic Impact Base,Spells\DampenMagic_Impact_Base.mdx,0,0
@@ -518,6 +519,10 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 2423,Light Test,spells\lighttest.mdx,0,1
 2542,Consecration Impact Base,spells\consecration_impact_base.mdx,0,1
 2562,Deterrence State Base,Spells\Deterrence_State_Base.mdx,0,1
+2622,Missile: Hammer,spells\missile_hammer.mdx,0,1
+2662,Missile: Snowball,spells\missile_snowball.mdx,0,1
+2663,Snowball Impact Chest,spells\snowball_impact_chest.mdx,0,1
+2682,Missile: Thorns,spells\missile_thorns.mdx,0,1
 1175,Fireworks Green Dots,Spells\Fireworks_Green_01.mdx,4,0
 1178,Fireworks Yellow Rose,Spells\Fireworks_YellowRose.mdx,4,0
 1183,Mount Impact,Spells\DruidMorph_Impact_Base.mdx,0,0
@@ -553,6 +558,8 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 2583,Demonic Sacrifice Succubus Chest,Spells\DemonicSacrifice_Succubus_Chest.mdx,0,1
 2585,Stoneform State Chest,Spells\Stoneform_State_Base.mdx,0,1
 2602,Mana Shield State Chest,spells\manashield_state_chest.mdx,0,1
+2683,DustNova Cast Base,spells\dustnova_cast_base.mdx,0,1
+2684,RockyFrost Nova State,spells\rockyfrost_nova_state.mdx,0,1
 1094,Might Aura State Base,Spells\MightAura_Impact_Base.mdx,0,0
 1177,Fireworks Red Streaks,Spells\Fireworks_RedStreaks_01.mdx,4,1
 1223,HARDCODED Inebriated Bubbles,Spells\Bubble_Drunk.mdx,5,0
@@ -580,6 +587,7 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 2402,Soulstone Resurrection Base,spells\soulstoneresurrection_base.mdx,0,1
 2482,Skull Balls,Spells\Enchantments\SkullBalls.mdx,0,1
 2502,Heal Ragnaros State Chest,Spells\HealRag_State_Chest.mdx,0,1
+2642,Dragon Sand Breath,spells\corrosivesandbreath.mdx,0,1
 622,Spell Object: Wrench,Spells\SpellObject_Wrench.mdx,0,0
 623,Shadow Precast Uber Hand,Spells\Shadow_Precast_Uber_Hand.mdx,4,1
 624,Shadow ImpactDD High Chest,Spells\Shadow_ImpactDD_High_Chest.mdx,0,1

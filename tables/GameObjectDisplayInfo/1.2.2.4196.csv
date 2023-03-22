@@ -793,7 +793,7 @@ ID,ModelName,Sound[0],Sound[1],Sound[2],Sound[3],Sound[4],Sound[5],Sound[6],Soun
 322,World\Generic\QuilBoar\Passive Doodads\LeanTos\RazorFen Leanto03.mdx,0,0,0,0,0,0,0,0,0,0
 324,World\Azeroth\BurningSteppes\PassiveDoodads\Bonfire\OrcBonFireOff.mdx,0,0,0,0,0,0,0,0,0,0
 325,World\Goober\G_Torch01.mdx,0,0,4694,0,0,0,0,0,0,0
-327,World\Goober\G_JewelRed.mdx,3432,0,0,0,0,0,4815,0,0,0
+327,World\Goober\G_JewelRed.mdx,3432,0,3432,0,4815,0,4815,0,0,0
 328,World\Azeroth\BurningSteppes\PassiveDoodads\WarlockShrine\WarlockShrine.mdx,0,0,0,0,0,0,0,0,0,0
 151,World\Generic\Human\Passive Doodads\Tables\BloodyTable1.mdx,0,0,0,0,0,0,0,0,0,0
 131,World\Azeroth\Elwynn\PassiveDoodads\Catapult\Catapult.mdx,0,0,0,0,0,0,0,0,0,0
@@ -807,10 +807,12 @@ ID,ModelName,Sound[0],Sound[1],Sound[2],Sound[3],Sound[4],Sound[5],Sound[6],Soun
 3791,World\Generic\Orc\Passive Doodads\BarrelsandCrates\OrcCrateBroken01.mdx,0,0,0,0,0,0,0,0,0,0
 660,WORLD\KHAZMODAN\IRONFORGE\PASSIVEDOODADS\SIGNPOSTS\IRONFORGESIGNPOSTPOINTER.MDX,0,0,0,0,0,0,0,0,0,0
 1189,WORLD\AZEROTH\DUSKWOOD\PASSIVEDOODADS\MAUSOLEUM\MAUSOLEUMACTIVEDOORS.MDX,0,4678,0,4714,0,0,0,0,0,0
-3812,WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\CORRUPTEDPLANTS\MARAUDONSPEWERTREE.MDX,0,0,0,0,0,0,0,0,0,0
+3812,WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\CORRUPTEDPLANTS\MARAUDONSPEWERTREE.MDX,0,0,0,0,7357,0,0,0,0,0
+3813,WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\CORRUPTEDPLANTS\MARAUDONSPORETREE.MDX,0,0,0,0,7358,0,0,0,0,0
 469,World\Generic\NightElf\Passive Doodads\Ruins\NewElfRuin03.mdx,0,0,0,0,0,0,0,0,0,0
 748,WORLD\AZEROTH\BOOTYBAY\PASSIVEDOODAD\HARPOONS\HARPOON01.MDX,0,0,0,0,0,0,0,0,0,0
-4192,World\Generic\ActiveDoodads\Chest04\Chest04.mdx,0,0,0,0,0,0,0,0,0,0
+5431,World\Generic\PassiveDoodads\ParticleEmitters\FeralasLightYellow.mdx,0,0,0,0,0,0,0,0,0,0
+5451,World\Generic\PassiveDoodads\Christmas\Xmas_lights_broken3X.mdx,0,0,0,0,0,0,0,0,0,0
 887,World\Kalimdor\Azshara\SeaPlants\CoralTree01_06\CoralTree01_06.mdx,0,0,0,0,0,0,0,0,0,0
 2474,World\Azeroth\DeadwindPass\PassiveDoodads\Trees\DeadwindPassMidTree02.mdx,0,0,0,0,0,0,0,0,0,0
 2590,World\Azeroth\Stranglethorn\PassiveDoodads\CrystalCreatures\CrystallizedTroll01.mdx,0,0,0,0,0,0,0,0,0,0
@@ -852,10 +854,6 @@ ID,ModelName,Sound[0],Sound[1],Sound[2],Sound[3],Sound[4],Sound[5],Sound[6],Soun
 138,World\Azeroth\Westfall\PassiveDoodads\WestfallChair\WestfallChair.mdx,0,0,0,0,0,0,0,0,0,0
 148,World\Azeroth\SwampOSorrow\PassiveDoodads\Plants\SwampSorrowRoot02.mdx,0,0,0,0,0,0,0,0,0,0
 3533,World\Kalimdor\Darkshore\PassiveDoodads\SeaMonsterCarcass\DarkshoreSeaMonster01.mdx,0,0,0,0,0,0,0,0,0,0
-4094,World\Generic\PassiveDoodads\Lights\FreestandingTorch01.mdx,0,0,0,0,0,0,0,0,0,0
-4095,World\Generic\Ogre\Passive Doodads\Torches\OgreWallTorchpurple.mdx,0,0,0,0,0,0,0,0,0,0
-3691,World\Kalimdor\Mauradon\PassiveDoodads\Crystals\RubyCrystal02.mdx,0,0,0,0,0,0,0,0,0,0
-4131,World\Generic\Human\Passive Doodads\Dolls\ragdoll01.mdx,0,0,0,0,0,0,0,0,0,0
 4132,WORLD\KALIMDOR\SILITHUS\ACTIVEDOODADS\AHNQIRAJDOOR\AHN_QIRAJ_DOORPLUG.MDX,0,7115,0,0,0,0,0,0,0,0
 4133,WORLD\KALIMDOR\SILITHUS\ACTIVEDOODADS\AHNQIRAJDOOR\AHN_QIRAJ_DOORROOTS.MDX,0,7114,0,0,0,0,0,0,0,0
 4134,WORLD\KALIMDOR\SILITHUS\ACTIVEDOODADS\AHNQIRAJDOOR\AHN_QIRAJ_DOORRUNES.MDX,0,7116,0,0,0,0,0,0,0,0
@@ -872,73 +870,98 @@ ID,ModelName,Sound[0],Sound[1],Sound[2],Sound[3],Sound[4],Sound[5],Sound[6],Soun
 4111,World\Lordaeron\TirisfalGlade\PassiveDoodads\Gloomweed\Gloomweed01.mdx,0,0,0,0,0,0,0,0,0,0
 4155,World\Kalimdor\Darkshore\GiantSeaTurtle\GiantSeaTurtle04.mdx,0,0,0,0,0,0,0,0,0,0
 4176,World\Goober\G_TentBurninator.mdx,0,0,0,0,0,0,0,0,0,0
+4177,World\Generic\Human\Passive Doodads\CannonBallStack\DeadMineCannonBallStack.mdx,0,0,0,0,0,0,0,0,0,0
+4211,World\Lordaeron\Plagueland\PassiveDoodads\BloodOfHeroes\BloodOfHeroes.mdx,0,0,0,0,0,0,0,0,0,0
 3512,World\Kalimdor\Darkshore\ThreshadonCorpse\DarkshoreThreshadonCorpse.mdx,0,0,0,0,0,0,0,0,0,0
-3813,WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\CORRUPTEDPLANTS\MARAUDONSPORETREE.MDX,0,0,0,0,0,0,0,0,0,0
-3831,WORLD\GENERIC\GNOME\PASSIVE DOODADS\SUBWAY\SUBWAYCAR.MDX,0,0,0,0,0,0,0,0,0,0
-4271,World\ENVIRONMENT\DOODAD\PLAGUELANDS\ActiveDoodads\PlagueCauldronActive.mdx,0,0,0,0,0,0,7321,0,0,0
+5452,World\Azeroth\Elwynn\PassiveDoodads\Signs\GenericPosts\GenericSmallSignPost01.mdx,0,0,0,0,0,0,0,0,0,0
+5454,World\Generic\PassiveDoodads\Christmas\XmasRopeLinePole.mdx,0,0,0,0,0,0,0,0,0,0
+5455,World\NoDXT\Generic\PassiveDoodads\VolumetricLights\DarnassisLightShaft.mdx,0,0,0,0,0,0,0,0,0,0
+5456,World\NoDXT\Generic\PassiveDoodads\VolumetricLights\LD_lightshaft01.mdx,0,0,0,0,0,0,0,0,0,0
+5457,World\NoDXT\Generic\PassiveDoodads\VolumetricLights\LD_lightshaft02.mdx,0,0,0,0,0,0,0,0,0,0
+5471,World\Azeroth\Karazahn\PassiveDoodads\GrainSacks\KN_GrainSack02.mdx,0,0,0,0,0,0,0,0,0,0
+5492,World\Generic\ActiveDoodads\MeetingStones\Meetingstone01.mdx,0,0,0,0,0,0,0,0,0,0
+5493,World\Generic\Human\Passive Doodads\Food\Pie01.mdx,0,0,0,0,0,0,0,0,0,0
+5494,World\Generic\ActiveDoodads\MeetingStones\Meetingstone04.mdx,0,0,0,0,0,0,0,0,0,0
+5496,World\Generic\Orc\Passive Doodads\Roasts\RoastBoar.mdx,0,0,0,0,0,0,0,0,0,0
+4192,World\Generic\ActiveDoodads\Chest04\Chest04.mdx,0,0,0,0,0,0,0,0,0,0
 4311,World\Azeroth\Elwynn\PassiveDoodads\Detail\ElwynnDetailRocks\ElwynnDetailRock01.mdx,0,0,0,0,0,0,0,0,0,0
 4312,World\Azeroth\Elwynn\PassiveDoodads\Detail\ElwynnDetailRocks\ElwynnDetailRock02.mdx,0,0,0,0,0,0,0,0,0,0
 4313,World\Azeroth\Elwynn\PassiveDoodads\BattleGladeBanner1\BattleGladeBanner1.mdx,0,0,0,0,0,0,0,0,0,0
 4314,World\Azeroth\Elwynn\PassiveDoodads\BattleGladeBanner2\BattleGladeBanner2.mdx,0,0,0,0,0,0,0,0,0,0
+3831,WORLD\GENERIC\GNOME\PASSIVE DOODADS\SUBWAY\SUBWAYCAR.MDX,0,0,0,0,0,0,0,0,0,0
+4271,World\ENVIRONMENT\DOODAD\PLAGUELANDS\ActiveDoodads\PlagueCauldronActive.mdx,0,0,0,0,0,0,7321,0,0,0
 4316,World\Azeroth\Westfall\PassiveDoodads\Rocks\WestFallBoulder02.mdx,0,0,0,0,0,0,0,0,0,0
 4317,,0,0,0,0,0,0,0,0,0,0
 4319,World\Outland\PassiveDoodads\Rocks\floatingrocklarge01.mdx,0,0,0,0,0,0,0,0,0,0
 4321,World\Azeroth\BootyBay\PassiveDoodad\DeadFish\FishDeadGreen.mdx,0,0,0,0,0,0,0,0,0,0
-2730,WORLD\AZEROTH\BURNINGSTEPPES\PASSIVEDOODADS\BURNINGGIANTWHEEL\BURNINGGIANTWHEEL.MDX,0,0,0,0,0,0,0,0,0,0
 429,World\Generic\Murloc\Passive Doodads\Pearl\GreatPearl_01.mdx,0,0,0,0,0,0,0,0,0,0
+2730,WORLD\AZEROTH\BURNINGSTEPPES\PASSIVEDOODADS\BURNINGGIANTWHEEL\BURNINGGIANTWHEEL.MDX,0,0,0,0,0,0,0,0,0,0
+3971,WORLD\GENERIC\HUMAN\PASSIVE DOODADS\BRAZIERS\HUMANBRAZIERCORRUPT.MDX,0,0,0,0,0,0,0,0,0,0
 3952,World\SkillActivated\TradeskillNodes\RichThorium_Miningnode_01.mdx,0,0,0,0,0,0,0,0,0,0
 3871,World\Goober\G_BookOpenMediumRed.mdx,0,0,0,0,0,0,0,0,0,0
 3911,World\KhazModan\Blackrock\PassiveDoodads\WarchiefsHead\WarchiefRendsHead.mdx,0,0,0,0,0,0,0,0,0,0
-3971,WORLD\GENERIC\HUMAN\PASSIVE DOODADS\BRAZIERS\HUMANBRAZIERCORRUPT.MDX,0,0,0,0,0,0,0,0,0,0
 3972,World\Goober\G_SoundObject.mdx,0,0,0,0,0,0,0,0,0,0
 4011,World\Generic\Human\Passive Doodads\Anchor\DeadMineAnchor.mdx,0,0,0,0,0,0,0,0,0,0
-4395,World\Generic\ActiveDoodads\SpellPortals\MagePortal_Ogrimmar.mdx,0,0,0,0,0,0,0,0,0,0
-4396,World\Generic\ActiveDoodads\SpellPortals\MagePortal_Stormwind.mdx,0,0,0,0,0,0,0,0,0,0
-4397,World\Generic\ActiveDoodads\SpellPortals\MagePortal_ThunderBluff.mdx,0,0,0,0,0,0,0,0,0,0
-4398,World\Generic\ActiveDoodads\SpellPortals\MagePortal_UnderCity.mdx,0,0,0,0,0,0,0,0,0,0
-4411,World\Generic\Ogre\ActiveDoodads\OgreHead\GlowingOgreHead.mdx,0,0,0,0,0,0,0,0,0,0
-4412,WORLD\KALIMDOR\ORGRIMMAR\PASSIVEDOODADS\DOORS\ORGRIMMARDOOR.MDX,0,0,0,0,0,0,0,0,0,0
+4094,World\Generic\PassiveDoodads\Lights\FreestandingTorch01.mdx,0,0,0,0,0,0,0,0,0,0
+4095,World\Generic\Ogre\Passive Doodads\Torches\OgreWallTorchpurple.mdx,0,0,0,0,0,0,0,0,0,0
+3691,World\Kalimdor\Mauradon\PassiveDoodads\Crystals\RubyCrystal02.mdx,0,0,0,0,0,0,0,0,0,0
+4131,World\Generic\Human\Passive Doodads\Dolls\ragdoll01.mdx,0,0,0,0,0,0,0,0,0,0
 4413,WORLD\GENERIC\HUMAN\PASSIVE DOODADS\STORMWIND\STORMWINDDOOR.MDX,0,0,0,0,0,0,0,0,0,0
 4631,World\Goober\G_Keg.mdx,0,0,0,0,0,0,0,0,0,0
 4652,World\SkillActivated\TradeskillNodes\Bush_Sansam.mdx,0,0,0,0,0,0,0,0,0,0
 4671,WORLD\GENERIC\TAUREN\PASSIVE DOODADS\TAURENWALLSCROLLS\TAURENWALLSCROLL01BLUE.MDX,0,0,0,0,0,0,0,0,0,0
 4672,WORLD\GENERIC\TAUREN\PASSIVE DOODADS\TAURENWALLSCROLLS\TAURENWALLSCROLL02BLUE.MDX,0,0,0,0,0,0,0,0,0,0
+4331,World\Lordaeron\Plagueland\PassiveDoodads\PlagueCauldron\PlagueCauldron.mdx,0,0,0,0,0,0,0,0,0,0
 4351,WORLD\GENERIC\ORC\PASSIVE DOODADS\MEATRACKS\RAWMEATRACK01.MDX,0,0,0,0,0,0,0,0,0,0
+4371,World\ENVIRONMENT\DOODAD\GENERALDOODADS\HelpWantedPoster\Helpwantedposter.mdx,0,0,0,0,0,0,0,0,0,0
+3152,WORLD\GOOBER\DARKIRONKEGSHOTGUN.MDX,0,6489,0,0,0,0,0,0,0,0
+5261,World\Generic\PassiveDoodads\Christmas\XmasStocking02.mdx,0,0,0,0,0,0,0,0,0,0
+5262,World\Generic\PassiveDoodads\Christmas\XmasStocking03.mdx,0,0,0,0,0,0,0,0,0,0
+5263,World\Generic\PassiveDoodads\Christmas\G_XmasWreath.mdx,0,0,0,0,0,0,0,0,0,0
+5264,World\Generic\PassiveDoodads\Christmas\Xmas_lights.mdx,0,0,0,0,0,0,0,0,0,0
+5254,World\Generic\PassiveDoodads\Christmas\XmasGift01.mdx,0,0,0,0,0,0,0,0,0,0
+5255,World\Generic\PassiveDoodads\Christmas\XmasGift02.mdx,0,0,0,0,0,0,0,0,0,0
+5256,World\Generic\PassiveDoodads\Christmas\XmasGift03.mdx,0,0,0,0,0,0,0,0,0,0
+5258,World\Generic\PassiveDoodads\Christmas\XmasGift05.mdx,0,0,0,0,0,0,0,0,0,0
+5259,World\Generic\PassiveDoodads\Christmas\XmasGift06.mdx,0,0,0,0,0,0,0,0,0,0
+5260,World\Generic\PassiveDoodads\Christmas\XmasStocking01.mdx,0,0,0,0,0,0,0,0,0,0
+5265,World\Generic\Human\Passive Doodads\Globes\Globe01.mdx,0,0,0,0,0,0,0,0,0,0
+5271,World\Generic\Orc\Passive Doodads\BarrelsandCrates\OrcCrate06.mdx,0,0,0,0,0,0,0,0,0,0
+5291,World\Dungeon\CavernsOfTime\PassiveDoodads\DarkPortal\COT_portalparticles.mdx,0,0,0,0,0,0,0,0,0,0
+5311,World\Generic\Gnome\Passive Doodads\HazardLights\GnomeHazardLight01.mdx,0,0,0,0,0,0,0,0,0,0
+5312,World\Generic\PassiveDoodads\Christmas\Xmas_lights_broken.mdx,0,0,0,0,0,0,0,0,0,0
+5313,World\Kalimdor\Azshara\PassiveDoodads\Anemone\Anemone01.mdx,0,0,0,0,0,0,0,0,0,0
+5314,World\Generic\PassiveDoodads\Christmas\mistletoe.mdx,0,0,0,0,0,0,0,0,0,0
+5315,World\Generic\PassiveDoodads\Christmas\XmasTree_MediumAlliance01.mdx,0,0,0,0,0,0,0,0,0,0
+5316,World\Generic\PassiveDoodads\Christmas\XmasTree_LargeAlliance01White.mdx,0,0,0,0,0,0,0,0,0,0
+3912,WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\CORRUPTEDPLANTS\MARAUDONSPAWNERTREE.MDX,0,0,0,0,7356,0,0,0,0,0
+4732,World\Generic\PassiveDoodads\Furniture\Containers\exploding_package.mdx,0,0,0,0,7337,0,0,0,0,0
+4751,WORLD\KALIMDOR\HYJAL\ACTIVEDOODADS\DOORS\HYJALGATE.MDX,0,0,0,0,0,0,0,0,0,0
+4291,World\Kalimdor\Winterspring\ActiveDoodads\Altar\WinterspringAltar01.mdx,0,0,0,0,0,0,0,0,0,0
+4811,World\Kalimdor\Timbermaw\PassiveDoodads\TimbermawFlowers\TimbermawFlower02.mdx,0,0,0,0,0,0,0,0,0,0
 4352,WORLD\GENERIC\ORC\PASSIVE DOODADS\TABLECOOKER\ORCTABLECOOKER01.MDX,0,0,0,0,0,0,0,0,0,0
 4391,World\Generic\Undead\Passive Doodads\UndeadAlchemyTable\undead_alchemy_table.mdx,0,0,0,0,0,0,0,0,0,0
+207,World\Azeroth\BurningSteppes\PassiveDoodads\LavaShrine\LavaShrine01.mdx,0,0,0,0,0,0,0,0,0,0
+305,World\SkillActivated\TradeskillEnablers\Tradeskill_Forge_03.mdx,0,0,0,0,0,0,0,0,0,0
 4452,World\Lordaeron\Stratholme\PassiveDoodads\FX\StratholmeFireSmokeEmberM.mdx,0,0,0,0,0,0,0,0,0,0
+294,World\Generic\PassiveDoodads\Gallows\Gallows01.mdx,0,0,0,0,0,0,0,0,0,0
+4453,World\Kalimdor\Desolace\PassiveDoodads\KodoGraveBones\KodoGrave06.mdx,0,0,0,0,0,0,0,0,0,0
 4471,World\Generic\PassiveDoodads\ParticleEmitters\AuraPurple.mdx,0,0,0,0,0,0,0,0,0,0
 4491,World\Goober\G_Mortar.mdx,0,0,0,0,7316,0,0,0,0,0
 4635,World\SkillActivated\TradeskillNodes\Bush_DreamFoil.mdx,0,0,0,0,0,0,0,0,0,0
 4651,World\Generic\Dwarf\Passive Doodads\ExcavationBarrierPlank\ExcavationBarrierPlank.mdx,0,0,0,0,0,0,0,0,0,0
-294,World\Generic\PassiveDoodads\Gallows\Gallows01.mdx,0,0,0,0,0,0,0,0,0,0
-4453,World\Kalimdor\Desolace\PassiveDoodads\KodoGraveBones\KodoGrave06.mdx,0,0,0,0,0,0,0,0,0,0
 4653,WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\DOORS\DIREMAULSMALLINSTANCEDOOR.MDX,0,0,0,0,0,0,0,0,0,0
-4371,World\ENVIRONMENT\DOODAD\GENERALDOODADS\HelpWantedPoster\Helpwantedposter.mdx,0,0,0,0,0,0,0,0,0,0
-4732,World\Generic\PassiveDoodads\Furniture\Containers\exploding_package.mdx,0,0,0,0,7337,0,0,0,0,0
-4751,WORLD\KALIMDOR\HYJAL\ACTIVEDOODADS\DOORS\HYJALGATE.MDX,0,0,0,0,0,0,0,0,0,0
-3152,WORLD\GOOBER\DARKIRONKEGSHOTGUN.MDX,0,6489,0,0,0,0,0,0,0,0
-3912,WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\CORRUPTEDPLANTS\MARAUDONSPAWNERTREE.MDX,0,0,0,0,0,0,0,0,0,0
-4291,World\Kalimdor\Winterspring\ActiveDoodads\Altar\WinterspringAltar01.mdx,0,0,0,0,0,0,0,0,0,0
-4811,World\Kalimdor\Timbermaw\PassiveDoodads\TimbermawFlowers\TimbermawFlower02.mdx,0,0,0,0,0,0,0,0,0,0
-4871,World\Generic\Satyr\Passive Doodads\Container\SatyrContainer01.mdx,0,0,0,0,0,0,0,0,0,0
-4872,World\Generic\Human\Passive Doodads\Books\BookMediumOpen02.mdx,0,0,0,0,0,0,0,0,0,0
-4331,World\Lordaeron\Plagueland\PassiveDoodads\PlagueCauldron\PlagueCauldron.mdx,0,0,0,0,0,0,0,0,0,0
-207,World\Azeroth\BurningSteppes\PassiveDoodads\LavaShrine\LavaShrine01.mdx,0,0,0,0,0,0,0,0,0,0
-305,World\SkillActivated\TradeskillEnablers\Tradeskill_Forge_03.mdx,0,0,0,0,0,0,0,0,0,0
-4177,World\Generic\Human\Passive Doodads\CannonBallStack\DeadMineCannonBallStack.mdx,0,0,0,0,0,0,0,0,0,0
-4211,World\Lordaeron\Plagueland\PassiveDoodads\BloodOfHeroes\BloodOfHeroes.mdx,0,0,0,0,0,0,0,0,0,0
 4031,World\Generic\Dwarf\Passive Doodads\Wardrobe\WardrobeDwarvenAverage01.mdx,0,0,0,0,0,0,0,0,0,0
 4032,World\Generic\Human\Passive Doodads\Books\BookSmallOpen04.mdx,0,0,0,0,0,0,0,0,0,0
 4072,World\Generic\Human\Passive Doodads\Vials\SmallVials.mdx,0,0,0,0,0,0,0,0,0,0
 4076,World\KhazModan\Blackrock\ActiveDoodads\AltarRitual\BlackrockAltarRitual.mdx,0,0,0,0,0,0,0,0,0,0
+4611,World\Kalimdor\DireMaul\PassiveDoodads\OgreCampfires\OgreCampfire01.mdx,0,0,0,0,0,0,0,0,0,0
 4676,World\Azeroth\Stranglethorn\PassiveDoodads\TrollDrum\TrollDrumSoundObj.mdx,0,0,0,0,0,0,0,0,0,0
 4677,WORLD\GENERIC\HUMAN\PASSIVE DOODADS\BOOKS\BOOKSMALLOPEN02.MDX,0,0,0,0,0,0,0,0,0,0
 4678,WORLD\GENERIC\GNOME\PASSIVE DOODADS\FURNITURE\GNOMECHAIR01.MDX,0,0,0,0,0,0,0,0,0,0
 4431,World\Generic\Human\Passive Doodads\Books\BookMedium07.mdx,0,0,0,0,0,0,0,0,0,0
 4511,WORLD\KALIMDOR\DIREMAUL\ACTIVEDOODADS\DOORS\DIREMAULDOOR04.MDX,0,0,0,0,0,0,0,0,0,0
 4675,World\Kalimdor\Silithus\PassiveDoodads\Gong\SilithidGong.mdx,0,0,0,0,0,0,4654,0,0,0
-4611,World\Kalimdor\DireMaul\PassiveDoodads\OgreCampfires\OgreCampfire01.mdx,0,0,0,0,0,0,0,0,0,0
 4691,World\wmo\Kalimdor\Buildings\NightElfMoonWell\DSNightElfMoonWellOrnate.wmo,0,0,0,0,0,0,0,0,0,0
 4711,World\Generic\ActiveDoodads\InstancePortal\InstancePortal_Red.mdx,0,0,0,0,0,0,0,0,0,0
 4713,World\Dungeon\CavernsOfTime\PassiveDoodads\Portal\COT_portal01.mdx,0,0,0,0,0,0,0,0,0,0
@@ -953,11 +976,34 @@ ID,ModelName,Sound[0],Sound[1],Sound[2],Sound[3],Sound[4],Sound[5],Sound[6],Soun
 4332,World\Lordaeron\Stratholme\ActiveDoodads\PostboxDestroyed\StratholmePostBoxRuined.mdx,0,0,0,0,0,0,0,0,0,0
 4393,World\Generic\ActiveDoodads\SpellPortals\MagePortal_Darnassus.mdx,0,0,0,0,0,0,0,0,0,0
 4394,World\Generic\ActiveDoodads\SpellPortals\MagePortal_Ironforge.mdx,0,0,0,0,0,0,0,0,0,0
+4395,World\Generic\ActiveDoodads\SpellPortals\MagePortal_Ogrimmar.mdx,0,0,0,0,0,0,0,0,0,0
+4396,World\Generic\ActiveDoodads\SpellPortals\MagePortal_Stormwind.mdx,0,0,0,0,0,0,0,0,0,0
+4397,World\Generic\ActiveDoodads\SpellPortals\MagePortal_ThunderBluff.mdx,0,0,0,0,0,0,0,0,0,0
+4398,World\Generic\ActiveDoodads\SpellPortals\MagePortal_UnderCity.mdx,0,0,0,0,0,0,0,0,0,0
+4411,World\Generic\Ogre\ActiveDoodads\OgreHead\GlowingOgreHead.mdx,0,0,0,0,0,0,0,0,0,0
+4412,WORLD\KALIMDOR\ORGRIMMAR\PASSIVEDOODADS\DOORS\ORGRIMMARDOOR.MDX,0,4676,0,0,0,0,0,0,0,0
 5111,World\Generic\Orc\Passive Doodads\HordeBanners\HordeBanner03.mdx,0,0,0,0,0,0,0,0,0,0
 5112,World\Azeroth\Elwynn\PassiveDoodads\WaterBasin\WaterBasin.mdx,0,0,0,0,0,0,0,0,0,0
 5113,World\Generic\Tauren\Passive Doodads\TaurenRugs\TaurenRug04.mdx,0,0,0,0,0,0,0,0,0,0
 5131,World\Generic\Satyr\Passive Doodads\Container\SatyrContainer03.mdx,0,0,0,0,0,0,0,0,0,0
 5151,World\Goober\G_BrazierOrcPurple.mdx,0,0,0,0,0,0,0,0,0,0
+5171,World\Generic\Human\Passive Doodads\WoodenDummies\GeneralWoodenDummy02.mdx,0,0,0,0,0,0,0,0,0,0
+5191,World\Generic\Dwarf\Passive Doodads\ExcavationBannerStands\ExcavationBannerStand01.mdx,0,0,0,0,0,0,0,0,0,0
+5211,World\Generic\Orc\Passive Doodads\Banners\OgreBannerSnow.mdx,0,0,0,0,0,0,0,0,0,0
+5231,World\Generic\ActiveDoodads\SpellPortals\MagePortal_Maraudon.mdx,0,0,0,0,0,0,0,0,0,0
+5251,World\Goober\G_XMasTree.mdx,0,0,0,0,0,0,0,0,0,0
+5252,World\Generic\PassiveDoodads\Christmas\XmasTree_LargeHorde01.mdx,0,0,0,0,0,0,0,0,0,0
+5253,World\Generic\PassiveDoodads\Christmas\XmasTree_LargeAlliance01.mdx,0,0,0,0,0,0,0,0,0,0
+5257,World\Generic\PassiveDoodads\Christmas\XmasGift04.mdx,0,0,0,0,0,0,0,0,0,0
+5332,World\Generic\Gnome\Passive Doodads\HazardLights\GnomeHazardLightRed.mdx,0,0,0,0,0,0,0,0,0,0
+5333,World\Generic\ActiveDoodads\Christmas\SnowBallMound01.mdx,0,0,0,0,0,0,0,0,0,0
+5351,World\Generic\PassiveDoodads\Christmas\Xmas_lightsX3.mdx,0,0,0,0,0,0,0,0,0,0
+5371,World\Generic\PassiveDoodads\Christmas\XmasTree_MediumHorde01.mdx,0,0,0,0,0,0,0,0,0,0
+5391,World\Generic\Gnome\Passive Doodads\Gears&Levers\GnomeSmallGear.mdx,0,0,0,0,0,0,0,0,0,0
+5317,WORLD\KALIMDOR\MAURADON\ACTIVEDOODADS\BUTTON\MARAUDONSTAFFCREATOR.MDX,0,7757,0,7757,0,0,0,0,0,0
+5318,WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\CORRUPTEDPLANTS\MARAUDONSPEWERTREEBOSSCOLOR.MDX,0,0,0,0,7357,0,0,0,0,0
+4871,World\Generic\Satyr\Passive Doodads\Container\SatyrContainer01.mdx,0,0,0,0,0,0,0,0,0,0
+4872,World\Generic\Human\Passive Doodads\Books\BookMediumOpen02.mdx,0,0,0,0,0,0,0,0,0,0
 4873,World\Kalimdor\Darkshore\PassiveDoodads\Anchors\DarkshoreAnchor01.mdx,0,0,0,0,0,0,0,0,0,0
 5011,World\Kalimdor\Mauradon\PassiveDoodads\Crystals\AmethystCrystal01.mdx,0,0,0,0,0,0,0,0,0,0
 5012,World\Kalimdor\Mauradon\PassiveDoodads\Crystals\AmethystCrystal02.mdx,0,0,0,0,0,0,0,0,0,0
@@ -986,7 +1032,7 @@ ID,ModelName,Sound[0],Sound[1],Sound[2],Sound[3],Sound[4],Sound[5],Sound[6],Soun
 354,World\Generic\Human\Passive Doodads\ValveSteam\DeadMineValveSteam01.mdx,0,0,0,0,0,0,3381,0,0,0
 390,World\SkillActivated\TradeskillNodes\Bush_Snakebloom01.mdx,0,0,0,0,0,0,0,0,0,0
 393,WORLD\GENERIC\HUMAN\PASSIVE DOODADS\STATUES\NORTHSHIREABBEYBUST01.MDL,0,0,0,0,0,0,0,0,0,0
-4791,WORLD\KALIMDOR\MAURADON\ACTIVEDOODADS\DOORS\STONE_DOOR01.MDX,0,0,0,0,0,0,0,0,0,0
+4791,WORLD\KALIMDOR\MAURADON\ACTIVEDOODADS\DOORS\STONE_DOOR01.MDX,0,7754,0,7755,0,0,0,0,0,0
 4891,World\Lordaeron\Scholomance\PassiveDoodads\CrystalBall\ScholomanceCrystalBall01.mdx,0,0,0,0,0,0,0,0,0,0
 412,World\Generic\Orc\Passive Doodads\RaptorEggs\WailingCavernsRaptorEggs04.mdx,0,0,0,0,0,0,0,0,0,0
 425,World\Kalimdor\Kalidar\PassiveDoodads\FelPineCone\FelPineCone.mdx,0,0,0,0,0,0,0,0,0,0
@@ -1074,3 +1120,17 @@ ID,ModelName,Sound[0],Sound[1],Sound[2],Sound[3],Sound[4],Sound[5],Sound[6],Soun
 5091,World\Dungeon\Cave\PassiveDoodads\Crystals\CaveMineCrystalFormation01.mdx,0,0,0,0,0,0,0,0,0,0
 5092,World\Dungeon\Cave\PassiveDoodads\Crystals\CaveMineCrystalFormation03.mdx,0,0,0,0,0,0,0,0,0,0
 5093,World\Azeroth\Stranglethorn\PassiveDoodads\TrollDungeonPottery\TrollDungeonPottery03.mdx,0,0,0,0,0,0,0,0,0,0
+5411,World\Kalimdor\WailingCaverns\PassiveDoodads\FangDruids\WC_DruidOfTheThunderCircle.mdx,0,0,0,0,0,0,0,0,0,0
+5495,World\Generic\ActiveDoodads\MeetingStones\Meetingstone03.mdx,0,0,0,0,0,0,0,0,0,0
+5497,World\Generic\Orc\Passive Doodads\Bongs\HookahBong01.mdx,0,0,0,0,0,0,0,0,0,0
+5498,World\Generic\ActiveDoodads\MeetingStones\Meetingstone05.mdx,0,0,0,0,0,0,0,0,0,0
+5511,World\Generic\PassiveDoodads\Furniture\Containers\Sack01.mdx,0,0,0,0,0,0,0,0,0,0
+5331,World\Generic\Gnome\Passive Doodads\HazardLights\GnomeHazardLight02.mdx,0,0,0,0,0,0,0,0,0,0
+5453,World\Generic\PassiveDoodads\Christmas\XmasRopeLine.mdx,0,0,0,0,0,0,0,0,0,0
+5512,World\Generic\Human\Passive Doodads\GunShop\GunShopAmmoBoxRedBlock.mdx,0,0,0,0,0,0,0,0,0,0
+5532,World\Generic\Orc\Passive Doodads\BarrelsandCrates\OrcBarrel04.mdx,0,0,0,0,0,0,0,0,0,0
+5212,WORLD\KALIMDOR\MAURADON\ACTIVEDOODADS\BUTTON\CENTAURTELEPORTER01.MDX,0,7756,0,0,0,0,0,0,0,0
+5491,World\Generic\ActiveDoodads\MeetingStones\Meetingstone02.mdx,0,0,0,0,0,0,0,0,0,0
+5551,WORLD\GENERIC\HUMAN\PASSIVE DOODADS\CHAIRS\GMCHAIRLOEND01.MDX,0,0,0,0,0,0,0,0,0,0
+5392,World\Generic\Human\Passive Doodads\GypsyWagons\StormwindGypsywagon01.mdx,0,0,0,0,0,0,0,0,0,0
+5531,World\Generic\Orc\Passive Doodads\BarrelsandCrates\OrcCrate07.mdx,0,0,0,0,0,0,0,0,0,0
