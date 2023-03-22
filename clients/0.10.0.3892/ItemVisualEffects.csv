@@ -1,4 +1,6 @@
 ID,Model
+81,Spells\Enchantments\Shaman_Rock.mdx
+101,Spells\Enchantments\Shaman_Wind.mdx
 1,Spells\Enchantments\BlueGlow_High.mdx
 2,Spells\Enchantments\BlueGlow_Low.mdx
 3,Spells\Enchantments\BlueFlame_Low.mdx
@@ -11,3 +13,5 @@ ID,Model
 50,Spells\Enchantments\RedGlow_Low.mdx
 51,Spells\Enchantments\Shaman_Fire.mdx
 52,Spells\Enchantments\Shaman_Frost.mdx
+62,Spells\Enchantments\BlueGlow_Med.mdx
+61,Spells\Enchantments\

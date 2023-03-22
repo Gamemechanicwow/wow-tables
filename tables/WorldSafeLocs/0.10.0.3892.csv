@@ -1,53 +1,65 @@
 ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
-169,1,-633,-4294,40,Valley of Trials, Durotar
+169,1,-634.6349,-4296.0337,40.52543,Valley of Trials, Durotar
 209,1,-7190.949,-3944.6523,9.227391,Gadgetzan, Tanaris
 329,1,-5530.2827,-3459.28,-45.74437,Shimmering Flats, Thousand Needles
+369,1,2681.0579,-4009.754,107.84863,Azshara
+409,1,899.10016,437.5562,65.7423,Stonetalon Mountains
+429,0,2603.3108,-534.6571,88.99959,Faol's Rest, Tirisfal Glades
 31,1,-1443.488,1973.3696,85.490715,Ghost Walker Post, Desolace
-32,1,237,-4794,10,Razor Hill, Durotar
+32,1,238.02664,-4792.5156,10.213211,Razor Hill, Durotar
 33,1,1357.1,-4412.01,28.3841,Orgrimmar, Durotar
-34,1,-2944,-153,66,Red Cloud Mesa, Mulgore
-35,1,6323,514,16,Auberdine, Darkshore
-36,1,-1260.01,73.9821,127.69,Thunder Bluff, Mulgore
+34,1,-2944.5564,-153.21503,65.786026,Red Cloud Mesa, Mulgore
+35,1,6739.19,209.9926,23.284561,Auberdine, Darkshore
+36,0,1756.4121,-672.45197,44.58742,Western Plaguelands, Horde
 349,0,323.51263,-2227.1958,137.61746,Aerie Peak, The Hinterlands
-38,1,900,435,66,Sun Rock Retreat, Stonetalon
+449,1,3806.5396,-1600.2914,218.83124,Felwood
 39,1,-4656,-1765,-41,Thousand Needles
 70,169,16310.325,16268.939,69.44444,test
-89,1,-2174,-346,-5,Bloodhoof Village, Mulgore
+89,1,-2175.1897,-342.02692,-5.512325,Bloodhoof Village, Mulgore
 90,1,9931.99,2193.67,1328.67,Darnassus, Teldrassil
-91,1,9681,954,1292,Dolanaar, Teldrassil
-92,1,2634,-630,108,Astranaar, Ashenvale
-93,1,10384,817,1318,Aldrassil, Teldrassil
-94,0,1883,1622,94,Deathknell, Tirisfal
+91,1,9701.255,945.6204,1291.3551,Dolanaar, Teldrassil
+92,1,2633.4111,-629.73517,107.58125,Astranaar, Ashenvale
+93,1,10384.81,811.5312,1317.5382,Aldrassil, Teldrassil
+94,0,1880.7385,1624.7355,94.43435,Deathknell, Tirisfal
+489,0,-3349.703,-857.4654,1.059584,Menethil, Wetlands
 96,0,1822.61,214.674,60.1402,Undercity, Tirisfal
-97,0,519,1588,128,Sepulcher, Silverpine
-100,0,-6164,336,400,Anvilmar, Dun Morogh
-101,0,-5681,-521,396,Kharanos, Dun Morogh
+97,0,516.19434,1589.8066,127.54494,Sepulcher, Silverpine
+100,0,-6164.226,336.32114,399.79337,Anvilmar, Dun Morogh
+101,0,-5680.0444,-518.9205,396.27432,Kharanos, Dun Morogh
 102,0,-5049.45,-809.697,495.127,Ironforge, Dun Morogh
-103,0,-6699,-2198,249,Kargath, Badlands
-104,0,-9400,-2033,58,Lakeshire, Redridge
-106,0,-9341,171,62,Goldshire, Elwynn
+103,0,-6808.382,-2286.1675,280.75244,Kargath, Badlands
+104,0,-9403.245,-2037.692,58.36874,Lakeshire, Redridge
+106,0,-9339.456,171.40845,61.56181,Goldshire, Elwynn
 107,0,-9151.98,410.944,92.6966,Stormwind, Elwynn
-108,0,-10541,-3317,23,Stonard, Swamp of Sorrows
-109,0,-14283,295,32,Booty Bay, Stranglethorn
-149,0,-738,-586,22,Southshore, Hillsbrad Foothills
-189,1,-3533,-4312,7,Theramore, Dustwallow Marsh
+108,0,-10567.813,-3377.2031,22.25322,Stonard, Swamp of Sorrows
+109,0,-14284.962,288.44717,32.33204,Booty Bay, Stranglethorn
+149,0,-732.7994,-592.50195,22.663046,Southshore, Hillsbrad Foothills
+189,1,-3525.706,-4315.455,6.995607,Theramore, Dustwallow Marsh
 1,0,-9115,423,96,Stormwind
 2,0,-9271,-2305,71,Redridge
-3,0,-10774,-1189,33,Darkshire, Duskwood
-4,0,-10602,1133,39,Sentinel Hill, Westfall
+3,0,-10774.263,-1189.6719,33.149426,Darkshire, Duskwood
+4,0,-10546.9,1197.24,31.7263,Sentinel Hill, Westfall
 5,0,-5687,-515,398,Dun Morogh
-6,0,-5349,-2881,341,Thelsamar, Loch Modan
-7,0,-3289,-2436,19,Menethil, Wetlands
+6,0,-5351.229,-2881.5823,340.94235,Thelsamar, Loch Modan
+7,0,-3289.1238,-2435.9912,18.59659,Crossroads, Wetlands
 8,0,-13290,108,25,Stranglethorn Arena
 129,1,8706,965,13.27,Rut'theran Village
-249,1,-1082,-3478,64,Ratchet, Barrens
+249,1,-1072.5887,-3481.8489,62.695408,Ratchet, Barrens
 269,37,-448.1886,-1027.863,430.72433,Plains of Snow - Alliance Start
 289,0,2349.6084,485.20844,33.3731,Brill, Tirisfal
+389,0,-11542.56,-228.6365,27.842743,Stranglethorn
 10,1,-592.60144,-2523.4924,91.78803,Crossroads, Barrens
 49,37,-661.52844,-485.30902,385.8879,Plains of Snow - Horde Start
-98,0,-19,-980,56,Tarren Mill, Hillsbrad
-99,0,-1467,-2624,48,Arathi Highlands
-105,0,-8935,-190,81,Northshire, Elwynn
-309,1,-4628.1875,3232.3945,38.06856,Feathermoon, Feralas
-229,1,-2427,-1823,92,Taurajo, Barrens
+98,0,-18.677681,-981.17145,55.83767,Tarren Mill, Hillsbrad
+99,0,-1472.2894,-2617.9587,49.27652,Arathi Highlands
+105,0,-8935.325,-188.64627,80.416466,Northshire, Elwynn
+370,0,-10846.574,-2949.4878,13.227232,Nethergarde, Blasted Lands
+309,1,-4596.4043,3229.4343,8.993764,Feathermoon, Feralas
+229,1,-2515.9932,-1966.4813,91.783646,Taurajo, Barrens
 310,1,-4439.967,370.15344,51.356552,Camp Mojache, Feralas
+450,1,-7205.565,-2436.6743,-218.16096,Un'Goro Crater
+469,1,4291.2827,96.95573,43.075256,Twilight Vale, Darkshore
+509,0,908.3233,-1520.2861,55.037178,Western Plaguelands, Alliance
+510,0,2120.1455,-5289.1553,81.09998,Death Pit, Eastern Plaguelands
+511,1,6497.0957,-2392.0422,597.93463,Timbermaw Hold, Winterspring
+512,169,2512.0437,-3096.8901,126.35551,Kargathia, Ashenvale

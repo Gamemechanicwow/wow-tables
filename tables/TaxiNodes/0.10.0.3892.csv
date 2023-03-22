@@ -1,17 +1,22 @@
 ID,ContinentID,Pos[0],Pos[1],Pos[2],Name_lang[0]
-37,1,143.34,1336.7,193.32,Nijel's Point - Desolace
+46,0,-986.43,-547.86,-3.86,Southshore Ferry, Hillsbrad
+35,1,1320.07,-4649.2,21.57,Durotar - Orgrimmar to Underzity Zepplin
+48,1,5068.4,-337.22,367.41,Bloodvenom River, Felwood
+49,1,7793,-2407.73,488.84,Nighthaven, Moonglade
+37,1,139.24,1325.82,193.5,Nijel's Point - Desolace
+47,0,-12418.77,235.43,1.12,Stranglethorn - Grom'Gol to Orgrimmar Zeppelin
 1,0,-8888.98,-0.54,94.39,Northshire Abbey
 2,0,-8840.56,489.7,109.61,Stormwind, Elwynn
 3,0,16391.81,16341.21,69.44,Programmer Isle
 4,0,-10628.89,1036.68,34.06,Sentinel Hill, Westfall
 5,0,-9429.1,-2231.4,68.65,Lakeshire, Redridge
 6,0,-4821.78,-1155.44,502.21,Ironforge, Dun Morogh
-7,0,-3790.51,-781.64,9.36,Menethil Harbor, Wetlands
+7,0,-3791.89,-782.98,9.02,Menethil Harbor, Wetlands
 8,0,-5421.91,-2930.01,347.25,Thelsamar, Loch Modan
 9,0,-14271.77,299.87,31.09,Booty Bay, Stranglethorn
 10,0,478.86,1536.59,131.32,Sepulcher, Silverpine
 11,0,1568.62,267.97,-43.1,Undercity, Tirisfal
-12,0,-10510.65,-1248.78,41.12,Darkshire, Duskwood
+12,0,-10515.46,-1261.65,41.34,Darkshire, Duskwood
 13,0,-0.11,-860.12,58.82,Tarren Mill, Hillsbrad
 14,0,-711.48,-515.48,26.11,Southshore, Hillsbrad
 15,0,2253.4,-5344.9,83.38,Eastern Plaguelands
@@ -19,28 +24,33 @@ ID,ContinentID,Pos[0],Pos[1],Pos[2],Name_lang[0]
 17,0,-920.24,-3496.76,70.48,Hammerfall - Arathi
 18,0,-14444.29,509.62,26.2,Booty Bay - Stranglethorn
 19,0,-14473.05,464.15,36.43,Booty Bay - Stranglethorn
-20,0,-12414.18,146.29,3.28,Grom'gol - Stranglethorn
 21,0,-6633.38,-2184.3,244.14,Kargath - Badlands
 22,1,-1197.21,29.71,176.95,Thunder Bluff - Mulgore
 23,1,1678.95,-4316.42,68.94,Orgrimmar - Durotar
 24,0,-6666,-2222.3,278.6,Badlands - Kargath - Bat - UNUSED
 25,1,-441.8,-2596.08,96.06,Crossroads - The Barrens
-26,1,6342.09,557.53,15.8,Auberdine, Darkshore
+26,1,6341.38,557.68,16.29,Auberdine, Darkshore
 27,1,8643.59,841.05,23.3,Rut'theran Village - Teldrassil
 28,1,2827.34,-289.24,107.16,Astranaar - Ashenvale
 29,1,-180.54,-295.33,11.54,Sun Rock Retreat - Stonetalon Mountains
-30,1,-5407.71,-2414.3,90.32,Freewind Post - Thousand Needles
 31,1,-4491.78,-775.85,-39.5,Thalanaar - Thousand Needles
 32,1,-3825.37,-4516.58,10.44,Theramore - Dustwallow Marsh
-33,1,2683.26,1462.78,233.44,Stonetalon Peak - Stonetalon Mountains
+33,1,2682.97,1462.78,233.4,Stonetalon Peak - Stonetalon Mountains
 34,1,-1965.17,-5824.29,-1.06,The Barrens - Ratchet to Booty Bay Boat
-35,1,-1011.14,-3759.51,-1.11,The Barrens - Ratchet Boat TEST
 36,0,0,0,0,TEST
 56,0,-10457.81,-3278.59,21.36,Stonard - Swamp of Sorrows
 57,1,8701.51,991.37,14.21,FIshing Village - Teldrassil
 40,1,-7048.89,-3780.36,10.19,Gadgetzan, Tanaris
-38,1,-1262.23,1702.91,91.48,Ghostwalker Post - Desolace
+45,0,-11112.25,-3435.74,79.09,Nethergarde Keep, Blasted Lands
+38,1,-1767.64,3263.89,4.94,Shadowprey Village - Desolace
 41,1,-4373.8,3338.65,12.27,Feathermoon, Feralas
 42,1,-4419.86,199.31,25.06,Camp Mojache, Feralas
 43,0,283.74,-2002.76,194.74,Aerie Peak, The Hinterlands
+20,0,-12414.18,146.29,3.28,Grom'gol - Stranglethorn
+30,1,-5407.71,-2414.3,90.32,Freewind Post - Thousand Needles
+51,0,0,0,0,Rut'theran to Auberdine Boat
+52,1,6799.24,-4742.44,701.5,Everlook, Winterspring
+53,1,6813.06,-4611.12,710.67,Everlook, Winterspring
 39,1,-7223.97,-3734.59,8.39,Gadgetzan, Tanaris
+44,1,3661.52,-4390.38,113.05,Valormok, Azshara
+50,0,0,0,0,Menethil to Theramore Boat Path
