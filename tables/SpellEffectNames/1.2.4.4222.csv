@@ -13,6 +13,7 @@ EnumID,Name_lang[0]
 102,Dismiss Pet
 105,Summon Object (slot 2)
 106,Summon Object (slot 3)
+115,Durability Damage Pct(%)
 0,None
 1,Instakill
 2,School Damage

@@ -19,6 +19,12 @@ ID,Name_lang[0]
 963,Bright Light Beam
 1023,The Dead Goliaths
 1063,Foulweald Totem Mound
+1144,Western Crater
+1145,Central Graveyard
+1164,Main Alliance Base Courtyard
+1165,Main Horde Base Courtyard
+1183,Contested Graveyard
+1185,West Crater
 103,Barrens Summoning Circle
 203,Orgrimmar Summoning Circle
 223,Ruins of Stardust Fountain
@@ -27,6 +33,10 @@ ID,Name_lang[0]
 226,Spring Well
 705,Cliffspring River Waterfall
 823,Scholomance Viewing Room
+1103,Maraudon Portal
+1123,Horde Globe of Scrying
+1143,Eastern Crater
+1184,East Crater
 1,Anvil
 2,Loom
 3,Forge
@@ -56,6 +66,7 @@ ID,Name_lang[0]
 483,Miblon Snarltooth
 543,Black Forge
 683,Unforged Seal of Ascension
+1163,Alliance Globe of Scrying
 83,Stormwind Summoning Circle
 143,Talon Den
 163,Xavian Waterfall
@@ -93,3 +104,4 @@ ID,Name_lang[0]
 1004,Dreadmist Peak Pool
 1043,Shrine of Remulos
 1083,Dire Pool
+1203,Orange Crystal Pool
