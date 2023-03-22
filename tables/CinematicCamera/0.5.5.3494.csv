@@ -1,0 +1,11 @@
+ID,Model,SoundID,Origin[0],Origin[1],Origin[2],OriginFacing
+42,Cameras\OrcIntro01.mdx,3500,1632.57,-3075.2,85.9586,5.49779
+45,Cameras\OrcIntro06.mdx,3505,-603.411,-4193.41,41.092,4.67748
+62,Cameras\OrcIntro03.mdx,3502,1500.5,-4418.19,30.4348,3.735
+64,Cameras\OrcIntro05.mdx,3504,1500.5,-4418.19,30.4348,3.735
+63,Cameras\OrcIntro04.mdx,3503,388.365,-4590.96,54.3869,4.27606
+1,Cameras\PalantirOfAzora.mdx,0,-9282.42,-3329.66,116.341,4.60767
+2,Cameras\FlybyUndead.mdx,3505,1658.58,1662.91,141.234,3.14159
+22,Cameras\OrcIntro01.mdx,3440,-11888.8,-3202.1,-29.6599,0.174533
+44,Cameras\OrcIntro02.mdx,0,-246.71,-5069.77,26.95,1.55334
+43,Cameras\OrcIntro02.mdx,3501,-246.71,-5069.77,26.95,1.55334

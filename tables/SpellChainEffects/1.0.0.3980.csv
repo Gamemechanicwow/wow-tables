@@ -1,0 +1,12 @@
+ID,AvgSegLen,Width,NoiseScale,TexCoordScale,SegDuration,SegDelay,Texture
+11,2.78,0.25,0.01,0.5,1000,200,Textures\SpellChainEffects\RopeBeam.blp
+1,2.78,0.5,0.04,1,1000,300,Textures\SpellChainEffects\Lightning.blp
+2,2.78,0.25,0.001,0.6,2000,200,Textures\SpellChainEffects\HealBeam.blp
+3,2.78,0.25,0.01,-0.5,1000,200,Textures\SpellChainEffects\DrainManaLightning.blp
+4,2.78,0.25,0.01,-0.5,1000,200,Textures\SpellChainEffects\ManaBeam.blp
+5,2.78,0.25,0.01,0.5,1000,200,Textures\SpellChainEffects\SoulBeam.blp
+6,2.78,0.25,0.05,0.5,1000,200,Textures\SpellChainEffects\ManaBurnBeam.blp
+7,2.78,0.5,0.03,1,1000,200,Textures\SpellChainEffects\ShockLightning.blp
+8,2.78,0.25,0.01,-0.5,1000,200,Textures\SpellChainEffects\SoulBeam.blp
+9,2.78,0.25,0.01,0.5,1000,200,Textures\SpellChainEffects\ManaBeam.blp
+10,2.78,0.25,0.01,0.5,1000,200,Textures\SpellChainEffects\Beam_Purple.blp

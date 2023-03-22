@@ -1,0 +1,17 @@
+ClassID,SubclassMapID,Flags,ClassName_lang[0]
+0,0,0,Consumable
+1,1,0,Container
+2,2,1,Weapon
+3,3,0,Jewelry(OBSOLETE)
+4,4,0,Armor
+5,5,0,Reagent
+6,6,0,Projectile
+7,7,0,Trade Goods
+8,8,0,Generic(OBSOLETE)
+9,9,0,Recipe
+10,10,0,Money(OBSOLETE)
+11,6,0,Quiver
+12,0,0,Quest
+13,0,0,Key
+14,1,0,Permanent(OBSOLETE)
+15,0,0,Miscellaneous

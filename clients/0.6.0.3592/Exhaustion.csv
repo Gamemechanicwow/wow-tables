@@ -1,0 +1,6 @@
+ID,Xp,Factor,OutdoorHours,InnHours,Name_lang[0]
+1,10000,2,-1,8,Well Rested
+2,10000,1.5,-1,6,Rested
+3,20000,1,8,4,Normal
+4,40000,0.5,4,2,Tired
+5,-1,0.25,0,0,Exhausted

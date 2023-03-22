@@ -1,8 +1,3 @@
 ID,Name,FileName
-4,Azeroth,Interface\Glues\LoadingScreens\LoadScreenEasternKingdom.blp
-21,InstanceCave,Interface\Glues\LoadingScreens\LoadScreenCave.blp
-3,Kalimdor,Interface\Glues\LoadingScreens\LoadScreenKalimdor.blp
-23,InstanceDungeon,Interface\Glues\LoadingScreens\LoadScreenDungeon.blp
-25,InstanceExterior,Interface\Glues\LoadingScreens\LoadScreenEnviroment.blp
-42,InstanceRuinedCity,Interface\Glues\LoadingScreens\LoadScreenRuinedCity.blp
-61,InstanceRaid,Interface\Glues\LoadingScreens\LoadScreenRaid.blp
+4,Azeroth (Example),Interface\Glues\LoadingScreens\loadingAzeroth.blp
+3,Kalimdor (Example),Interface\Glues\LoadingScreens\loadingKalimdor.blp

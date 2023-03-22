@@ -1,0 +1,11 @@
+ID,Name_lang[0],Mask,InternalName
+0,None,0,
+1,Magic,0,
+2,Curse,0,
+3,Disease,0,
+4,Poison,0,
+5,Stealth,0,
+6,Invisibility,0,
+7,All(M+C+D+P),0,
+8,Special - npc only,0,
+9,Frenzy,0,

@@ -1,0 +1,23 @@
+ID,Directory,PVP,IsInMap,MapName_lang[0]
+0,Azeroth,0,1,Azeroth
+1,Kalimdor,0,1,Kalimdor
+2,UnderMine,0,0,UnderMine
+13,test,0,0,Testing
+17,Kalidar,0,0,Kalidar
+25,ScottTest,0,0,Scott Test
+29,Test,0,0,CashTest
+30,PVPZone01,1,0,PVPZone01
+33,Shadowfang,0,0,Shadowfang
+34,StormwindJail,0,0,StormwindJail
+35,StormwindPrison,0,0,StormwindPrison
+36,DeadminesInstance,0,0,DeadminesInstance
+37,PVPZone02,1,0,PVPZone02
+42,Collin,0,0,Collin's Test
+43,WailingCaverns,0,0,WailingCavernsInstance
+44,Monastery,0,0,MonasteryInterior
+47,RazorfenKraulInstance,0,0,RazorfenKraul
+48,Blackfathom,0,0,Blackfathom Instance
+109,SunkenTemple,0,0,SunkenTempleInstance
+70,Uldaman,0,0,Uldaman Instance
+90,GnomeragonInstance,0,0,GnomeragonInstance
+129,RazorfenDowns,0,0,RazorfenDownsInstance

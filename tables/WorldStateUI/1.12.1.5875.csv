@@ -1,0 +1,21 @@
+ID,MapID,AreaID,Icon,String_lang[0],Tooltip_lang[0],FactionID,StateVariable,Type,DynamicIcon,DynamicTooltip_lang[0],ExtendedUI,ExtendedUIStateVariable[0],ExtendedUIStateVariable[1],ExtendedUIStateVariable[2]
+136,0,139,Interface\WorldStateFrame\AllianceTower,Towers Controlled: %2327w,,0,0,0,,,,2031678,67,0
+137,0,139,Interface\WorldStateFrame\HordeTower,Towers Controlled: %2328w,,0,0,0,,,,2031678,157,0
+138,0,139,,Progress: %2427w,,0,0,0,,,,2031678,0,0
+126,1,1377,Interface\TargetingFrame\UI-PVP-Alliance,%2313w/%2317w,,0,0,0,,,,4128830,266,0
+127,1,1377,Interface\TargetingFrame\UI-PVP-Horde,%2314w/%2317w,,0,0,0,,,,4128830,347,0
+63,30,0,Interface\WorldStateFrame\ColumnIcon-GraveyardCapture,Graveyards Assaulted,,0,0,0,,,,4128830,448,0
+65,30,0,Interface\WorldStateFrame\ColumnIcon-GraveyardDefend,Graveyards Defended,,0,0,0,,,,4128830,579,0
+61,30,0,Interface\WorldStateFrame\ColumnIcon-TowerCapture,Towers Assaulted,,0,0,0,,,,4128830,701,0
+64,30,0,Interface\WorldStateFrame\ColumnIcon-TowerDefend,Towers Defended,,0,0,0,,,,4128830,820,0
+62,30,0,Interface\WorldStateFrame\ColumnIcon-MineCapture,Mines Captured,,0,0,0,,,,4128830,935,0
+81,30,0,,Leaders Killed,,0,0,0,,,,4128830,1023,0
+82,30,0,,Secondary Objectives,,0,0,0,,,,4128830,1089,0
+2,489,0,Interface\TargetingFrame\UI-PVP-Alliance,%1581w/%1601w,,0,0,0,,,,4128830,1139,0
+3,489,0,Interface\TargetingFrame\UI-PVP-Horde,%1582w/%1601w,,0,0,0,,,,4128830,1242,0
+42,489,0,Interface\WorldStateFrame\ColumnIcon-FlagCapture,Flag Captures,,0,0,0,,,,4128830,1397,0
+44,489,0,Interface\WorldStateFrame\ColumnIcon-FlagReturn,Flag Returns,,0,0,0,,,,4128830,1507,0
+101,529,0,Interface\TargetingFrame\UI-PVP-Alliance,Bases: %1779w  Resources: %1776w/%1780w,,0,0,0,,,,2031678,1619,0
+102,529,0,Interface\TargetingFrame\UI-PVP-Horde,Bases: %1778w  Resources: %1777w/%1780w,,0,0,0,,,,2031678,1675,0
+122,529,0,Interface\WorldStateFrame\ColumnIcon-TowerCapture,Bases Assaulted,,0,0,0,,,,4128830,1704,0
+123,529,0,Interface\WorldStateFrame\ColumnIcon-TowerDefend,Bases Defended,,0,0,0,,,,4128830,1772,0

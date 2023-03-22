@@ -1,7 +1,0 @@
-ID,Parent,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang[8],Name_lang[9],Name_lang[10],Name_lang[11],Name_lang[12],Name_lang[13],Name_lang[14],Name_lang[15],Name_lang_mask
-92,94,General,,,,,,,,,,,,,,,,16712140
-93,92,Miscellaneous,,,,,,,,,,,,,,,,16712012
-94,-1,ALL,,,,,,,,,,,,,,,,16712140
-95,94,PvP,,,,,,,,,,,,,,,,16712140
-96,92,Quests,,,,,,,,,,,,,,,,16712012
-97,92,Exploration,,,,,,,,,,,,,,,,16712000

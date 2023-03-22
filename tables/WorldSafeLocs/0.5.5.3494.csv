@@ -1,0 +1,43 @@
+ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
+31,1,-622.065,-4249.59,38.2859,Valley of Trials, Durotar
+32,1,280.732,-4749.02,9.60338,Razor Hill, Durotar
+33,1,1357.1,-4412.01,28.3841,Orgrimmar, Durotar
+34,1,-2918.85,-267.683,53.8378,Red Cloud Mesa, Mulgore
+35,1,6416.59,482.45,8.22542,Auberdine, Darkshore
+36,1,-1260.01,73.9821,127.69,Thunder Bluff, Mulgore
+37,1,-590,-2523,92.5,Crossroads, Barrens
+38,1,-146.809,-294.019,7.80868,Sun Rock Retreat, Stonetalon
+39,1,-5437.21,-2443.15,89.7395,Freewind Post, Thousand Needles
+70,169,16310.325,16268.939,69.44444,test
+89,1,-2365.06,-422.797,-9.50174,Bloodhoof Village, Mulgore
+90,1,9931.99,2193.67,1328.67,Darnassus, Teldrassil
+91,1,9856.03,936.31,1308.78,Dolanaar, Teldrassil
+92,1,2712.32,-454.318,108.101,Astranaar, Ashenvale
+93,1,10372.7,807.126,1318.74,Aldrassil, Teldrassil
+94,0,1870.18,1595.75,92.43,Deathknell, Tirisfal
+95,0,2245.96,277.668,34.1137,Brill, Tirisfal
+96,0,1822.61,214.674,60.1402,Undercity, Tirisfal
+97,0,522.624,1633.64,125.122,Sepulcher, Silverpine
+100,0,-6164.42,340.238,399.645,Anvilmar, Dun Morogh
+101,0,-5690.41,-513.801,396.304,Kharanos, Dun Morogh
+102,0,-5049.45,-809.697,495.127,Ironforge, Dun Morogh
+103,0,-6695.79,-2176.21,244.144,Kargath, Badlands
+104,0,-9275.05,-2303.45,69.05,Lakeshire, Redridge
+106,0,-9511.32,79.0186,59.381,Goldshire, Elwynn
+107,0,-9151.98,410.944,92.6966,Stormwind, Elwynn
+108,0,-10431.9,-3280.84,20.178,Stonard, Swamp of Sorrows
+109,0,-14281.2,295.559,31.9282,Booty Bay, Stranglethorn
+1,0,-9115,423,96,Stormwind
+2,0,-9271,-2305,71,Redridge
+3,0,-10568.3,-1154.95,27.4458,Darkshire, Duskwood
+4,0,-10595.1,1031.58,32.5831,Sentinel Hill, Westfall
+5,0,-5687,-515,398,Dun Morogh
+6,0,-5354.17,-2880.3,342.039,Thelsamar, Loch Modan
+7,0,-3757.49,-773.582,9.69777,Menethil, Wetlands
+8,0,-13290,108,25,Stranglethorn Arena
+129,1,8706,965,13.27,Rut'theran Village
+10,1,-481.16,-2667.08,99,Crossroads, The Barrens (UNUSED)
+49,37,-665.7,-486.2,391,Plains of Snow - Horde Start
+98,0,-756.593,-521.657,21.9448,Southshore, Hillsbrad
+99,0,-1236.8,-2528.49,21.7138,Refuge Point, Arathi
+105,0,-8947.38,-137.163,83.0954,Northshire, Elwynn

@@ -1,0 +1,6 @@
+ID,Text_lang[0]
+1,[SERVER] Shutdown in %s
+2,[SERVER] Restart in %s
+3,%s
+4,[SERVER] Shutdown cancelled
+5,[SERVER] Restart cancelled

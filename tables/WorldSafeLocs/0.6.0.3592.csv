@@ -1,0 +1,46 @@
+ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
+169,1,-633,-4294,40,Valley of Trials, Durotar
+31,1,-1444,1973,85,Desolace
+32,1,237,-4794,10,Razor Hill, Durotar
+33,1,1357.1,-4412.01,28.3841,Orgrimmar, Durotar
+34,1,-2944,-153,66,Red Cloud Mesa, Mulgore
+35,1,6323,514,16,Auberdine, Darkshore
+36,1,-1260.01,73.9821,127.69,Thunder Bluff, Mulgore
+37,1,-590,-2523,92.5,Crossroads, Barrens
+38,1,900,435,66,Sun Rock Retreat, Stonetalon
+39,1,-4656,-1765,-41,Thousand Needles
+70,169,16310.325,16268.939,69.44444,test
+89,1,-2174,-346,-5,Bloodhoof Village, Mulgore
+90,1,9931.99,2193.67,1328.67,Darnassus, Teldrassil
+91,1,9681,954,1292,Dolanaar, Teldrassil
+92,1,2634,-630,108,Astranaar, Ashenvale
+93,1,10384,817,1318,Aldrassil, Teldrassil
+94,0,1883,1622,94,Deathknell, Tirisfal
+95,0,2348,491,33,Brill, Tirisfal
+96,0,1822.61,214.674,60.1402,Undercity, Tirisfal
+97,0,519,1588,128,Sepulcher, Silverpine
+100,0,-6164,336,400,Anvilmar, Dun Morogh
+101,0,-5681,-521,396,Kharanos, Dun Morogh
+102,0,-5049.45,-809.697,495.127,Ironforge, Dun Morogh
+103,0,-6699,-2198,249,Kargath, Badlands
+104,0,-9400,-2033,58,Lakeshire, Redridge
+106,0,-9341,171,62,Goldshire, Elwynn
+107,0,-9151.98,410.944,92.6966,Stormwind, Elwynn
+108,0,-10541,-3317,23,Stonard, Swamp of Sorrows
+109,0,-14283,295,32,Booty Bay, Stranglethorn
+149,0,-738,-586,22,Southshore, Hillsbrad Foothills
+189,1,-3533,-4312,7,Theramore, Dustwallow Marsh
+1,0,-9115,423,96,Stormwind
+2,0,-9271,-2305,71,Redridge
+3,0,-10774,-1189,33,Darkshire, Duskwood
+4,0,-10602,1133,39,Sentinel Hill, Westfall
+5,0,-5687,-515,398,Dun Morogh
+6,0,-5349,-2881,341,Thelsamar, Loch Modan
+7,0,-3349,-859,4,Menethil, Wetlands
+8,0,-13290,108,25,Stranglethorn Arena
+129,1,8706,965,13.27,Rut'theran Village
+10,1,-2427,-1825,92,Camp Taurajo, The Barrens
+49,37,-665.7,-486.2,391,Plains of Snow - Horde Start
+98,0,-19,-980,56,Tarren Mill, Hillsbrad
+99,0,-1467,-2624,48,Arathi Highlands
+105,0,-8935,-190,81,Northshire, Elwynn

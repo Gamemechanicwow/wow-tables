@@ -1,13 +1,13 @@
-Field_0_10_0_3892_000,Region_ID,Name_lang[0],Name_lang[1],Name_lang[2],Name_lang[3],Name_lang[4],Name_lang[5],Name_lang[6],Name_lang[7],Name_lang_mask
-1,1,Pacific Time,,,,,,,,983040
-2,1,Mountain Time,,,,,,,,983040
-3,1,Central Time,,,,,,,,983040
-4,1,Eastern Time,,,,,,,,983040
-1,2,Seoul,,,,,,,,983042
-2,2,Outside Seoul,,,,,,,,983042
-1,3,English,,,,,,,,983040
-2,3,German,,,,,,,,983040
-3,3,French,,,,,,,,983040
-4,3,Other,,,,,,,,983040
-1,4,Taiwan,,,,,,,,983040
-1,5,China,,,,,,,,983040
+Field_0_10_0_3892_000,Region_ID,Name_lang[0]
+1,1,Pacific Time
+2,1,Mountain Time
+3,1,Central Time
+4,1,Eastern Time
+1,2,Seoul
+2,2,Outside Seoul
+1,3,English
+2,3,German
+3,3,French
+4,3,Other
+1,4,Taiwan
+1,5,China

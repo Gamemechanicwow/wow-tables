@@ -12,7 +12,7 @@ ID,BonusActionBar,Name_lang[0],Flags,CreatureType,AttackIconID
 11,0,,0,0,0
 12,0,,0,0,0
 13,0,,0,0,0
-14,0,Creature - Bear,0,0,0
+14,0,,0,0,0
 15,0,,0,0,0
 16,0,Ghost Wolf,0,0,0
 17,1,Battle Stance,0,0,0
@@ -26,7 +26,7 @@ ID,BonusActionBar,Name_lang[0],Flags,CreatureType,AttackIconID
 25,0,,0,0,0
 26,0,,0,0,0
 27,0,,0,0,0
-28,0,Shadowform,0,0,0
+28,0,,0,0,0
 29,0,,0,0,0
 30,1,Stealth,0,0,0
 31,1,zzOLDStealth 2,0,0,0

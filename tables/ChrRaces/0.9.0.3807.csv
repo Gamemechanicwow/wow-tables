@@ -1,0 +1,10 @@
+ID,Flags,FactionID,ExplorationSoundID,MaleDisplayID,FemaleDisplayID,ClientPrefix,MountScale,BaseLanguage,CreatureType,LoginEffectSpellID,CombatStunSpellID,ResSicknessSpellID,SplashSoundID,StartingTaxiNodes,ClientFileString,CinematicSequenceID,Name_lang[0]
+1,12,1,4140,49,50,Hu,1,7,7,836,1604,15007,1096,100663330,Human,81,Human
+2,12,2,4141,51,52,Or,1.1,1,7,836,1604,15007,1096,4194304,Orc,21,Orc
+3,12,3,4147,53,54,Dw,1,7,7,836,1604,15007,1090,100663330,Dwarf,41,Dwarf
+4,4,4,4145,55,56,Ni,1.2,7,7,836,1604,15007,1096,100663330,NightElf,61,Night Elf
+5,12,5,4142,57,58,Sc,1,1,6,836,1604,15007,1096,1024,Scourge,2,Undead
+6,10,6,4143,59,60,Ta,1,1,7,836,1604,15007,1096,2097152,Tauren,141,Tauren
+7,12,115,4146,1563,1564,Gn,0.8,7,7,836,1604,15007,1096,100663330,Gnome,101,Gnome
+8,14,116,4144,1478,1479,Tr,1,1,7,836,1604,15007,1096,4194304,Troll,121,Troll
+9,1,1,0,1140,1140,Gb,1,7,7,836,1604,15007,1096,0,Goblin,0,Goblin
