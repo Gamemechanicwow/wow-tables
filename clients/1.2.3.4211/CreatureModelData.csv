@@ -24,7 +24,7 @@ ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintText
 80,0,Creature\HumanFemaleKid\HumanFemaleKid.mdx,1,1,1,4,18,12,1,0,0,0,80,0.3681,1.194
 81,3,Creature\Slime\Slime.mdx,1,1,2,-1,18,12,1,0,0,0,81,0.6944,2.083
 82,0,Creature\Tiger\Tiger.mdx,1,1,1,7,18,12,1,0,0,0,82,0.6944,2.083
-83,0,Creature\bear\Bear.mdx,1,1,1,7,18,12,1,0,0,0,83,0.6944,1.814
+83,8,Creature\bear\Bear.mdx,1,1,1,7,18,12,1,0,0,0,83,0.6944,1.814
 84,2,Creature\GolemStone\GolemStone.mdx,1,1,3,-1,18,12,1,0,0,10,84,0.6944,2.083
 87,0,Creature\HumanMalePeasant\HumanMalePeasantGold.mdx,1,1,1,1,18,12,1,0,0,0,87,0.5097,2.031
 88,0,Creature\HumanMalePeasant\HumanMalePeasantPick.mdx,1,1,1,1,18,12,1,0,0,0,88,0.5097,2.031
@@ -63,7 +63,7 @@ ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintText
 129,0,Creature\HumanMalePirateSwashbuckler\HumanMalePirateSwashbuckler.mdx,1,1,-1,1,18,12,1,0,0,0,129,0.6944,2.083
 130,0,Creature\Dreadlord\DreadLord.mdx,2,1,3,3,18,12,1,0,0,10,130,0.6944,2.083
 131,0,Creature\Gnome\Gnome.mdx,1,1,-1,1,18,12,1,0,0,0,131,0.6944,1.25
-134,0,Creature\Squirrel\Squirrel.mdx,0,1,1,7,4,3,1,0,0,0,134,0.4167,0.2778
+134,0,Creature\Squirrel\Squirrel.mdx,0,1,1,7,4,3,1,0,0,0,134,0,0
 136,0,Creature\Gorilla\Gorilla.mdx,0,1,1,4,18,12,1,0,0,0,135,0.6944,2.083
 137,10,Creature\Crocodile\Crocodile.mdx,0,1,-1,5,18,12,1,0,0,0,136,0.6944,2.083
 139,0,Creature\Felhound\FelHound.mdx,0,1,3,5,16.2,10.8,1,0,0,0,138,0.6944,2.083
@@ -94,7 +94,7 @@ ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintText
 202,3,Creature\Spells\HealingTotem.mdx,1,1,-1,-1,18,12,1,0,0,0,190,0.7936,2.083
 205,0,Creature\MountainGiant\MountainGiant.mdx,3,1,-1,1,18,12,1,0,2,11,193,0.6944,2.083
 206,0,Creature\SeaGiant\SeaGiant.mdx,1,1,1,4,18,12,1,0,2,12,35,0.6944,2.083
-207,3,Creature\Wisp\Wisp.mdx,1,1,-1,-1,18,12,1,0,0,0,194,0.6944,2.083
+207,3,Creature\Wisp\Wisp.mdx,1,1,-1,-1,18,12,1,0,0,0,194,0.7778,2.438
 209,1,Creature\Hippogryph\Hippogryph.mdx,1,1,1,-1,18,12,1,0,0,0,90,0.6944,2.083
 210,0,Creature\Lion\Lion.mdx,1,1,1,7,18,12,1,0,0,0,196,0.6944,2.083
 212,0,Creature\Unicorn\Unicorn.mdx,1,1,1,6,18,12,1,0,0,0,197,0.9444,2.778
@@ -173,7 +173,7 @@ ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintText
 1031,0,Creature\DragonSpawn\DragonSpawnArmored.mdx,2,1,1,1,18,12,1,0,0,0,47,0.6944,2.083
 1051,3,Creature\Lich\Lich.mdx,1,1,3,4,18,12,1,0,0,0,948,0.6944,2.083
 1071,0,Creature\Kodobeast\KodoBeastPack.mdx,3,1,-1,6,18,12,1,0,1,10,27,0.6944,2.083
-1091,3,Creature\FlyingMachineCreature\FlyingMachineCreature.mdx,1,1,-1,-1,0,0,0,0,0,0,968,0.6944,2.083
+1091,3,Creature\FlyingMachineCreature\FlyingMachineCreature.mdx,1,1,-1,-1,18,12,1,0,0,0,1728,0.6944,2.083
 1111,3,Creature\SkeletalSerpent\SkeletalSerpent.mdx,1,1,3,1,18,12,1,0,0,0,988,0.6944,2.083
 1191,0,Creature\WarHorse\WarHorse.mdx,2,1,1,3,18,12,1,0,0,10,65,0.6944,2.083
 1211,0,Creature\Diemetradon\Diemetradon.mdx,1,1,3,7,18,12,1,0,0,0,1068,0.6944,2.083
@@ -271,7 +271,7 @@ ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintText
 458,0,Creature\RidingRaptor\RidingRaptor.mdx,1,1,1,5,24,18,1,0,0,0,34,0.6944,2.083
 1131,2,Creature\GolemStone\GolemCannonStone.mdx,2,1,3,4,18,12,1,0,0,0,1008,0.6944,2.083
 1331,0,Creature\FrostSabre\FrostSabre.mdx,1,1,1,7,24,18,1,0,0,0,1248,0.6944,2.083
-59,4,Character\Tauren\Male\TaurenMale.mdx,1,1,1,3,22,16,2,0,0,0,59,0.6944,1.944
+59,4,Character\Tauren\Male\TaurenMale.mdx,1,1,1,3,22,16,2,0,0,0,59,0.5903,1.653
 91,0,Creature\SilithidTank\SilithidTank.mdx,1,1,1,5,18,12,1,0,0,0,91,0.6944,2.083
 101,0,Creature\HumanMaleBlacksmith\HumanMaleBlacksmith.mdx,1,1,1,1,18,12,1,0,0,0,101,0.6944,2.056
 113,0,Creature\OrcMaleMerchantLight\OrcMaleMerchantLight.mdx,1,1,1,1,18,12,1,0,0,0,113,0.75,2.361
@@ -283,7 +283,7 @@ ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintText
 351,0,Creature\Chimera\Chimera.mdx,1,1,1,-1,18,12,1,0,0,0,328,0.6944,2.083
 411,9,Creature\FelBat\FelBat.mdx,1,1,2,-1,18,12,1,0,0,0,189,0.6944,2.083
 452,1,Creature\Fish\Fish.mdx,1,1,1,-1,18,12,1,0,0,0,389,0.6944,2.083
-512,1,Creature\Fish\Fish.mdx,1,1,-1,-1,18,12,1,0,0,0,389,0.6944,2.083
+512,3,Creature\Fish\Fish.mdx,1,1,-1,-1,18,12,1,0,0,0,389,0.6944,2.083
 471,0,Creature\Centaur\CentaurKhan.mdx,1,1,1,6,18,12,1,0,0,0,3,0.6944,2.083
 513,3,Creature\ElementalPoison\PoisonElemental.mdx,1,1,-1,-1,18,12,1,0,0,0,449,0.6944,2.083
 711,0,Creature\Kodobeast\KodoBeastTame.mdx,3,1,1,1,18,12,1,0,1,10,27,0.6944,2.083
@@ -320,7 +320,7 @@ ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintText
 100,0,Creature\HumanFemaleWarriorMedium\HumanFemaleWarriorMedium.mdx,1,1,1,1,18,12,1,0,0,0,100,0.4167,1.913
 118,0,Creature\Troll\TrollWhelp.mdx,1,1,-1,4,18,12,1,0,0,0,118,0.6944,2.083
 119,0,Creature\Troll\TrollMelee.mdx,1,1,-1,4,18,12,1,0,0,0,119,0.6944,2.083
-132,0,Creature\Crab\Crab.mdx,0,1,-1,1,4,3,1,0,0,0,132,0.6944,0.9722
+132,8,Creature\Crab\Crab.mdx,0,1,-1,1,4,3,1,0,0,0,132,0.6944,0.9722
 133,9,Creature\threshadon\Threshadon.mdx,1,1,-1,-1,18,12,1,0,0,0,133,0.6944,2.083
 146,0,Creature\Wendigo\Wendigo.mdx,0,1,1,4,18,12,1,0,0,0,144,0.6944,2.083
 147,1,Creature\Gryphon\Gryphon.mdx,2,1,1,-1,18,12,1,0,0,0,145,0.6944,2.083
@@ -330,5 +330,6 @@ ID,Flags,ModelName,SizeClass,ModelScale,BloodID,FootprintTextureID,FootprintText
 175,1,Creature\FaerieDragon\FaerieDragon.mdx,1,1,1,-1,18,12,1,0,0,0,173,0.6944,2.083
 188,8,Creature\AncientOfWar\AncientofWar.mdx,4,1,-1,1,18,12,1,0,2,11,179,0.6944,2.083
 190,3,Creature\Spells\Serpent_Totem.mdx,1,1,-1,-1,18,12,1,0,0,0,180,0.7936,2.876
+1831,11,Creature\Snowman\SnowMan.mdx,1,1,-1,1,0,0,0,0,0,0,1748,0,0
 1752,3,Creature\InvisibleStalker\InvisibleStalker.mdx,0,1,3,1,18,12,1,0,0,0,1608,0,0
 1651,0,Creature\Dragon\DragonAzurgoz.mdx,3,1,3,5,30,20,2,0,2,12,191,0.6944,2.083
