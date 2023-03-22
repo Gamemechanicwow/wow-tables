@@ -11,12 +11,12 @@ ID,SortName_lang[0]
 263,Druid
 324,First Aid
 1,Epic
-23,Undercity
-21,Wailing Caverns
-22,REUSE
+23,REUSE - old undercity one
+21,REUSE - old wailing caverns
+22,Seasonal
 24,Herbalism
-25,Monastery
-41,Uldaman
+25,REUSE - old scarlet monastery
+41,REUSE - old uldaman
 61,Warlock
 81,Warrior
 82,Shaman
@@ -24,5 +24,5 @@ ID,SortName_lang[0]
 262,Priest
 304,Cooking
 221,Treasure Map
-241,Sunken Temple
+241,REUSE - old sunken temple
 284,Special

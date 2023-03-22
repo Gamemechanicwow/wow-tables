@@ -3,3 +3,4 @@ ID,Flags,FactionGroup,Name_lang[0],Shortcut_lang[0]
 2,27,0,Trade - %s,
 23,65540,0,WorldDefense,
 22,65539,0,LocalDefense - %s,
+24,3,0,LookingForGroup - %s,

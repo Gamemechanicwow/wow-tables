@@ -1,5 +1,29 @@
 ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
-202,11,0,Engineering,,0
+516,9,0,Demon Tracking,,0
+517,9,0,Undead Tracking,,0
+519,9,0,Elemental Tracking,,0
+574,7,0,Balance,,0
+256,7,0,Fury,,0
+594,7,0,Holy,,0
+633,7,0,Lockpicking,,0
+654,7,0,Pet - Hyena,,0
+655,7,0,Pet - Owl,,0
+656,7,0,Pet - Wind Serpent,,0
+673,10,0,Language: Gutterspeak,,0
+95,6,0,Defense,,0
+333,11,0,Enchanting,,0
+186,11,0,Mining,,0
+43,6,0,Swords,,0
+55,6,0,Two-Handed Swords,,0
+713,9,0,Kodo Riding,,0
+733,9,0,Racial - Troll,,0
+753,9,0,Racial - Gnome,,0
+754,9,0,Racial - Human,,0
+173,6,0,Daggers,,0
+183,12,0,GENERIC (DND),,0
+184,7,0,Retribution,,0
+189,7,0,Pet - Felhunter,,0
+197,11,0,Tailoring,,0
 204,7,0,Pet - Voidwalker,,0
 205,7,0,Pet - Succubus,,0
 206,7,0,Pet - Infernal,,0
@@ -27,7 +51,6 @@ ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
 8,7,0,Fire,,0
 46,6,0,Guns,,0
 270,7,0,Pet - Talents,,0
-413,8,0,Mail,,0
 98,10,0,Language: Common,,0
 125,9,0,Orc Racial,,0
 315,10,0,Language: Troll,,0
@@ -35,13 +58,11 @@ ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
 152,9,0,Ram Riding,,0
 354,7,0,Demonology,,0
 355,7,0,Affliction,,0
-356,9,0,Fishing,,0
 165,11,0,Leatherworking,,0
 134,7,0,Feral Combat,,0
 373,7,0,Enhancement,,0
 374,7,0,Restoration,,0
 375,7,0,Elemental Combat,,0
-414,8,0,Leather,,0
 415,8,0,Cloth,,0
 236,7,0,Pet - Scorpid,,0
 237,7,0,Arcane,,0
@@ -54,30 +75,6 @@ ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
 215,7,0,Pet - Gorilla,,0
 222,12,0,Weapon Talents,,0
 233,12,0,Magic Talents,,0
-261,7,0,Beast Training,,0
-516,9,0,Demon Tracking,,0
-517,9,0,Undead Tracking,,0
-518,9,0,Dragon Tracking,,0
-519,9,0,Elemental Tracking,,0
-574,7,0,Balance,,0
-171,11,0,Alchemy,,0
-182,11,0,Herbalism,,0
-256,7,0,Fury,,0
-594,7,0,Holy,,0
-633,7,0,Lockpicking,,0
-654,7,0,Pet - Hyena,,0
-655,7,0,Pet - Owl,,0
-656,7,0,Pet - Wind Serpent,,0
-673,10,0,Language: Gutterspeak,,0
-95,6,0,Defense,,0
-333,11,0,Enchanting,,0
-186,11,0,Mining,,0
-43,6,0,Swords,,0
-55,6,0,Two-Handed Swords,,0
-713,9,0,Kodo Riding,,0
-733,9,0,Racial - Troll,,0
-753,9,0,Racial - Gnome,,0
-754,9,0,Racial - Human,,0
 393,11,0,Skinning,,0
 513,9,0,Beast Tracking,,0
 514,9,0,Humanoid Tracking,,0
@@ -94,13 +91,16 @@ ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
 313,10,0,Language: Gnomish,,0
 613,7,0,Discipline,,0
 653,7,0,Pet - Bat,,0
+413,8,0,Mail,,0
+414,8,0,Leather,,0
+45,6,0,Bows,,0
+176,6,0,Thrown,,0
 6,7,0,Frost,,0
 26,7,0,Arms,,0
 38,7,0,Combat,,0
 39,7,0,Subtlety,,0
 40,7,0,Poisons,,0
 44,6,0,Axes,,0
-45,6,0,Bows,,0
 50,7,0,Beast Mastery,,0
 51,7,0,Survival,,0
 54,6,0,Maces,,0
@@ -112,7 +112,6 @@ ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
 115,10,0,Language: Taurahe,,0
 118,6,0,Dual Wield,,0
 126,9,0,Night Elf Racial,,0
-129,9,0,First Aid,,0
 136,6,0,Staves,,0
 138,10,0,Language: Draconic,,0
 141,10,0,Language: Old Tongue,,0
@@ -124,10 +123,11 @@ ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
 163,7,0,Marksmanship,,0
 164,11,0,Blacksmithing,,0
 172,6,0,Two-Handed Axes,,0
-173,6,0,Daggers,,0
-176,6,0,Thrown,,0
-183,12,0,GENERIC (DND),,0
-184,7,0,Retribution,,0
+261,7,0,Beast Training,,0
+202,11,0,Engineering,,0
+356,9,0,Fishing,,0
+518,9,0,Dragon Tracking,,0
+171,11,0,Alchemy,,0
+182,11,0,Herbalism,,0
+129,9,0,First Aid,,0
 185,9,0,Cooking,,0
-189,7,0,Pet - Felhunter,,0
-197,11,0,Tailoring,,0

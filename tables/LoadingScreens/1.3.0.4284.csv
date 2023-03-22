@@ -6,3 +6,5 @@ ID,Name,FileName
 25,InstanceExterior,Interface\Glues\LoadingScreens\LoadScreenEnviroment.blp
 42,InstanceRuinedCity,Interface\Glues\LoadingScreens\LoadScreenRuinedCity.blp
 61,InstanceRaid,Interface\Glues\LoadingScreens\LoadScreenRaid.blp
+81,InstanceMaraudon,Interface\Glues\LoadingScreens\LoadScreenMaraudon.blp
+82,InstanceDireMaul,Interface\Glues\LoadingScreens\LoadScreenDireMaul.blp
