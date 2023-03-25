@@ -6,3 +6,9 @@ ID,Name,FileName
 25,InstanceExterior,Interface\Glues\LoadingScreens\LoadScreenEnviroment.blp
 42,InstanceRuinedCity,Interface\Glues\LoadingScreens\LoadScreenRuinedCity.blp
 61,InstanceRaid,Interface\Glues\LoadingScreens\LoadScreenRaid.blp
+81,InstanceMaraudon,Interface\Glues\LoadingScreens\LoadScreenMaraudon.blp
+82,InstanceDireMaul,Interface\Glues\LoadingScreens\LoadScreenDireMaul.blp
+101,InstanceStratholme,Interface\Glues\LoadingScreens\LoadScreenStrathome.blp
+102,InstanceScholomance,Interface\Glues\LoadingScreens\LoadScreenScholomance.blp
+103,InstanceBlackrockDepths,Interface\Glues\LoadingScreens\LoadScreenBlackrockDepths.blp
+104,InstancePvPBattleground,Interface\Glues\LoadingScreens\LoadScreenPvpBattleground.blp
