@@ -1,8 +1,4 @@
 ID,DoodadIdTag,Doodadpath
-570,439,PlagueLandsSpo01.mdx
-571,440,PlagueLandsMus02.mdx
-572,441,PlagueLandsFun02.mdx
-573,442,PlagueLandsFun01.mdx
 1,0,ElwFlo01.mdl
 2,1,ElwFlo02.mdl
 3,2,ElwFlo03.mdl
@@ -427,9 +423,14 @@ ID,DoodadIdTag,Doodadpath
 519,421,HyjGra03.mdx
 520,422,HyjGra02.mdx
 521,423,HyjGra01.mdx
+530,424,EmdGra06.mdx
+531,425,EmdGra05.mdx
+532,426,EmdGra04.mdx
 533,427,EmdGra04.mdx
 534,428,EmdGra03.mdx
 535,429,EmdGra02.mdx
+536,430,EmdGra01.mdx
+537,431,EmdFlo02.mdx
 538,432,EmdFlo01.mdx
 550,433,EmdCre01.mdx
 551,434,EmdCre02.mdx
@@ -437,8 +438,7 @@ ID,DoodadIdTag,Doodadpath
 553,436,EmdCre04.mdx
 554,437,EmdCre05.mdx
 555,438,EmdCre06.mdx
-530,424,EmdGra06.mdx
-531,425,EmdGra05.mdx
-532,426,EmdGra04.mdx
-536,430,EmdGra01.mdx
-537,431,EmdFlo02.mdx
+570,439,PlagueLandsSpo01.mdx
+571,440,PlagueLandsMus02.mdx
+572,441,PlagueLandsFun02.mdx
+573,442,PlagueLandsFun01.mdx

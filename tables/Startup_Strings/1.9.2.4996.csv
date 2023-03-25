@@ -4,3 +4,5 @@ ID,Name,Message_lang[0]
 3,MSG_GX_INIT_FAILED,World of Warcraft was unable to start up 3D acceleration.
 4,MSG_HW_UNSUPPORTED,Your 3D accelerator card is not supported by World of Warcraft. Please install a 3D accelerator card with dual-TMU support.
 5,MSG_HW_CHANGED,Hardware changed.  Reload default settings?
+9,MSG_GLUEXML_UI_CORRUPT,Your login interface files are corrupt.  Please reinstall the game.
+10,MSG_FRAMEXML_UI_CORRUPT,Your game interface files are corrupt.  Please remove your Interface\FrameXML folder.
