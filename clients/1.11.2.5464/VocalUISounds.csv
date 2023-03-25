@@ -1,6 +1,4 @@
 ID,VocalUIEnum,RaceID,NormalSoundID[0],NormalSoundID[1],PissedSoundID[0],PissedSoundID[1]
-739,66,3,1589,1661,0,0
-740,67,3,0,0,0,0
 9,0,1,1875,1999,626,626
 10,1,1,2618,2581,628,-1
 11,2,1,1876,2000,631,-1
@@ -532,3 +530,5 @@ ID,VocalUIEnum,RaceID,NormalSoundID[0],NormalSoundID[1],PissedSoundID[0],PissedS
 679,0,9,0,0,0,0
 699,67,4,2060,2060,0,0
 719,67,1,0,0,0,0
+739,66,3,1589,1661,0,0
+740,67,3,0,0,0,0
