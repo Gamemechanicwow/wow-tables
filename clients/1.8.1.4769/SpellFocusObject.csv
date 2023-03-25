@@ -1,4 +1,20 @@
 ID,Name_lang[0]
+923,the crate in the center of the Northridge Lumber Mill
+943,Moonkin Stone
+944,Darrowshire Town Square
+1003,Cliffspring Falls Cave Mouth
+1004,Dreadmist Peak Pool
+1043,Shrine of Remulos
+1083,Dire Pool
+1203,Orange Crystal Pool
+1243,Kroshius' Remains
+1264,Circle of Dark Summoning
+1283,The Great Ossuary
+1284,Terrordale Haunting Spirit
+1303,Aerie Peak Town Center
+1323,Uther's Tomb Statue
+1324,Grom's Monument
+1344,Altar of Zanza
 123,Mirror Lake Waterfall
 243,Temple of the Moon Fountain
 343,Hatetalon Stones
@@ -19,6 +35,12 @@ ID,Name_lang[0]
 963,Bright Light Beam
 1023,The Dead Goliaths
 1063,Foulweald Totem Mound
+1144,Western Crater
+1145,Snowfall Graveyard
+1164,Dun Baldar Courtyard
+1165,Frostwolf Keep Courtyard
+1183,Snowfall Graveyard
+1185,West Crater
 103,Barrens Summoning Circle
 203,Orgrimmar Summoning Circle
 223,Ruins of Stardust Fountain
@@ -27,6 +49,12 @@ ID,Name_lang[0]
 226,Spring Well
 705,Cliffspring River Waterfall
 823,Scholomance Viewing Room
+1103,Maraudon Portal
+1123,Horde Globe of Scrying
+1143,Eastern Crater
+1184,East Crater
+1223,Onyxia's Flame Breath
+1263,Pedestal of Immol'thar
 1,Anvil
 2,Loom
 3,Forge
@@ -39,6 +67,9 @@ ID,Name_lang[0]
 10,Machine Shop
 11,Shadowglen Moonwell
 12,Starbreeze Village Moonwell
+1345,Southshore
+1346,Bones of Grakkarond
+1347,Forsaken Stink Bomb
 13,Pools of Arlithrien Moonwell
 14,Oracle Glade Moonwell
 15,Venture Co. Airport
@@ -56,6 +87,8 @@ ID,Name_lang[0]
 483,Miblon Snarltooth
 543,Black Forge
 683,Unforged Seal of Ascension
+1163,Alliance Globe of Scrying
+1343,Pagle's Pointe
 83,Stormwind Summoning Circle
 143,Talon Den
 163,Xavian Waterfall
@@ -86,10 +119,3 @@ ID,Name_lang[0]
 843,the Jaedenar Corrupt Moon Well
 883,Moonwell
 903,Fire Plume Ridge Lava Lake
-923,the crate in the center of the Northridge Lumber Mill
-943,Moonkin Stone
-944,Darrowshire Town Square
-1003,Cliffspring Falls Cave Mouth
-1004,Dreadmist Peak Pool
-1043,Shrine of Remulos
-1083,Dire Pool
