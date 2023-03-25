@@ -5,7 +5,7 @@ ID,MinScale,MinScaleLevel,MaxScale,MaxScaleLevel,SkillLine[0],SkillLine[1],PetFo
 3,0.4,1,0.6,60,203,270,1,Spider,
 4,0.6,1,1,60,210,270,63,Bear,
 5,0.6,1,1,60,211,270,63,Boar,
-6,0.4,1,0.6,60,212,270,3,Crocilisk,
+6,0.4,1,0.6,60,212,270,3,Crocolisk,
 7,0.5,1,0.9,60,213,270,3,Carrion Bird,
 8,0.7,1,1.4,60,214,270,58,Crab,
 9,0.7,1,1,60,215,270,48,Gorilla,
