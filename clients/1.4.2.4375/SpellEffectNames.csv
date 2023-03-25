@@ -13,6 +13,7 @@ EnumID,Name_lang[0]
 102,Dismiss Pet
 105,Summon Object (slot 2)
 106,Summon Object (slot 3)
+115,Durability Damage Pct(%)
 0,None
 1,Instakill
 2,School Damage
@@ -43,7 +44,6 @@ EnumID,Name_lang[0]
 30,Energize
 31,Weapon % Dmg
 32,Trigger Missile
-35,Apply Area Aura
 36,Learn Spell
 37,Spell Defense
 38,Dispel
@@ -94,6 +94,7 @@ EnumID,Name_lang[0]
 28,Summon
 33,Open Lock
 39,Language
+43,Teleport Units (Face Caster)
 50,Summon Object
 53,Enchant Item Permanent
 59,Open Lock (Item)
@@ -111,3 +112,6 @@ EnumID,Name_lang[0]
 100,Inebriate
 109,Summon Dead Pet
 114,Attack Me
+116,Skin Player Corpse
+117,Spirit Heal
+35,Apply Area Aura

@@ -14,6 +14,10 @@ ID,Name,Weaponflags,Bodyflags,Field_0_7_0_3694_004,Flags,Fallback
 201,Submerge,0,0,0,3,0
 202,Submerged,0,0,0,3,0
 197,EmoteDanceOnce,0,0,0,0,69
+204,ArrowBirth,0,0,0,0,0
+205,GroupArrowBirth,0,0,0,0,0
+206,CorpseArrowBirth,0,0,0,0,0
+207,GuideArrowBirth,0,0,0,0,0
 195,EmoteTrain,0,0,0,3,0
 196,EmoteDead,0,0,0,2,1
 169,Sway,0,0,0,0,0
@@ -147,7 +151,7 @@ ID,Name,Weaponflags,Bodyflags,Field_0_7_0_3694_004,Flags,Fallback
 112,LoadThrown,0,264,20,2,0
 113,EmoteSalute,16,264,1,3,0
 114,KneelStart,16,256,1,0,0
-115,KneelLoop,16,0,1,32,114
+115,KneelLoop,16,0,1,34,114
 116,KneelEnd,16,256,1,16,114
 117,AttackUnarmedOff,16,296,1,0,87
 118,SpecialUnarmed,16,288,1,2,57
@@ -158,7 +162,7 @@ ID,Name,Weaponflags,Bodyflags,Field_0_7_0_3694_004,Flags,Fallback
 123,UseStandingLoop,16,256,1,34,128
 124,ChannelCastDirected,4,256,1,2,52
 125,ChannelCastOmni,4,256,1,2,31
-126,Whirlwind,0,288,10,2,0
+126,Whirlwind,32,288,10,2,0
 127,Birth,0,256,400,2,0
 128,UseStandingStart,4,256,1,2,0
 129,UseStandingEnd,32,256,1,18,128
