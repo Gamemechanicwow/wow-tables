@@ -1,5 +1,7 @@
 ID,InfoName_lang[0]
-41,PvP
-21,Life
 1,Elite
+21,Life
+41,PvP
 62,Raid
+81,Dungeon
+82,World Event
