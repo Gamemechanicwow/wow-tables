@@ -6,8 +6,8 @@ ID,ContinentID,Pos[0],Pos[1],Pos[2],Name_lang[0]
 55,1,-3147.39,-2842.18,34.61,Brackenwall Village, Dustwallow Marsh
 64,1,2711.44,-3889.01,103.7,Talrendis Point, Azshara
 65,1,6207.12,-1949.89,571.07,Talonbranch Glade, Felwood
-66,0,990.28,-1441.03,64.19,Chillwind Point, Western Plaguelands
-67,0,2240.61,-5340.11,85.04,Light's Hope Chapel, Eastern Plaguelands
+66,0,931.32,-1430.11,64.67,Chillwind Camp, Western Plaguelands
+67,0,2271.09,-5340.8,87.11,Light's Hope Chapel, Eastern Plaguelands
 37,1,139.24,1325.82,193.5,Nijel's Point, Desolace
 47,0,-12418.77,235.43,1.12,Stranglethorn, Grom'Gol to Orgrimmar Zeppelin
 61,1,2302.39,-2524.55,104.4,Splintertree Post, Ashenvale
@@ -58,13 +58,20 @@ ID,ContinentID,Pos[0],Pos[1],Pos[2],Name_lang[0]
 52,1,6799.24,-4742.44,701.5,Everlook, Winterspring
 53,1,6813.06,-4611.12,710.67,Everlook, Winterspring
 58,1,3374.71,996.97,5.19,Zoram'gar Outpost, Ashenvale
-68,0,2323.47,-5289.84,81.89,Light's Hope Chapel, Eastern Plaguelands
+68,0,2327.41,-5286.89,81.78,Light's Hope Chapel, Eastern Plaguelands
 39,1,-7223.97,-3734.59,8.39,Gadgetzan, Tanaris
 44,1,3661.52,-4390.38,113.05,Valormok, Azshara
 50,0,0,0,0,Menethil to Theramore Boat Path
 24,0,-6666,-2222.3,278.6,Generic, World target for Zeppelin Paths
 34,1,-1965.17,-5824.29,-1.06,The Barrens, Ratchet to Booty Bay Boat
 54,1,-4203.87,3284,-12.86,Feralas, Feathermoon Stronghold - Boat
-59,30,574.21,-46.65,37.61,Alliance Stronghold, Alterac Valley
-60,30,-1335.44,-319.69,90.66,Horde Stronghold, Alterac Valley
-69,1,7474.36,-2118.68,491.75,Moonglade
+59,30,574.21,-46.65,37.61,Dun Baldar, Alterac Valley
+60,30,-1335.44,-319.69,90.66,Frostwolf Keep, Alterac Valley
+69,1,7470.39,-2123.38,492.34,Moonglade
+70,0,-7504.03,-2187.54,165.53,Flame Crest, Burning Steppes
+71,0,-8364.61,-2738.35,185.46,Morgan's Vigil, Burning Steppes
+72,1,-6353.88,-251.83,-2.14,Valor's Rest, Silithus
+73,1,-6422.15,-320.75,-1.05,Valor's Rest, Silithus
+74,0,-6552.59,-1168.27,309.31,Thorium Point, Searing Gorge
+75,0,-6554.93,-1100.05,309.57,Thorium Point, Searing Gorge
+76,0,-635.26,-4720.5,5.38,Revantusk Village, The Hinterlands
