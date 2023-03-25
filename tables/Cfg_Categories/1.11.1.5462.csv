@@ -1,8 +1,5 @@
 Field_0_10_0_3892_000,Region_ID,Name_lang[0]
 1,1,United States
-2,100,Mountain Time
-3,100,Central Time
-4,100,Eastern Time
 1,2,Korea
 1,3,English
 2,3,German
@@ -10,3 +7,7 @@ Field_0_10_0_3892_000,Region_ID,Name_lang[0]
 4,3,Other
 1,4,Taiwan
 1,5,China
+1,99,Test Server
+5,1,Oceanic
+1,101,QA Server
+5,3,Spanish
