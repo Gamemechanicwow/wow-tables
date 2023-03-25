@@ -1,43 +1,4 @@
 ID,Text_lang[0]
-109,With arms flapping, %s struts around you.  Cluck, Cluck, Chicken!
-115,You chuckle at %s.
-117,You let out a hearty chuckle.
-118,%s claps excitedly for %s.
-120,You clap excitedly for %s.
-121,%s claps excitedly.
-123,%s looks at %s with a confused look.
-125,You look at %s with a confused look.
-127,You are hopelessly confused.
-128,%s congratulates %s.
-129,%s congratulates you.
-131,%s congratulates everyone.
-137,You let out a hacking cough.
-141,%s cowers in fear.
-142,You cower in fear.
-147,You crack your knuckles.
-149,%s cracks her knuckles while staring at you.
-150,%s cracks her knuckles.
-151,%s cringes away from %s.
-152,%s cringes away from you.
-159,%s cries.
-162,%s is curious what you are up to.
-168,%s curtsies before you.
-175,%s bursts into dance.
-177,%s raises a drink to %s.  Cheers!
-181,You raise a drink in the air before chugging it down.  Cheers!
-186,A tendril of drool runs down your lip.
-190,%s begins to eat.
-195,%s looks at you with crossed eyes.
-199,You brush up against %s and fart loudly.
-206,You fidget.
-209,You flex at %s.  Oooooh so strong!
-216,%s frowns.
-217,You frown.
-221,%s gasps.
-222,You gasp.
-228,%s giggles at %s.
-231,%s giggles.
-236,%s glares angrily.
 243,%s greets %s warmly.
 246,%s greets everyone warmly.
 248,%s grins wickedly at %s.
@@ -53,7 +14,6 @@ ID,Text_lang[0]
 277,%s is filled with happiness!
 278,You are filled with happiness!
 280,%s greets you with a hearty hello!
-285,%s hugs you.
 287,%s needs a hug!
 292,%s is hungry!
 293,You are hungry!
@@ -66,7 +26,6 @@ ID,Text_lang[0]
 312,%s lies down.
 313,You lie down.
 319,%s moans suggestively at %s.
-322,%s moans suggestively.
 324,%s drops his trousers and moons %s.
 330,%s drops her trousers and moons you.
 334,In quiet contemplation, you mourn the death of %s.
@@ -76,6 +35,8 @@ ID,Text_lang[0]
 353,%s picks her nose and shows it to you.
 358,You run around in a frenzied state of panic.
 364,%s pleads with %s.
+366,You plead with %s.
+370,%s points at %s.
 375,%s pokes %s.  Hey!
 376,%s pokes you.  Hey!
 379,You poke your belly and giggle.
@@ -96,8 +57,7 @@ ID,Text_lang[0]
 427,%s shouts at you.
 429,%s shouts.
 430,You shout.
-438,You shy away from %s.
-439,%s is so shy!
+438,You smile shyly at %s.
 442,%s sighs at you.
 446,
 447,
@@ -140,7 +100,6 @@ ID,Text_lang[0]
 574,%s comforts %s.
 580,%s cuddles up against you.
 583,You need to be cuddled.
-592,%s thinks everyone around him is a son of a motherless ogre.
 597,You introduce yourself to %s.
 601,%s introduces herself to you.
 610,%s licks %s.
@@ -184,51 +143,50 @@ ID,Text_lang[0]
 72,You are overcome with boredom.  Oh the drudgery!
 73,%s bounces up and down in front of %s.
 76,%s bounces up and down.
-81,%s will be right back.
 83,%s bows before %s.
 84,%s bows before you.
 88,%s burps rudely in %s's face.
 91,%s lets out a loud belch.
 96,%s waves goodbye to everyone.  Farewell!
-325,%s drops his trousers and moons you.
-327,%s drops his trousers and moons everyone.
-329,%s drops her trousers and moons %s.
-331,%s drops her trousers and moons everyone.
-343,%s nods at you.
-346,You nod.
-347,%s picks his nose and shows it to %s.
-349,You pick your nose and show it to %s.
-351,With a finger deep in one nostril, you pass the time.
-354,%s takes one look at %s and panics.
-356,You take one look at %s and panic.
-359,%s peers at %s searchingly.
-361,You peer at %s searchingly.
-363,You peer around, searchingly.
-367,%s drops to his knees and pleads in desperation.
-233,%s glares angrily at %s.
-234,%s glares angrily at you.
-639,%s pounces on top of you.
-640,You pounce on top of %s.
-642,You pounce out from the shadows.
-644,%s lavishes praise upon you.
-647,You praise the Light.
-648,%s purrs at %s.
-651,%s purrs like a kitten.
-652,You purr like a kitten.
-653,%s is puzzled by %s.
-661,%s raises his hand in the air.
-665,%s raises her hand in the air.
-668,You let %s know that you are ready!
-669,%s lets everyone know that he is ready!
-673,%s shimmies before %s.
-682,You shiver in your boots. Chilling!
-683,%s shivers in her boots. Chilling!
-686,You shoo %s away. Be gone pest!
-701,%s sniffs you.
-729,%s teases %s.
-174,You dance with %s.
-160,You cry.
-187,%s begins to eat in front of %s.
+109,With arms flapping, %s struts around you.  Cluck, Cluck, Chicken!
+115,You chuckle at %s.
+117,You let out a hearty chuckle.
+118,%s claps excitedly for %s.
+120,You clap excitedly for %s.
+121,%s claps excitedly.
+123,%s looks at %s with a confused look.
+125,You look at %s with a confused look.
+127,You are hopelessly confused.
+128,%s congratulates %s.
+129,%s congratulates you.
+131,%s congratulates everyone.
+137,You let out a hacking cough.
+141,%s cowers in fear.
+142,You cower in fear.
+147,You crack your knuckles.
+149,%s cracks her knuckles while staring at you.
+150,%s cracks her knuckles.
+151,%s cringes away from %s.
+152,%s cringes away from you.
+159,%s cries.
+162,%s is curious what you are up to.
+168,%s curtsies before you.
+175,%s bursts into dance.
+177,%s raises a drink to %s.  Cheers!
+181,You raise a drink in the air before chugging it down.  Cheers!
+186,A tendril of drool runs down your lip.
+190,%s begins to eat.
+195,%s looks at you with crossed eyes.
+199,You brush up against %s and fart loudly.
+206,You fidget.
+209,You flex at %s.  Oooooh so strong!
+216,%s frowns.
+217,You frown.
+221,%s gasps.
+222,You gasp.
+228,%s giggles at %s.
+231,%s giggles.
+236,%s glares angrily.
 188,%s begins to eat rations in front of you.
 191,You begin to eat.
 295,%s blows you a kiss.
@@ -239,7 +197,7 @@ ID,Text_lang[0]
 374,You point over yonder.
 390,You roar with bestial vigor.  So fierce!
 400,You make a rude gesture.
-437,%s shies away from you.
+437,%s smiles shyly at you.
 797,%s looks down upon %s with pity.
 799,You look down upon %s with pity.
 801,%s pities those around her.
@@ -254,7 +212,6 @@ ID,Text_lang[0]
 820,%s is scared!
 821,You are scared!
 822,%s flops about helplessly around %s.
-823,%s flops about helplessly around you.
 824,You flop about helplessly around %s.
 825,%s flops about helplessly.
 826,You flop about helplessly.
@@ -262,7 +219,7 @@ ID,Text_lang[0]
 833,%s moos at you. Mooooooooooo.
 834,You moo at %s. Mooooooooooo.
 836,Mooooooooooo.
-440,You are so shy!
+440,You smile shyly.
 443,You sigh at %s.
 448,%s falls asleep. Zzzzzzz.
 490,%s questions %s.
@@ -271,7 +228,6 @@ ID,Text_lang[0]
 506,%s thanks everyone.
 508,%s threatens %s with the wrath of doom.
 511,%s threatens everyone with the wrath of doom.
-514,%s lets you know that he is tired.
 518,%s lets %s know that she is tired.
 522,%s basks in the glory of victory with you.
 529,%s waves.
@@ -301,82 +257,9 @@ ID,Text_lang[0]
 460,You spit on %s.
 468,%s is suprised by %s's actions.
 485,%s talks excitedly with %s.
-694,%s slaps herself across the face. Ouch!
-700,%s sniffs %s.
-702,You sniff %s.
-704,You sniff the air around you.
-705,%s sniffs the air around her.
-714,You soothe %s. There, there...things will be ok.
-718,%s smells you. Wow, someone stinks!
-730,%s teases you.
-731,You tease %s.
-732,%s is such a tease.
-733,You are such a tease.
-737,%s is so thirsty. Can anyone spare a drink?
-739,%s lets %s know she is thirsty. Spare a drink?
-743,You veto %s's motion.
-746,%s snickers at %s.
-748,You snicker at %s.
-750,You quietly snicker to yourself.
-751,%s quietly snickers to herself.
-752,%s tickles %s.  Hee hee!
-34,%s beckons %s over.
-50,Blood oozes from %s's wounds.
-51,Blood oozes from your wounds.
-54,You blink at %s.
-59,You blush at %s.
-86,%s bows down graciously.
-87,You bow down graciously.
-30,%s is so bashful...too bashful to get your attention.
-31,You are so bashful...too bashful to get %s's attention.
-40,%s begs you.  How pathetic.
-47,You bite %s.  Ouch!
-69,%s is terribly bored with you.
-71,%s is overcome with boredom.  Oh the drudgery!
-74,%s bounces up and down in front of you.
-75,You bounce up and down in front of %s.
-89,%s burps rudely in your face.
-95,You wave goodbye to %s.  Farewell!
-98,%s cackles maniacally at %s.
-99,%s cackles maniacally at you.
-113,%s chuckles at %s.
-317,%s needs a massage!
-463,%s stares %s down.
-465,You stare %s down.
-472,You are so surprised!
-476,%s surrenders to his opponents.
-480,%s wants to talk things over with you.
-491,%s questions you.
-615,%s licks her lips.
-755,%s wants to be tickled.  Hee hee!
-104,%s cheers at you.
-106,%s cheers!
-107,You cheer!
-111,With arms flapping, %s struts around.  Cluck, Cluck, Chicken!
-134,%s coughs at you.
-135,You cough at %s.
-140,You cower in fear at the sight of %s.
-758,%s plays the world's smallest violin for you.
-763,%s smiles at you.
-765,%s smiles.
-766,You smile.
-779,%s makes a rude gesture at you.
-781,%s makes a rude gesture.
-171,You curtsey.
-172,%s dances with %s.
-225,You gaze eagerly at %s.
-402,%s salutes you with respect.
-504,%s thanks you.
-505,You thank %s.
-594,%s thinks everyone around her is a son of a motherless ogre.
-526,%s waves at %s.
-528,You wave at %s.
-531,%s welcomes %s.
-533,You welcome %s.
-543,You whistle at %s.
-545,You let forth a sharp whistle.
-366,You plead with %s.
-370,%s points at %s.
+489,You talk excitedly with everyone.
+515,You let %s know that you are tired.
+520,%s lets everyone know that she is tired.
 154,%s cringes in fear.
 155,You cringe in fear.
 161,%s is curious what %s is up to.
@@ -477,8 +360,148 @@ ID,Text_lang[0]
 314,%s massages %s's shoulders.
 320,%s moans suggestively at you.
 323,You moan suggestively.
-369,%s drops to her knees and plead in desperation.
-220,You gasp at %s.
+343,%s nods at you.
+346,You nod.
+347,%s picks his nose and shows it to %s.
+349,You pick your nose and show it to %s.
+351,With a finger deep in one nostril, you pass the time.
+354,%s takes one look at %s and panics.
+356,You take one look at %s and panic.
+359,%s peers at %s searchingly.
+361,You peer at %s searchingly.
+363,You peer around, searchingly.
+367,%s drops to his knees and pleads in desperation.
+233,%s glares angrily at %s.
+234,%s glares angrily at you.
+639,%s pounces on top of you.
+640,You pounce on top of %s.
+642,You pounce out from the shadows.
+644,%s lavishes praise upon you.
+647,You praise the Light.
+648,%s purrs at %s.
+651,%s purrs like a kitten.
+652,You purr like a kitten.
+653,%s is puzzled by %s.
+661,%s raises his hand in the air.
+665,%s raises her hand in the air.
+669,%s lets everyone know that he is ready!
+673,%s shimmies before %s.
+682,You shiver in your boots. Chilling!
+683,%s shivers in her boots. Chilling!
+686,You shoo %s away. Be gone pest!
+694,%s slaps herself across the face. Ouch!
+700,%s sniffs %s.
+702,You sniff %s.
+704,You sniff the air around you.
+705,%s sniffs the air around her.
+714,You soothe %s. There, there...things will be ok.
+718,%s smells you. Wow, someone stinks!
+730,%s teases you.
+731,You tease %s.
+732,%s is such a tease.
+733,You are such a tease.
+737,%s is so thirsty. Can anyone spare a drink?
+739,%s lets %s know she is thirsty. Spare a drink?
+743,You veto %s's motion.
+746,%s snickers at %s.
+748,You snicker at %s.
+750,You quietly snicker to yourself.
+751,%s quietly snickers to herself.
+752,%s tickles %s.  Hee hee!
+34,%s beckons %s over.
+50,Blood oozes from %s's wounds.
+51,Blood oozes from your wounds.
+54,You blink at %s.
+59,You blush at %s.
+86,%s bows down graciously.
+87,You bow down graciously.
+30,%s is so bashful...too bashful to get your attention.
+31,You are so bashful...too bashful to get %s's attention.
+40,%s begs you.  How pathetic.
+47,You bite %s.  Ouch!
+69,%s is terribly bored with you.
+71,%s is overcome with boredom.  Oh the drudgery!
+74,%s bounces up and down in front of you.
+75,You bounce up and down in front of %s.
+89,%s burps rudely in your face.
+95,You wave goodbye to %s.  Farewell!
+98,%s cackles maniacally at %s.
+99,%s cackles maniacally at you.
+113,%s chuckles at %s.
+317,%s needs a massage!
+463,%s stares %s down.
+465,You stare %s down.
+472,You are so surprised!
+476,%s surrenders to his opponents.
+480,%s wants to talk things over with you.
+491,%s questions you.
+615,%s licks her lips.
+755,%s wants to be tickled.  Hee hee!
+104,%s cheers at you.
+106,%s cheers!
+107,You cheer!
+111,With arms flapping, %s struts around.  Cluck, Cluck, Chicken!
+134,%s coughs at you.
+135,You cough at %s.
+140,You cower in fear at the sight of %s.
+758,%s plays the world's smallest violin for you.
+763,%s smiles at you.
+765,%s smiles.
+766,You smile.
+779,%s makes a rude gesture at you.
+781,%s makes a rude gesture.
+171,You curtsey.
+172,%s dances with %s.
+225,You gaze eagerly at %s.
+402,%s salutes you with respect.
+504,%s thanks you.
+505,You thank %s.
+594,%s thinks everyone around her is a son of a motherless ogre.
+526,%s waves at %s.
+528,You wave at %s.
+531,%s welcomes %s.
+533,You welcome %s.
+543,You whistle at %s.
+545,You let forth a sharp whistle.
+701,%s sniffs you.
+729,%s teases %s.
+174,You dance with %s.
+160,You cry.
+187,%s begins to eat in front of %s.
+502,%s taps her foot.  Hurry up already!
+510,You threaten %s with the wrath of doom.
+512,You threaten everyone with the wrath of doom.
+539,%s whines pathetically.
+341,You clearly state, NO.
+401,%s salutes %s with respect.
+527,%s waves at you.
+541,%s whistles at %s.
+377,You poke %s.  Hey!
+384,%s prays to the Gods.
+391,%s rolls on the floor laughing at %s.
+393,You roll on the floor laughing at %s.
+409,%s scratches himself.  Ah, much better!
+421,%s shakes his rear.
+434,%s shrugs.  Who knows?
+444,%s lets out a long, drawn-out sigh.
+461,%s spits on the ground.
+477,You surrender to your opponents.
+493,%s wants to know the meaning of life.
+498,%s taps his foot.  Hurry up already!
+507,You thank everyone around you.
+516,%s lets everyone know that he is tired.
+524,%s basks in the glory of victory.
+553,You yawn sleepily at %s.
+557,%s boggles at you.
+563,You try to calm %s down.
+567,%s lets you know that he is cold.
+578,You need to be comforted.
+588,You duck for cover.
+591,You think %s is the son of a motherless ogre.
+604,%s lets you know that he was just kidding!
+605,You let %s know that you were just kidding!
+632,You mock life and all it stands for.
+5,You agree.
 223,%s gazes eagerly at %s.
 224,%s gazes eagerly at you.
 227,You gaze off into the distance.
@@ -539,40 +562,88 @@ ID,Text_lang[0]
 888,You announce that you have low mana!
 901,%s orders you to open fire.
 902,You give the order to open fire.
+903,%s flirts with %s.
+904,%s flirts with you.
 905,You flirt with %s.
 906,%s flirts.
+907,You flirt.
+322,%s moans suggestively.
+325,%s drops his trousers and moons you.
+327,%s drops his trousers and moons everyone.
+329,%s drops her trousers and moons %s.
+331,%s drops her trousers and moons everyone.
+823,%s flops about helplessly around you.
+918,%s winks slyly at %s.
+919,%s winks slyly at you.
+920,You wink slyly at %s.
+921,%s winks slyly.
 749,%s quietly snickers to himself.
 754,You tickle %s.  Hee hee!
 93,%s waves goodbye to %s.  Farewell!
-100,You cackle maniacally at %s.
-318,You need a massage!
-469,%s is suprised by your actions.
-479,%s wants to talk things over with %s.
-484,%s talks to herself since no one else seems interested.
-103,%s cheers at %s!
-108,With arms flapping, %s struts around %s.  Cluck, Cluck, Chicken!
-138,%s cowers in fear at the sight of %s.
-764,You smile at %s.
-778,%s makes a rude gesture at %s.
-782,You make a rude gesture.
-889,%s motions for %s to follow.
-890,%s motions for you to follow.
-893,You motion for everyone to follow.
-877,
-878,
-881,You yell for everyone to flee!
-894,%s asks %s to wait.
-898,You ask everyone to wait.
-910,You tell %s a joke.
-116,%s lets out a hearty chuckle.
-122,You clap excitedly.
-136,%s lets out a hacking cough.
-145,You crack your knuckles while staring at %s.
-167,%s curtsies before %s.
-185,A tendril of drool runs down %s's lip.
-489,You talk excitedly with everyone.
-515,You let %s know that you are tired.
-520,%s lets everyone know that she is tired.
+11,%s raises his fist in anger at %s.
+19,%s apologizes to %s.  Sorry!
+33,You are bashful.
+670,You let everyone know that you are ready!
+671,%s lets you know that she is ready!
+672,%s lets everyone know that she is ready!
+680,You shiver beside %s. Chilling!
+681,%s shivers in his boots. Chilling!
+684,%s shoos %s away. Be gone pest!
+685,%s shoos you away. Be gone pest!
+641,%s pounces out from the shadows.
+646,%s praises the Light.
+650,You purr at %s.
+656,%s is puzzled. What's going on here?
+664,%s looks at you and raises her hand.
+674,%s shimmies before you.
+677,You shimmy before the masses.
+679,%s shivers beside you. Chilling!
+690,%s slaps you across the face. Ouch!
+697,You smirk slyly at %s.
+706,%s snubs %s.
+711,%s snubs all of the lowly peons around her.
+721,You smell the air around you. Wow, someone stinks!
+48,%s looks around for someone to bite.
+734,%s lets %s know he is thirsty. Spare a drink?
+740,%s lets you know she is thirsty. Spare a drink?
+581,You cuddle up against %s.
+66,You bonk yourself on the noggin.  Doh!
+85,You bow before %s.
+101,%s cackles maniacally at the situation.
+558,You boggle at %s.
+173,%s dances with you.
+157,%s cries on your shoulder.
+207,%s flexes at %s.  Oooooh so strong!
+296,You blow a kiss to %s.
+372,You point at %s.
+389,%s roars with bestial vigor.  So fierce!
+436,%s smiles shyly at %s.
+798,%s looks down upon you with pity.
+802,You pity those around you.
+808,%s barks at %s.
+64,You bonk %s on the noggin.  Doh!
+78,%s will be right back.  Sit tight, %s.
+97,You wave goodbye to everyone.  Farewell!
+110,With arms flapping, you strut around %s.  Cluck, Cluck, Chicken!
+126,%s is hopelessly confused.
+132,You congratulate everyone around you.
+144,%s cracks his knuckles while staring at you.
+158,You cry on %s's shoulder.
+176,You burst into dance.
+184,You look at %s and begin to drool.
+247,You greet everyone warmly.
+276,You are very happy with %s!
+218,%s gasps at %s.
+219,%s gasps at you.
+200,%s farts loudly.  Whew...what stinks?
+812,You bark. Woof woof!
+281,You greet %s with a hearty hello!
+283,You greet everyone with a hearty hello!
+288,You need a hug!
+289,%s is hungry.  Maybe %s has some food...
+291,You are hungry.  Maybe %s has some food...
+369,%s drops to her knees and plead in desperation.
+220,You gasp at %s.
 525,You bask in the glory of victory.
 549,%s begins to work.
 613,%s licks his lips.
@@ -641,134 +712,60 @@ ID,Text_lang[0]
 459,%s spits on you.
 467,You stare off into the distance.
 500,%s taps her foot as she waits for %s.
-502,%s taps her foot.  Hurry up already!
-510,You threaten %s with the wrath of doom.
-512,You threaten everyone with the wrath of doom.
-539,%s whines pathetically.
-341,You clearly state, NO.
-401,%s salutes %s with respect.
-527,%s waves at you.
-541,%s whistles at %s.
-377,You poke %s.  Hey!
-384,%s prays to the Gods.
-391,%s rolls on the floor laughing at %s.
-393,You roll on the floor laughing at %s.
-409,%s scratches himself.  Ah, much better!
-421,%s shakes his rear.
-434,%s shrugs.  Who knows?
-444,%s lets out a long, drawn-out sigh.
-461,%s spits on the ground.
-477,You surrender to your opponents.
-493,%s wants to know the meaning of life.
-498,%s taps his foot.  Hurry up already!
-507,You thank everyone around you.
-516,%s lets everyone know that he is tired.
-524,%s basks in the glory of victory.
-553,You yawn sleepily at %s.
-557,%s boggles at you.
-563,You try to calm %s down.
-567,%s lets you know that he is cold.
-578,You need to be comforted.
-588,You duck for cover.
-591,You think %s is the son of a motherless ogre.
-604,%s lets you know that he was just kidding!
-605,You let %s know that you were just kidding!
-632,You mock life and all it stands for.
-5,You agree.
-11,%s raises his fist in anger at %s.
-19,%s apologizes to %s.  Sorry!
-33,You are bashful.
-670,You let everyone know that you are ready!
-671,%s lets you know that she is ready!
-672,%s lets everyone know that she is ready!
-680,You shiver beside %s. Chilling!
-681,%s shivers in his boots. Chilling!
-684,%s shoos %s away. Be gone pest!
-685,%s shoos you away. Be gone pest!
-641,%s pounces out from the shadows.
-646,%s praises the Light.
-650,You purr at %s.
-656,%s is puzzled. What's going on here?
-664,%s looks at you and raises her hand.
-674,%s shimmies before you.
-677,You shimmy before the masses.
-679,%s shivers beside you. Chilling!
-690,%s slaps you across the face. Ouch!
-697,You smirk slyly at %s.
-706,%s snubs %s.
-711,%s snubs all of the lowly peons around her.
-721,You smell the air around you. Wow, someone stinks!
-48,%s looks around for someone to bite.
-734,%s lets %s know he is thirsty. Spare a drink?
-740,%s lets you know she is thirsty. Spare a drink?
-581,You cuddle up against %s.
-66,You bonk yourself on the noggin.  Doh!
-85,You bow before %s.
-101,%s cackles maniacally at the situation.
-558,You boggle at %s.
-173,%s dances with you.
-157,%s cries on your shoulder.
-207,%s flexes at %s.  Oooooh so strong!
-296,You blow a kiss to %s.
-372,You point at %s.
-389,%s roars with bestial vigor.  So fierce!
-436,%s shies away from %s.
-798,%s looks down upon you with pity.
-802,You pity those around you.
-808,%s barks at %s.
-64,You bonk %s on the noggin.  Doh!
-78,%s will be right back.  Sit tight, %s.
-97,You wave goodbye to everyone.  Farewell!
-110,With arms flapping, you strut around %s.  Cluck, Cluck, Chicken!
-126,%s is hopelessly confused.
-132,You congratulate everyone around you.
-144,%s cracks his knuckles while staring at you.
-158,You cry on %s's shoulder.
-176,You burst into dance.
-184,You look at %s and begin to drool.
-247,You greet everyone warmly.
-276,You are very happy with %s!
-218,%s gasps at %s.
-219,%s gasps at you.
-200,%s farts loudly.  Whew...what stinks?
-812,You bark. Woof woof!
-281,You greet %s with a hearty hello!
-283,You greet everyone with a hearty hello!
-288,You need a hug!
-289,%s is hungry.  Maybe %s has some food...
-291,You are hungry.  Maybe %s has some food...
-290,%s is hungry.  Maybe you have some food...
-332,In quiet contemplation, %s mourns the death of %s.
-336,In quiet contemplation, you mourn the loss of the dead.
-337,%s tells %s NO.  Not going to happen.
-342,%s nods at %s.
-355,%s takes one look at you and panics.
-365,%s pleads with you.
-382,%s says a prayer for you.
-394,%s rolls on the floor laughing.
-395,You roll on the floor laughing.
-417,%s is too sexy for her tunic...so sexy it hurts.
-431,%s shrugs at %s.  Who knows?
-433,You shrug at %s.  Who knows?
-435,You shrug.  Who knows?
-452,You bare your teeth and snarl at %s.
-473,%s surrenders before %s.  Such is the agony of defeat...
-495,%s taps his foot as he waits for %s.
-497,You tap your foot as you wait for %s.
+100,You cackle maniacally at %s.
+318,You need a massage!
+469,%s is suprised by your actions.
+479,%s wants to talk things over with %s.
+484,%s talks to herself since no one else seems interested.
+103,%s cheers at %s!
+108,With arms flapping, %s struts around %s.  Cluck, Cluck, Chicken!
+138,%s cowers in fear at the sight of %s.
+764,You smile at %s.
+778,%s makes a rude gesture at %s.
+782,You make a rude gesture.
+889,%s motions for %s to follow.
+890,%s motions for you to follow.
 891,You motion for %s to follow.
 892,%s motions for you to follow.
+893,You motion for everyone to follow.
+877,
+878,
+881,You yell for everyone to flee!
+894,%s asks %s to wait.
 895,%s asks you to wait.
 896,You ask %s to wait.
 897,%s asks you to wait.
+898,You ask everyone to wait.
 899,%s calls out for healing!
 900,You call out for healing!
-903,%s flirts with %s.
-904,%s flirts with you.
-907,You flirt.
+913,%s claps for %s, clearly unimpressed.
+915,You clap for %s, clearly unimpressed.
+916,%s claps half heartedly, clearly unimpressed.
+917,You clap half heartedly, clearly unimpressed.
+923,%s gently pats %s.
+924,%s gently pats you.
+925,You gently pat %s.
+926,%s needs a pat.
 908,%s tells a joke to %s.
 909,%s tells you a joke.
+910,You tell %s a joke.
 911,%s tells a joke.
 912,You tell a joke.
+914,%s claps for you, clearly unimpressed.
+927,You need a pat.
+592,%s thinks everyone around him is a son of a motherless ogre.
+81,%s will be right back.
+285,%s hugs you.
+668,You let %s know that you are ready!
+514,%s lets you know that he is tired.
+922,You wink slyly.
+439,%s smiles shyly.
+116,%s lets out a hearty chuckle.
+122,You clap excitedly.
+136,%s lets out a hacking cough.
+145,You crack your knuckles while staring at %s.
+167,%s curtsies before %s.
+185,A tendril of drool runs down %s's lip.
 203,%s fidgets impatiently while waiting for you.
 241,%s gloats over everyone's misfortune.
 249,%s grins at you wickedly.
@@ -842,7 +839,7 @@ ID,Text_lang[0]
 703,%s sniffs the air around him.
 211,You flex your muscles.  Oooooh so strong!
 397,%s makes a rude gesture at you.
-803,%s growls menacingly at %.
+803,%s growls menacingly at %s.
 412,%s thinks %s is a sexy devil.
 415,%s is too sexy for his tunic...so sexy it hurts.
 416,You're too sexy for your tunic...so sexy it hurts.
@@ -863,3 +860,21 @@ ID,Text_lang[0]
 263,%s takes one look at %s and lets out a guffaw!
 270,You hail %s.
 282,%s greets everyone with a hearty hello!
+290,%s is hungry.  Maybe you have some food...
+332,In quiet contemplation, %s mourns the death of %s.
+336,In quiet contemplation, you mourn the loss of the dead.
+337,%s tells %s NO.  Not going to happen.
+342,%s nods at %s.
+355,%s takes one look at you and panics.
+365,%s pleads with you.
+382,%s says a prayer for you.
+394,%s rolls on the floor laughing.
+395,You roll on the floor laughing.
+417,%s is too sexy for her tunic...so sexy it hurts.
+431,%s shrugs at %s.  Who knows?
+433,You shrug at %s.  Who knows?
+435,You shrug.  Who knows?
+452,You bare your teeth and snarl at %s.
+473,%s surrenders before %s.  Such is the agony of defeat...
+495,%s taps his foot as he waits for %s.
+497,You tap your foot as you wait for %s.

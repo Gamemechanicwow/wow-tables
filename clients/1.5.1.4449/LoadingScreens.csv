@@ -6,3 +6,16 @@ ID,Name,FileName
 25,InstanceExterior,Interface\Glues\LoadingScreens\LoadScreenEnviroment.blp
 42,InstanceRuinedCity,Interface\Glues\LoadingScreens\LoadScreenRuinedCity.blp
 61,InstanceRaid,Interface\Glues\LoadingScreens\LoadScreenRaid.blp
+81,InstanceMaraudon,Interface\Glues\LoadingScreens\LoadScreenMaraudon.blp
+82,InstanceDireMaul,Interface\Glues\LoadingScreens\LoadScreenDireMaul.blp
+101,InstanceStratholme,Interface\Glues\LoadingScreens\LoadScreenStrathome.blp
+102,InstanceScholomance,Interface\Glues\LoadingScreens\LoadScreenScholomance.blp
+103,InstanceBlackrockDepths,Interface\Glues\LoadingScreens\LoadScreenBlackrockDepths.blp
+104,InstanceAlteracValley,Interface\Glues\LoadingScreens\LoadScreenPvpBattleground.blp
+122,InstanceWarsongGulch,Interface\Glues\LoadingScreens\LoadScreenWarsongGulch.blp
+141,InstanceDeadmines,Interface\Glues\LoadingScreens\LoadScreenDeadmines.blp
+142,InstanceWailingCaverns,Interface\Glues\LoadingScreens\LoadScreenWailingCaverns.blp
+143,InstanceUldaman,Interface\Glues\LoadingScreens\LoadScreenUldaman.blp
+145,InstanceRazorfenD,Interface\Glues\LoadingScreens\LoadScreenRazorfenDowns.blp
+146,InstanceZulFarrak,Interface\Glues\LoadingScreens\LoadScreenZulFarrak.blp
+147,InstanceBlackWingLair,Interface\Glues\LoadingScreens\LoadScreenBlackWingLair.blp
