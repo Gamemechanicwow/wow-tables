@@ -1,4 +1,5 @@
 ID,RangeMin,RangeMax,Flags,DisplayName_lang[0],DisplayNameShort_lang[0]
+135,0,100,0,Tower 100,
 114,8,35,0,Hunter Range,
 1,0,0,0,Self Only,
 2,0,5,1,Combat Range,
@@ -24,3 +25,4 @@ ID,RangeMin,RangeMax,Flags,DisplayName_lang[0],DisplayNameShort_lang[0]
 94,8,40,0,Sting,
 95,8,25,0,Charge,
 96,0,2,0,Trap,
+134,0,80,0,Tower 80,

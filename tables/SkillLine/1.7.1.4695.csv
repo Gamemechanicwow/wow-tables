@@ -1,5 +1,74 @@
 ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
-202,11,0,Engineering,,0
+754,9,0,Racial - Human,,0
+393,11,0,Skinning,,0
+109,10,0,Language: Orcish,,0
+124,9,0,Tauren Racial,,0
+433,8,0,Shield,,0
+137,10,0,Language: Thalassian,,0
+473,6,0,Fist Weapons,,0
+140,10,0,Language: Titan,,0
+149,9,0,Wolf Riding,,0
+160,6,0,Two-Handed Maces,,0
+253,7,0,Assassination,,0
+313,10,0,Language: Gnomish,,0
+613,7,0,Discipline,,0
+653,7,0,Pet - Bat,,0
+413,8,0,Mail,,0
+414,8,0,Leather,,0
+45,6,0,Bows,,0
+229,6,0,Polearms,,0
+593,7,0,Destruction,,0
+573,7,0,Restoration,,0
+251,7,0,Pet - Turtle,,0
+257,7,0,Protection,,0
+293,8,0,Plate Mail,,0
+8,7,0,Fire,,0
+46,6,0,Guns,,0
+270,7,0,Pet - Generic,,0
+98,10,0,Language: Common,,0
+125,9,0,Orc Racial,,0
+315,10,0,Language: Troll,,0
+139,10,0,Language: Demon Tongue,,0
+152,9,0,Ram Riding,,0
+354,7,0,Demonology,,0
+355,7,0,Affliction,,0
+165,11,0,Leatherworking,,0
+134,7,0,Feral Combat,,0
+373,7,0,Enhancement,,0
+374,7,0,Restoration,,0
+375,7,0,Elemental Combat,,0
+415,8,0,Cloth,,0
+236,7,0,Pet - Scorpid,,0
+176,6,0,Thrown,,0
+6,7,0,Frost,,0
+26,7,0,Arms,,0
+38,7,0,Combat,,0
+39,7,0,Subtlety,,0
+44,6,0,Axes,,0
+50,7,0,Beast Mastery,,0
+51,7,0,Survival,,0
+56,7,0,Holy,,0
+78,7,0,Shadow Magic,,0
+101,9,0,Dwarven Racial,,0
+111,10,0,Language: Dwarven,,0
+113,10,0,Language: Darnassian,,0
+115,10,0,Language: Taurahe,,0
+118,6,0,Dual Wield,,0
+136,6,0,Staves,,0
+138,10,0,Language: Draconic,,0
+141,10,0,Language: Old Tongue,,0
+142,9,0,Survival,,0
+148,9,0,Horse Riding,,0
+150,9,0,Tiger Riding,,0
+155,9,0,Swimming,,0
+163,7,0,Marksmanship,,0
+164,11,0,Blacksmithing,,0
+172,6,0,Two-Handed Axes,,0
+173,6,0,Daggers,,0
+183,12,0,GENERIC (DND),,0
+184,7,0,Retribution,,0
+189,7,0,Pet - Felhunter,,0
+197,11,0,Tailoring,,0
 204,7,0,Pet - Voidwalker,,0
 205,7,0,Pet - Succubus,,0
 206,7,0,Pet - Infernal,,0
@@ -15,53 +84,7 @@ ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
 220,9,0,Racial - Undead,,0
 226,6,0,Crossbows,,0
 228,6,0,Wands,,0
-229,6,0,Polearms,,0
-231,12,0,Slayer Talents,,0
-234,12,0,Defensive Talents,,0
-593,7,0,Destruction,,0
-573,7,0,Restoration,,0
-251,7,0,Pet - Turtle,,0
-257,7,0,Protection,,0
-293,8,0,Plate Mail,,0
-267,7,0,Protection,,0
-8,7,0,Fire,,0
-46,6,0,Guns,,0
-270,7,0,Pet - Talents,,0
-413,8,0,Mail,,0
-98,10,0,Language: Common,,0
-125,9,0,Orc Racial,,0
-315,10,0,Language: Troll,,0
-139,10,0,Language: Demon Tongue,,0
-152,9,0,Ram Riding,,0
-354,7,0,Demonology,,0
-355,7,0,Affliction,,0
-356,9,0,Fishing,,0
-165,11,0,Leatherworking,,0
-134,7,0,Feral Combat,,0
-373,7,0,Enhancement,,0
-374,7,0,Restoration,,0
-375,7,0,Elemental Combat,,0
-414,8,0,Leather,,0
-415,8,0,Cloth,,0
-236,7,0,Pet - Scorpid,,0
-237,7,0,Arcane,,0
-533,9,0,Raptor Riding,,0
-553,9,0,Mechanostrider Piloting,,0
-554,9,0,Undead Horsemanship,,0
-188,7,0,Pet - Imp,,0
-203,7,0,Pet - Spider,,0
-207,7,0,Pet - Doomguard,,0
-215,7,0,Pet - Gorilla,,0
-222,12,0,Weapon Talents,,0
-233,12,0,Magic Talents,,0
-261,7,0,Beast Training,,0
-516,9,0,Demon Tracking,,0
-517,9,0,Undead Tracking,,0
-518,9,0,Dragon Tracking,,0
-519,9,0,Elemental Tracking,,0
 574,7,0,Balance,,0
-171,11,0,Alchemy,,0
-182,11,0,Herbalism,,0
 256,7,0,Fury,,0
 594,7,0,Holy,,0
 633,7,0,Lockpicking,,0
@@ -77,57 +100,23 @@ ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
 713,9,0,Kodo Riding,,0
 733,9,0,Racial - Troll,,0
 753,9,0,Racial - Gnome,,0
-754,9,0,Racial - Human,,0
-393,11,0,Skinning,,0
-513,9,0,Beast Tracking,,0
-514,9,0,Humanoid Tracking,,0
-109,10,0,Language: Orcish,,0
-124,9,0,Tauren Racial,,0
-433,8,0,Shield,,0
-137,10,0,Language: Thalassian,,0
-473,6,0,Fist Weapons,,0
-140,10,0,Language: Titan,,0
-149,9,0,Wolf Riding,,0
-160,6,0,Two-Handed Maces,,0
-230,12,0,Attribute Enhancements,,0
-253,7,0,Assassination,,0
-313,10,0,Language: Gnomish,,0
-613,7,0,Discipline,,0
-653,7,0,Pet - Bat,,0
-6,7,0,Frost,,0
-26,7,0,Arms,,0
-38,7,0,Combat,,0
-39,7,0,Subtlety,,0
-40,7,0,Poisons,,0
-44,6,0,Axes,,0
-45,6,0,Bows,,0
-50,7,0,Beast Mastery,,0
-51,7,0,Survival,,0
+533,9,0,Raptor Riding,,0
+553,9,0,Mechanostrider Piloting,,0
+554,9,0,Undead Horsemanship,,0
+188,7,0,Pet - Imp,,0
+203,7,0,Pet - Spider,,0
+207,7,0,Pet - Doomguard,,0
+215,7,0,Pet - Gorilla,,0
+202,11,0,Engineering,,0
+356,9,0,Fishing,,0
+171,11,0,Alchemy,,0
 54,6,0,Maces,,0
-56,7,0,Holy,,0
-78,7,0,Shadow Magic,,0
-101,9,0,Dwarven Racial,,0
-111,10,0,Language: Dwarven,,0
-113,10,0,Language: Darnassian,,0
-115,10,0,Language: Taurahe,,0
-118,6,0,Dual Wield,,0
-126,9,0,Night Elf Racial,,0
+182,11,0,Herbalism,,0
 129,9,0,First Aid,,0
-136,6,0,Staves,,0
-138,10,0,Language: Draconic,,0
-141,10,0,Language: Old Tongue,,0
-142,9,0,Survival,,0
-148,9,0,Horse Riding,,0
-150,9,0,Tiger Riding,,0
-155,9,0,Swimming,,0
-162,6,0,Unarmed,,0
-163,7,0,Marksmanship,,0
-164,11,0,Blacksmithing,,0
-172,6,0,Two-Handed Axes,,0
-173,6,0,Daggers,,0
-176,6,0,Thrown,,0
-183,12,0,GENERIC (DND),,0
-184,7,0,Retribution,,0
 185,9,0,Cooking,,0
-189,7,0,Pet - Felhunter,,0
-197,11,0,Tailoring,,0
+126,9,0,Night Elf Racial,,0
+237,7,0,Arcane,,0
+261,7,0,Beast Training,,0
+267,7,0,Protection,,0
+40,7,0,Poisons,,0
+162,6,0,Unarmed,,0

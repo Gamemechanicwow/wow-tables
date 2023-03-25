@@ -1,5 +1,5 @@
 # wow-tables
 
-Scraped tables from wow.tools
+DBC tables extracted from wow clients.
 
 Files are duplicated in /[client]/[table].csv and /[table]/[client].csv

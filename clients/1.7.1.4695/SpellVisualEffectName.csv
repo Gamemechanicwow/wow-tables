@@ -1,287 +1,4 @@
 ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
-106,Footstep Spray Dirt Walk,Particles\FootstepSprayDirtWalk.mdl,4,1
-107,HARDCODED Breath Cold,Particles\ColdBreath.mdl,5,1
-108,HARDCODED Breath Underwater,Particles\Bubbles.mdl,5,1
-109,Combat Blood Spurt Front Small Red,Particles\BloodSpurts\BloodSpurt.mdl,11,1
-110,Holy ImpactDD Uber Chest,Spells\Holy_ImpactDD_Uber_Chest.mdx,6,1
-117,Ice Precast Low Hand,Spells\Ice_Precast_Low_Hand.mdx,6,1
-118,zzOLD__Hit Splat Physical Big,Particles\BloodSpurts\HitSprite.mdx,0,1
-119,Holy Precast Uber Hand,Spells\Holy_Precast_Uber_Hand.mdx,0,1
-120,zzOLD__Hit Splat Holy Small,Particles\BloodSpurts\HitSprite.mdx,0,1
-121,Ice Precast Med Hand,Spells\Ice_Precast_Med_Hand.mdx,6,1
-122,Ice Precast High Base,Spells\Ice_Precast_High_Base.mdx,6,1
-123,Holy Precast High Base,Spells\Holy_Precast_High_Base.mdx,6,1
-124,Holy ImpactDD Med Chest,Spells\Holy_ImpactDD_Med_Chest.mdx,6,1
-125,Holy ImpactDD High Chest,Spells\Holy_ImpactDD_High_Chest.mdx,6,1
-126,Ice Precast High Hand,Spells\Ice_Precast_High_Hand.mdx,6,1
-127,Ice Precast Uber Hand,Spells\Ice_Precast_Uber_Hand.mdx,6,1
-128,Ice Precast Uber Base,Spells\Ice_Precast_Uber_Base.mdx,6,1
-129,Holy ImpactDD Low Chest,Spells\Holy_ImpactDD_Low_Chest.mdx,6,1
-130,Holy Precast Med Hand,Spells\Holy_Precast_Med_Hand.mdx,6,1
-131,Holy Precast High Hand,Spells\Holy_Precast_High_Hand.mdx,6,1
-134,zzOLD__Heal Precast Base,Particles\Heal_Precast_Base.mdl,0,1
-135,Holy Precast Low Hand,Spells\Holy_Precast_Low_Hand.mdx,0,1
-136,zzOLD__Heal Cast Base,Particles\Heal_cast_Base.mdl,0,1
-140,zzOLD__Heal_Impact_Base,Particles\Heal_Impact_Base.mdl,0,1
-141,zzOLD__Heal Precast Chest,Particles\Heal_Precast_Chest.mdl,0,1
-142,zzOLD__HolySmite Impact,Particles\HolySmite_Impact_Chest.mdl,0,1
-143,zzOLD__HolySmite Precast Base,Particles\HolySmite_Precast_Base.mdl,4,1
-144,zzOLD__Restoration_Precast_Chest,Particles\Restoration_PreCast_Chest.mdl,0,1
-145,zzOLD__Restoration_Precast_Base,Particles\Restoration_Precast_Base.mdl,0,1
-146,Nature Precast Hand,Spells\Nature_PreCast_Low_Hand.mdx,0,1
-147,Restoration Impact Base,Spells\Restoration_Impact_Base.mdx,0,0
-148,Holy ImpactDD Uber Base,Spells\Holy_ImpactDD_Uber_Base.mdx,0,1
-149,Shadow ImpactDD Low Chest,Spells\Shadow_ImpactDD_Low_Chest.mdx,0,1
-150,Shadow ImpactDD Med Base,Spells\Shadow_ImpactDD_Med_Base.mdx,0,1
-151,DeathCoil Missile,Spells\DeathCoil_Missile.mdx,0,1
-152,zzOLD__Bloodlust_PreCast_Hand,Particles\Bloodlust_PreCast_Hand.mdl,0,1
-153,PiercingStrike_Cast_Hand,Particles\PiercingStrike_Cast_Hand.mdl,0,1
-154,zzOLD__BurningBlast_Impact,Particles\BurningBlast_Impact_Chest.mdl,0,1
-155,zzOLD__HealSelf_Impact_Base,Particles\HealSelf_Impact_Base.mdl,0,1
-156,zzOLD__HealSelf_PreCast_Hand,Particles\HealSelf_PreCast_Hand.mdl,4,1
-157,LightningBolt Missile,Spells\LightningBolt_Missile.mdx,0,1
-158,Slow Impact Base,Spells\Slow_Impact_Base.mdx,0,1
-159,zzOLD__LogInEffect_Precast_Base,Particles\LoginFX.mdl,0,0
-160,zzOLD__Corruption Impact Head,Particles\CorrodeArmor_Impact_Head.mdl,0,1
-161,zzOLD__Power Word Shadow Impact,Particles\PWShadow_Impact.mdl,0,1
-162,Invisibility Impact,Spells\Invisibility_Impact_Base.mdl,0,1
-163,zzOLD__Invisibility PreCast Hands,Particles\Invisibility_PreCast_Hand.mdl,0,1
-164,Combat Blood Spurt Front Large Red,Particles\BloodSpurts\BloodSpurtLarge.mdl,11,1
-167,zzOLD__MoltenBlast_Impact,Particles\MoltenBlast_Impact.mdl,0,1
-168,Brilliance Aura Base,Spells\BrillianceAura.mdl,4,1
-169,SummonPet Cast Impact Base,Spells\SummonPet_Cast_Impact_Base.mdx,0,1
-170,Summon Precast Hand,Spells\Summon_PreCast_Hand.mdx,4,1
-171,Mining Pick,Spells\MiningPick_SpellObject.mdx,4,1
-172,zzOLD__FrostNova_AE,Particles\FrostNova_AE_Impact.mdl,4,50
-173,LightningShield Impact Base,Spells\LightningShield_Impact_Base.mdx,4,1
-174,zzOLD__Fizzle Physical,Particles\Physical_Fizzle_Hand.mdl,6,1
-175,zzOLD__Fizzle Holy,Particles\Holy_Fizzle_Hand.mdl,6,1
-176,zzOLD__Fizzle Fire,Particles\Fire_Fizzle_Hand.mdl,6,1
-177,zzOLD__Fizzle Nature,Particles\Nature_Fizzle_Hand.mdl,6,1
-178,zzOLD__Fizzle Frost,Particles\Frost_Fizzle_Hand.mdl,6,1
-179,zzOLD__Fizzle Shadow,Particles\Shadow_Fizzle_Hand.mdl,6,1
-180,zzOLD__DivineSmite_Precast_Base,Particles\DivineSmite_Precast_Base.mdl,0,1
-181,zzOLD__DivineSmite_Impact_Chest,Particles\DivineSmite_Impact_Chest.mdl,0,1
-182,zzOLD__DivineSmite Impact Base,Particles\DivineSmite_Impact_Base.mdl,4,1
-183,Combat Blood Spurt Front Small Green,Particles\BloodSpurts\BloodSpurtGreen.mdl,11,1
-184,Combat Blood Spurt Front Large Green,Particles\BloodSpurts\BloodSpurtGreenLarge.mdl,11,1
-187,FireShield Impact Head,Spells\FireShield_Impact_Head.mdx,4,1
-188,FireBolt Missile Low,Spells\FireBolt_Missile_Low.mdx,4,1
-189,zzOLD_Blessing Strength Impact Base,Spells\BlessingofStrength_Base.mdx,0,1
-190,BlessingofStrength Base,Spells\BlessingofStrength_Base.mdx,0,1
-191,BlessingofAgility Base,Spells\BlessingofAgility_Base.mdx,0,1
-192,zzOLD__Blessing of Agility 3 Impact Base,Spells\BlessingofAgility_Base.mdx,0,1
-193,BlessingofStamina Base,Spells\BlessingofStamina_Base.mdx,0,1
-194,zzOLD__Blessing Stamina Impact Base 3,Spells\BlessingofStamina_Base.mdx,0,1
-195,BlessingofProtection Base,Spells\BlessingofProtection_Base.mdx,0,1
-196,zzOLD_Blessing Protection Impact Base 3,Spells\BlessingofProtection_Base.mdx,0,1
-197,zzOLD__Holy Light Impact Base,Particles\HolyLight_Impact_Base.mdl,0,1
-198,zzOLD__InnerFire Impact Base,Particles\InnerFire_Impact_Base.mdl,0,1
-200,HARDCODED Footstep Water Run Spray,Particles\FootstepSprayWater.mdl,4,1
-201,HARDCODED Footstep Water Walk Spray,Particles\FootstepSprayWaterWalk.mdl,4,1
-202,zzOLD__Character Morph Effect,Particles\MorphFX.mdl,4,1
-205,zzOLD__Frost_Precast_High_Hand,Particles\Frost_Precast_High_Hand.mdl,0,1
-206,zzOLD__Frost_Precast_Med_Hand,Particles\Frost_Precast_Med_Hand.mdl,0,1
-207,zzOLD__Frost_Precast_Uber_Hand,Particles\Frost_Precast_Uber_Hand.mdl,4,1
-208,zzOLD__Frost_Precast_High_Base,Particles\Frost_Precast_High_Base.mdl,0,1
-210,zzOLD__Frost_Precast_Uber_Base,Particles\Frost_Precast_Uber_Base.mdl,4,1
-211,Holy Precast Uber Base,Spells\Holy_Precast_Uber_Base.mdx,4,1
-212,Fire ImpactDD High Chest,Spells\Fire_ImpactDD_High_Chest.mdx,0,0
-213,Fire ImpactDD High Base,Spells\Fire_ImpactDD_High_Base.mdx,0,1
-214,Ice ImpactDD Med Chest,Spells\Ice_ImpactDD_Med_Chest.mdx,4,1
-215,Swipe Caster,Spells\SwipeCaster.mdx,4,1
-216,Ice ImpactDD Uber Chest,Spells\Ice_ImpactDD_Uber_Chest.mdx,0,1
-217,Fire ImpactDD Low Chest,Spells\Fire_ImpactDD_Low_Chest.mdx,0,1
-218,Fire ImpactDD Med Chest,Spells\Fire_ImpactDD_Med_Chest.mdx,0,1
-219,Fire ImpactDD Uber Base,Spells\Fire_ImpactDD_Uber_Base.mdx,0,1
-220,Fire ImpactDD Uber Chest,Spells\Fire_ImpactDD_Uber_Chest.mdx,0,1
-221,Ice Precast High Head,Spells\Ice_Precast_High_Head.mdx,10,1
-222,Holy ImpactDD High Base,Spells\Holy_ImpactDD_High_Base.mdx,10,1
-223,DeathCoil Impact Chest,Spells\DeathCoil_Impact_Chest.mdx,0,1
-224,Holy Missile Low,Spells\Holy_Missile_Low.mdx,10,1
-225,Holy Missile Med,Spells\Holy_Missile_Med.mdx,10,1
-226,Holy Missile High,Spells\Holy_Missile_High.mdx,0,1
-227,Holy Missile Uber,Spells\Holy_Missile_Uber.mdx,10,1
-228,BloodyExplosion,Spells\BloodyExplosion.mdx,10,1
-229,Flamestrike ImpactDD Med Base,Spells\FlameStrike_ImpactDD_Med_Base.mdx,0,1
-230,Poison ImpactDot Med Chest,Spells\Poison_ImpactDot_Med_Chest.mdx,10,1
-231,Ice Missile Low,Spells\Ice_Missile_Low.mdx,10,1
-232,Ice Missile Med,Spells\Ice_Missile_Med.mdx,0,1
-233,Ice Missile High,Spells\Frostbolt.mdx,0,1
-234,Ice Missile Uber,Spells\Ice_Missile_Uber.mdx,0,1
-235,zzOLD__Ice ImpactDOT Low Base,Spells\Ice_ImpactDOT_Low.mdx,10,1
-236,Poison StateDot Med Base,Spells\Poison_ImpactDot_Med_Base.mdx,10,1
-237,FireStrike Missile Low,Spells\FireStrike_Missile_Low.mdx,0,0
-238,FrostArmor Low Head,Spells\FrostArmor_Low_Head.mdx,10,1
-239,Shadow ImpactBuff Base,Spells\Shadow_ImpactBuff_Base.mdx,10,1
-240,Dispel Low Base,Spells\Dispel_Low_Base.mdx,10,1
-241,DemonArmor Impact Head,Spells\DemonArmor_Impact_Head.mdx,10,1
-242,Item - Potion Healing,Spells\PotionA_SpellObject.mdx,0,1
-243,PotionB SpellObject,Spells\PotionB_SpellObject.mdx,0,1
-244,HolyLight Low Head,Spells\HolyLight_Low_Head.mdx,10,1
-245,LayonHands Low Chest,Spells\LayonHands_Low_Chest.mdx,10,1
-246,LayonHands Low Head,Spells\LayonHands_Low_Head.mdx,10,1
-247,HolyWordHeal Base,Spells\HolyWordHeal_Base.mdx,10,1
-248,Greater Heal Low Base,Spells\GreaterHeal_Low_Base.mdx,10,1
-249,Heal Low Base,Spells\Heal_Low_Base.mdx,10,1
-251,Corruption State Base,Spells\Corruption_ImpactDot_Med_Base.mdx,10,1
-252,Fire DOT State Chest,Spells\Fire_DOT_State_Chest.mdx,10,1
-253,Nullify base,Spells\Nullify_base.mdx,10,1
-254,ChainsofIce Low Base,Spells\ChainsofIce_Low_Base.mdx,4,1
-255,Sleep State Head,Spells\Sleep_State_Head.mdx,10,1
-256,Dynamite Lit,Spells\DynamiteA_SpellObject.mdx,10,1
-257,Bomb Explosion,Spells\Bomb_ExplosionA.mdx,4,1
-258,Dynamite Missile,Spells\DynamiteA_Missile.mdx,10,1
-259,Frost Bolt Missile,Spells\Frostbolt.mdx,0,1
-260,SealofMight Low Base,Spells\SealofMight_Low_Base.mdx,10,1
-261,BurningSpirit Impact Base,Spells\BurningSpirit_Impact_Base.mdx,0,1
-262,DivineShield Low Chest,Spells\DivineShield_Low_Chest.mdx,10,1
-263,DivineShield Low Base,Spells\DivineShield_Low_Base.mdx,10,1
-264,BurningIntellect Impact Base,Spells\BurningIntellect_Impact_Base.mdx,10,1
-265,ArcaneIntellect Impact Base,Spells\ArcaneIntellect_Impact_Base.mdx,0,1
-266,Taunt Head,Spells\Taunt_Head.mdx,0,1
-267,Conjure Item,Spells\ConjureItem.mdx,0,0
-268,Devotion Aura Base,Spells\DevotionAura_Base.mdx,0,1
-269,Conjure Item Cast,Spells\ConjureItemCast.mdx,4,1
-270,Soul Funnel Impact Chest,Spells\SoulFunnel_Impact_Chest.mdx,0,1
-271,Mana Funnel Impact Chest,Spells\ManaFunnel_Impact_Chest.mdx,0,1
-272,Magic PreCast Hand,Spells\Magic_PreCast_Hand.mdx,4,1
-273,Rake,Spells\Rake.mdx,0,1
-274,Anti-Shadow Impact Base,Spells\AntiShadow_Impact_Base.mdx,0,1
-276,Bestow Disease Impact Chest,Spells\BestowDisease_Impact_Chest.mdx,0,1
-277,Create Soulstone Cast,Spells\CreateSoulstone_Cast.mdx,0,1
-278,RetributionAura Base,Spells\RetributionAura_Base.mdx,0,1
-279,Resurrection Low Base,Spells\Resurrection_Low_Base.mdx,0,0
-280,Polymorph Impact,Spells\Polymorph_Impact.mdx,4,1
-281,LightningBolt Impact Chest,Spells\LightningBolt_Impact_Chest.mdx,0,1
-282,Frost Nova Area,Spells\Frost_Nova_area.mdx,4,1
-284,Frost Nova state,Spells\Frost_Nova_state.mdx,4,1
-285,Immolate State,Spells\Immolate_State.mdx,10,1
-286,Maul Impact,Spells\MaulImpact.mdx,0,1
-287,Fire Precast Hand,Spells\Fire_Precast_Hand.mdx,0,0
-288,Fire Cast Hand,Spells\Fire_Cast_Hand.mdx,0,0
-289,Harm Undead Aura Base,Spells\HarmUndeadAura_Base.mdx,0,1
-290,Maul Cast Base,Spells\MaulCasterBase.mdx,0,1
-291,Nature Precast Chest,Spells\Nature_Precast_Chest.mdx,0,0
-292,Flamestrike Area,Spells\Flamestrike_Area.mdx,0,1
-293,Lightning Cast Hand,Spells\Lightning_Cast_Hand.mdx,0,0
-294,HolySmite Low Chest,Spells\HolySmite_Low_Chest.mdx,0,1
-296,LightningShield State Base,Spells\LightningShield_State_Base.mdx,0,0
-297,Immolate State Base,Spells\Immolate_State_Base.mdx,0,1
-298,Life Tap State Chest,Spells\Lifetap_State_Chest.mdx,0,1
-299,Smash Impact Chest,Spells\Smash_Impact_Chest.mdx,0,0
-300,ShadowWordDominate Chest,Spells\ShadowWordDominate_Chest.mdx,0,1
-301,ShadowWordSilence Breath,Spells\ShadowWordSilence_Breath.mdx,0,1
-303,Anti-Magic PreCast Hand,Spells\AntiMagic_PreCast_Hand.mdx,0,1
-304,Anti-Magic State Base,Spells\AntiMagic_State_Base.mdx,0,1
-305,ShadowWordPain Chest,Spells\ShadowWordPain_Chest.mdx,0,1
-306,Magic Unlock,Spells\MagicUnlock.mdx,4,1
-307,Dark Ritual PreCast Base,Spells\DarkRitual_PreCast_Base.mdx,0,1
-308,ShadowWordFumble Head,Spells\ShadowWordFumble_Head.mdx,0,1
-309,Detect Invisibility Impact Base,Spells\DetectInvis_Impact_Base.mdx,0,1
-310,Detect Invisibility Impact Head,Spells\DetectInvis_Impact_Head.mdx,0,1
-311,CurseofWeakness Head,Spells\CurseofWeakness_Head.mdx,0,1
-312,CurseofFrailty Head,Spells\CurseofFrailty_Head.mdx,0,1
-313,RemoveCurse Base,Spells\RemoveCurse_Base.mdx,0,1
-314,NullifyDisease Base,Spells\NullifyDisease_Base.mdx,0,1
-315,NullifyPoison Base,Spells\NullifyPoison_Base.mdx,0,1
-320,RighteousFury Chest,Spells\RighteousFury_Chest.mdx,0,1
-714,Fire Nova Area,Spells\FireNova_Area.mdx,0,0
-715,Fire Nova State,Spells\FireNova_State.mdx,0,1
-716,Grounding Totem Impact,Spells\GroundingTotem_Impact.mdx,0,0
-321,MoltenBlast Impact Chest,Spells\MoltenBlast_Impact_Chest.mdx,0,0
-322,zzOLD_Slice and Dice,Particles\SliceDice_Impact_Chest.mdx,10,1
-323,Swipe Impact,Spells\SwipeImpact.mdx,0,1
-325,Faerie Fire Head State,Spells\FaerieFire.mdx,0,1
-326,HolyProtection Chest,Spells\HolyProtection_Chest.mdx,0,1
-328,LightningStorm Cloud State,Spells\LightningStorm_Cloud_State.mdx,0,1
-330,Shock Missile,Spells\Shock_Missile.mdx,10,1
-331,Shock Impact Chest,Spells\Shock_Impact_Chest.mdx,0,0
-332,Chainlightning Impact Chest,Spells\ChainLightning_Impact_Chest.mdx,0,0
-333,PrayerofHealing Chest,Spells\PrayerofHealing_Chest.mdx,0,1
-334,Spirit Armor Impact Head,Spells\SpiritArmor_Impact_Head.mdx,0,0
-335,Anti-Holy Impact Base,Spells\AntiHoly_Impact_Base.mdx,0,1
-336,RighteousnessAura Base,Spells\RighteousnessAura_Base.mdx,0,1
-337,BeastRageCaster,Spells\BeastRageCaster.mdx,0,1
-339,BeastRage State Head,Spells\BeastRageState.mdx,0,1
-340,Basic Strike,Spells\BasicStrike.mdx,0,1
-341,Thorns Base,Spells\Thorns_Base.mdx,0,1
-342,Thorns Low Chest,Spells\Thorns_Low_Chest.mdx,0,1
-343,Taunt Cast Base,Spells\Taunt_Cast.mdx,0,1
-1442,MindBlast Head,Spells\MindBlast_Head.mdx,0,1
-345,ChallengingShout Cast Base,Spells\ChallengingShout_Cast_Base.mdx,0,1
-346,InnerFire Base,Spells\InnerFire_Base.mdx,0,1
-347,Learn Impact Base,Spells\Learn_Impact_Base.mdx,0,1
-348,Mark of the Beast Impact Head,Spells\MarkofBeast_Impact_Head.mdx,0,1
-349,ThunderClap Cast Base,Spells\ThunderClap_Cast_Base.mdx,4,0
-350,Purge Impact Chest,Spells\Purge_Impact_Chest.mdx,0,0
-351,Unyielding Will Impact Chest,Spells\Unyielding_Will_Impact_Chest.mdx,0,1
-354,Undying Strength Impact Chest,Spells\Undying_Strength_Impact_Chest.mdx,0,1
-355,Cyclone State,Spells\Cyclone_State.mdx,0,1
-356,Slowing Strike Cast Hand,Spells\SlowingStrike_Cast_Hand.mdx,0,0
-357,Slowing Strike Impact Chest,Spells\SlowingStrike_Impact_Chest.mdx,0,0
-358,Slowing Strike Impact Base,Spells\SlowingStrike_Impact_Base.mdx,0,0
-360,Astral Recall Impact Base,Spells\Astral_Recall_Impact_Base.mdx,0,0
-361,Whirlwind Base,Spells\Whirlwind_State_Base.mdx,0,0
-362,Arrow Fire,Item\ObjectComponents\Ammo\ArrowFireFlight_01.mdx,0,0
-363,Arrow Ice,Item\ObjectComponents\Ammo\ArrowIceFlight_01.mdx,0,0
-365,Fireball Missile Low,Spells\Fireball_Missile_Low.mdx,0,1
-367,Invisibility Impact Chest,Spells\Invisibility_Impact_Chest.mdx,0,1
-368,Recklessness Impact Chest,Spells\Recklessness_Impact_Chest.mdx,0,0
-370,CounterSpell Impact Chest,Spells\CounterSpell_Impact_Chest.mdx,0,1
-371,ShadowProtection Chest,Spells\ShadowProtection_Chest.mdx,0,0
-372,ProtectionFromNature Chest,Spells\ProtectionFromNature_Chest.mdx,0,0
-373,ProtectionFromFire Chest,Spells\ProtectionFromFire_Chest.mdx,0,0
-374,ResistFrost Chest,Spells\ResistFrost_Chest.mdx,0,0
-375,BattleShout Cast Base,Spells\BattleShout_Cast_Base.mdx,0,0
-376,IntimidatingShout Cast Base,Spells\IntimidatingShout_Cast_Base.mdx,0,0
-377,DemoralizingShout Cast Base,Spells\DemoralizingShout_Cast_Base.mdx,0,0
-378,Strike Cast Base,Spells\Strike_Cast_Chest.mdx,0,0
-379,FinishingBlow Impact Chest,Spells\Feint_Impact_Chest.mdx,0,0
-380,SinisterStrike Base Cast,Spells\SinisterStrike_Base_Cast.mdx,0,0
-381,Kick Impact Chest,Spells\Kick_Chest_Impact.mdx,0,1
-389,Vanish Cast Base,Spells\Vanish_Cast_Base.mdx,0,0
-392,Magic Cast Hand,Spells\Magic_Cast_Hand.mdx,0,1
-393,Item - Bread,Spells\Item_Bread.mdx,0,0
-394,BackStab Impact Chest,Spells\BackStab_Impact_Chest.mdx,0,1
-396,BackStab Cast Base,Spells\BackStab_Cast_Base.mdx,0,1
-397,Gouge Precast State Hand,Spells\Gouge_Precast_State_Hand.mdx,0,0
-398,Blizzard Impact Base,Spells\Blizzard_Impact_Base.mdx,0,0
-399,Arcane Missile,Spells\Arcane_Missile.mdx,0,0
-401,Arcane Impact Chest,Spells\Magic_Impact_Chest.mdx,0,0
-402,Sap Impact Head,Spells\Sap_Impact_Chest.mdx,0,1
-403,Sap Cast Base,Spells\Sap_Cast_Base.mdx,0,1
-404,Cheap Shot Impact,Spells\CheapShot_Impact_Chest.mdx,0,0
-405,Arcane Missile Lvl 1,Spells\Arcane_Missile_Lvl1.mdx,0,0
-406,Arcane Missile Lvl 2,Spells\Arcane_Missile_Lvl2.mdx,0,0
-407,Arcane Missile Lvl 3,Spells\Arcane_Missile_Lvl3.mdx,0,0
-408,Arcane Missile Lvl 4,Spells\Arcane_Missile_Lvl4.mdx,0,0
-409,Polymorph Impact Base,Spells\Polymorph_Impact_Base.mdx,0,0
-410,HolyLight Impact Head,Spells\HolyLight_Impact_Head.mdx,0,0
-411,Totem Cleansing SpellObject,Spells\TotemB_SpellObject.mdx,0,0
-412,HolyWord Fortitude Impact Base,Spells\HolyWord_Fortitude_Impact_Base.mdx,0,0
-413,ShadowWordBefuddle Head,Spells\ShadowWordBefuddle_Head.mdx,0,0
-414,Renew Base,Spells\Renew_Base.mdx,0,0
-415,Renew Chest,Spells\Renew_Chest.mdx,0,0
-416,Strike Impact Chest,Spells\Strike_Impact_Chest.mdx,0,1
-417,Item - Tankard,Spells\TankardA_SpellObject.mdx,0,0
-420,Flamestrike Impact Base,Spells\Flamestrike_Impact_Base.mdx,4,1
-421,Ice Cast Low Hand,Spells\Ice_Precast_Low_Hand.mdx,0,1
-422,MageArmor Impact Head,Spells\MageArmor_Impact_Head.mdx,0,0
-423,Lesser Heal Impact Base,Spells\LesserHeal_Base.mdx,0,0
-424,FireShieldFinal Impact Head,Spells\FireShieldFinal_Impact_Head.mdx,0,0
-425,FireWard Impact Chest,Spells\FireWard_Impact_Chest.mdx,0,0
-426,FrostWard Impact Chest,Spells\FrostWard_Impact_Chest.mdx,0,0
-427,Seal Of Might Impact Base,Spells\SealOfMight_Impact_Base.mdx,0,0
-428,Seal Of Wrath Impact Base,Spells\SealOfWrath_Impact_Base.mdx,0,0
-429,Seal Of Fury Impact Base,Spells\SealOfFury_Impact_Base.mdx,0,1
-430,Seal Of Salvation Impact Base,Spells\SealOfSalvation_Impact_Base.mdx,0,0
-431,Seal Of Wisdom Impact Base,Spells\SealOfWisdom_Impact_Base.mdx,0,0
-432,Seal Of Protection Impact Base,Spells\SealOfProtection_Impact_Base.mdx,0,0
-433,MoltenBlast Missile Lvl2,Spells\MoltenBlast_Missile_Lvl2.mdx,0,0
-434,MoltenBlast Missile lvl3,Spells\MoltenBlast_Missile_Lvl3.mdx,0,0
-435,Healing Aura Base,Spells\HealingAura_Base.mdx,0,1
-436,Mind Rot Head Impact,Spells\MindRot_Head.mdx,0,0
 437,FarSight Impact Base,Spells\FarSight_Impact_Base.mdx,0,0
 1624,Flamestrike Impact,Spells\Flamestrike_Impact.mdx,0,1
 1643,Cleave Cast Base,Spells\Cleave_Cast_Base.mdx,0,1
@@ -467,6 +184,302 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 103,SummonPet PreCast Impact Base,Spells\SummonPet_Impact_Base.mdx,0,1
 104,zzOLD__DismemberBlood_Impact_Chest,Particles\DismemberBlood_Impact_Chest.mdl,0,1
 105,Footstep Spray Dirt Run,Particles\FootstepSprayDirt.mdl,4,1
+106,Footstep Spray Dirt Walk,Particles\FootstepSprayDirtWalk.mdl,4,1
+107,HARDCODED Breath Cold,Particles\ColdBreath.mdl,5,1
+108,HARDCODED Breath Underwater,Particles\Bubbles.mdl,5,1
+109,Combat Blood Spurt Front Small Red,Particles\BloodSpurts\BloodSpurt.mdl,11,1
+110,Holy ImpactDD Uber Chest,Spells\Holy_ImpactDD_Uber_Chest.mdx,6,1
+117,Ice Precast Low Hand,Spells\Ice_Precast_Low_Hand.mdx,6,1
+118,zzOLD__Hit Splat Physical Big,Particles\BloodSpurts\HitSprite.mdx,0,1
+119,Holy Precast Uber Hand,Spells\Holy_Precast_Uber_Hand.mdx,0,1
+120,zzOLD__Hit Splat Holy Small,Particles\BloodSpurts\HitSprite.mdx,0,1
+121,Ice Precast Med Hand,Spells\Ice_Precast_Med_Hand.mdx,6,1
+122,Ice Precast High Base,Spells\Ice_Precast_High_Base.mdx,6,1
+123,Holy Precast High Base,Spells\Holy_Precast_High_Base.mdx,6,1
+124,Holy ImpactDD Med Chest,Spells\Holy_ImpactDD_Med_Chest.mdx,6,1
+125,Holy ImpactDD High Chest,Spells\Holy_ImpactDD_High_Chest.mdx,6,1
+126,Ice Precast High Hand,Spells\Ice_Precast_High_Hand.mdx,6,1
+127,Ice Precast Uber Hand,Spells\Ice_Precast_Uber_Hand.mdx,6,1
+128,Ice Precast Uber Base,Spells\Ice_Precast_Uber_Base.mdx,6,1
+129,Holy ImpactDD Low Chest,Spells\Holy_ImpactDD_Low_Chest.mdx,6,1
+130,Holy Precast Med Hand,Spells\Holy_Precast_Med_Hand.mdx,6,1
+131,Holy Precast High Hand,Spells\Holy_Precast_High_Hand.mdx,6,1
+134,zzOLD__Heal Precast Base,Particles\Heal_Precast_Base.mdl,0,1
+135,Holy Precast Low Hand,Spells\Holy_Precast_Low_Hand.mdx,0,1
+136,zzOLD__Heal Cast Base,Particles\Heal_cast_Base.mdl,0,1
+140,zzOLD__Heal_Impact_Base,Particles\Heal_Impact_Base.mdl,0,1
+141,zzOLD__Heal Precast Chest,Particles\Heal_Precast_Chest.mdl,0,1
+142,zzOLD__HolySmite Impact,Particles\HolySmite_Impact_Chest.mdl,0,1
+143,zzOLD__HolySmite Precast Base,Particles\HolySmite_Precast_Base.mdl,4,1
+144,zzOLD__Restoration_Precast_Chest,Particles\Restoration_PreCast_Chest.mdl,0,1
+145,zzOLD__Restoration_Precast_Base,Particles\Restoration_Precast_Base.mdl,0,1
+146,Nature Precast Hand,Spells\Nature_PreCast_Low_Hand.mdx,0,1
+147,Restoration Impact Base,Spells\Restoration_Impact_Base.mdx,0,0
+148,Holy ImpactDD Uber Base,Spells\Holy_ImpactDD_Uber_Base.mdx,0,1
+149,Shadow ImpactDD Low Chest,Spells\Shadow_ImpactDD_Low_Chest.mdx,0,1
+150,Shadow ImpactDD Med Base,Spells\Shadow_ImpactDD_Med_Base.mdx,0,1
+151,DeathCoil Missile,Spells\DeathCoil_Missile.mdx,0,1
+152,zzOLD__Bloodlust_PreCast_Hand,Particles\Bloodlust_PreCast_Hand.mdl,0,1
+153,PiercingStrike_Cast_Hand,Particles\PiercingStrike_Cast_Hand.mdl,0,1
+154,zzOLD__BurningBlast_Impact,Particles\BurningBlast_Impact_Chest.mdl,0,1
+155,zzOLD__HealSelf_Impact_Base,Particles\HealSelf_Impact_Base.mdl,0,1
+156,zzOLD__HealSelf_PreCast_Hand,Particles\HealSelf_PreCast_Hand.mdl,4,1
+157,LightningBolt Missile,Spells\LightningBolt_Missile.mdx,0,1
+158,Slow Impact Base,Spells\Slow_Impact_Base.mdx,0,1
+159,zzOLD__LogInEffect_Precast_Base,Particles\LoginFX.mdl,0,0
+160,zzOLD__Corruption Impact Head,Particles\CorrodeArmor_Impact_Head.mdl,0,1
+161,zzOLD__Power Word Shadow Impact,Particles\PWShadow_Impact.mdl,0,1
+162,Invisibility Impact,Spells\Invisibility_Impact_Base.mdl,0,1
+163,zzOLD__Invisibility PreCast Hands,Particles\Invisibility_PreCast_Hand.mdl,0,1
+164,Combat Blood Spurt Front Large Red,Particles\BloodSpurts\BloodSpurtLarge.mdl,11,1
+167,zzOLD__MoltenBlast_Impact,Particles\MoltenBlast_Impact.mdl,0,1
+168,Brilliance Aura Base,Spells\BrillianceAura.mdl,4,1
+169,SummonPet Cast Impact Base,Spells\SummonPet_Cast_Impact_Base.mdx,0,1
+170,Summon Precast Hand,Spells\Summon_PreCast_Hand.mdx,4,1
+171,Mining Pick,Spells\MiningPick_SpellObject.mdx,4,1
+172,zzOLD__FrostNova_AE,Particles\FrostNova_AE_Impact.mdl,4,50
+173,LightningShield Impact Base,Spells\LightningShield_Impact_Base.mdx,4,1
+174,zzOLD__Fizzle Physical,Particles\Physical_Fizzle_Hand.mdl,6,1
+175,zzOLD__Fizzle Holy,Particles\Holy_Fizzle_Hand.mdl,6,1
+176,zzOLD__Fizzle Fire,Particles\Fire_Fizzle_Hand.mdl,6,1
+177,zzOLD__Fizzle Nature,Particles\Nature_Fizzle_Hand.mdl,6,1
+178,zzOLD__Fizzle Frost,Particles\Frost_Fizzle_Hand.mdl,6,1
+179,zzOLD__Fizzle Shadow,Particles\Shadow_Fizzle_Hand.mdl,6,1
+180,zzOLD__DivineSmite_Precast_Base,Particles\DivineSmite_Precast_Base.mdl,0,1
+181,zzOLD__DivineSmite_Impact_Chest,Particles\DivineSmite_Impact_Chest.mdl,0,1
+182,zzOLD__DivineSmite Impact Base,Particles\DivineSmite_Impact_Base.mdl,4,1
+183,Combat Blood Spurt Front Small Green,Particles\BloodSpurts\BloodSpurtGreen.mdl,11,1
+184,Combat Blood Spurt Front Large Green,Particles\BloodSpurts\BloodSpurtGreenLarge.mdl,11,1
+187,FireShield Impact Head,Spells\FireShield_Impact_Head.mdx,4,1
+188,FireBolt Missile Low,Spells\FireBolt_Missile_Low.mdx,4,1
+189,zzOLD_Blessing Strength Impact Base,Spells\BlessingofStrength_Base.mdx,0,1
+190,BlessingofStrength Base,Spells\BlessingofStrength_Base.mdx,0,1
+191,BlessingofAgility Base,Spells\BlessingofAgility_Base.mdx,0,1
+192,zzOLD__Blessing of Agility 3 Impact Base,Spells\BlessingofAgility_Base.mdx,0,1
+193,BlessingofStamina Base,Spells\BlessingofStamina_Base.mdx,0,1
+194,zzOLD__Blessing Stamina Impact Base 3,Spells\BlessingofStamina_Base.mdx,0,1
+195,BlessingofProtection Base,Spells\BlessingofProtection_Base.mdx,0,1
+196,zzOLD_Blessing Protection Impact Base 3,Spells\BlessingofProtection_Base.mdx,0,1
+197,zzOLD__Holy Light Impact Base,Particles\HolyLight_Impact_Base.mdl,0,1
+198,zzOLD__InnerFire Impact Base,Particles\InnerFire_Impact_Base.mdl,0,1
+200,HARDCODED Footstep Water Run Spray,Particles\FootstepSprayWater.mdl,4,1
+201,HARDCODED Footstep Water Walk Spray,Particles\FootstepSprayWaterWalk.mdl,4,1
+202,zzOLD__Character Morph Effect,Particles\MorphFX.mdl,4,1
+205,zzOLD__Frost_Precast_High_Hand,Particles\Frost_Precast_High_Hand.mdl,0,1
+206,zzOLD__Frost_Precast_Med_Hand,Particles\Frost_Precast_Med_Hand.mdl,0,1
+207,zzOLD__Frost_Precast_Uber_Hand,Particles\Frost_Precast_Uber_Hand.mdl,4,1
+208,zzOLD__Frost_Precast_High_Base,Particles\Frost_Precast_High_Base.mdl,0,1
+210,zzOLD__Frost_Precast_Uber_Base,Particles\Frost_Precast_Uber_Base.mdl,4,1
+211,Holy Precast Uber Base,Spells\Holy_Precast_Uber_Base.mdx,4,1
+212,Fire ImpactDD High Chest,Spells\Fire_ImpactDD_High_Chest.mdx,0,0
+213,Fire ImpactDD High Base,Spells\Fire_ImpactDD_High_Base.mdx,0,1
+214,Ice ImpactDD Med Chest,Spells\Ice_ImpactDD_Med_Chest.mdx,4,1
+215,Swipe Caster,Spells\SwipeCaster.mdx,4,1
+216,Ice ImpactDD Uber Chest,Spells\Ice_ImpactDD_Uber_Chest.mdx,0,1
+217,Fire ImpactDD Low Chest,Spells\Fire_ImpactDD_Low_Chest.mdx,0,1
+218,Fire ImpactDD Med Chest,Spells\Fire_ImpactDD_Med_Chest.mdx,0,1
+219,Fire ImpactDD Uber Base,Spells\Fire_ImpactDD_Uber_Base.mdx,0,1
+220,Fire ImpactDD Uber Chest,Spells\Fire_ImpactDD_Uber_Chest.mdx,0,1
+221,Ice Precast High Head,Spells\Ice_Precast_High_Head.mdx,10,1
+222,Holy ImpactDD High Base,Spells\Holy_ImpactDD_High_Base.mdx,10,1
+223,DeathCoil Impact Chest,Spells\DeathCoil_Impact_Chest.mdx,0,1
+224,Holy Missile Low,Spells\Holy_Missile_Low.mdx,10,1
+225,Holy Missile Med,Spells\Holy_Missile_Med.mdx,10,1
+226,Holy Missile High,Spells\Holy_Missile_High.mdx,0,1
+227,Holy Missile Uber,Spells\Holy_Missile_Uber.mdx,10,1
+228,BloodyExplosion,Spells\BloodyExplosion.mdx,10,1
+229,Flamestrike ImpactDD Med Base,Spells\FlameStrike_ImpactDD_Med_Base.mdx,0,1
+230,Poison ImpactDot Med Chest,Spells\Poison_ImpactDot_Med_Chest.mdx,10,1
+231,Ice Missile Low,Spells\Ice_Missile_Low.mdx,10,1
+232,Ice Missile Med,Spells\Ice_Missile_Med.mdx,0,1
+233,Ice Missile High,Spells\Frostbolt.mdx,0,1
+234,Ice Missile Uber,Spells\Ice_Missile_Uber.mdx,0,1
+235,zzOLD__Ice ImpactDOT Low Base,Spells\Ice_ImpactDOT_Low.mdx,10,1
+236,Poison StateDot Med Base,Spells\Poison_ImpactDot_Med_Base.mdx,10,1
+237,FireStrike Missile Low,Spells\FireStrike_Missile_Low.mdx,0,0
+238,FrostArmor Low Head,Spells\FrostArmor_Low_Head.mdx,10,1
+239,Shadow ImpactBuff Base,Spells\Shadow_ImpactBuff_Base.mdx,10,1
+240,Dispel Low Base,Spells\Dispel_Low_Base.mdx,10,1
+241,DemonArmor Impact Head,Spells\DemonArmor_Impact_Head.mdx,10,1
+242,Item - Potion Healing,Spells\PotionA_SpellObject.mdx,0,1
+243,PotionB SpellObject,Spells\PotionB_SpellObject.mdx,0,1
+244,HolyLight Low Head,Spells\HolyLight_Low_Head.mdx,10,1
+245,LayonHands Low Chest,Spells\LayonHands_Low_Chest.mdx,10,1
+246,LayonHands Low Head,Spells\LayonHands_Low_Head.mdx,10,1
+247,HolyWordHeal Base,Spells\HolyWordHeal_Base.mdx,10,1
+248,Greater Heal Low Base,Spells\GreaterHeal_Low_Base.mdx,10,1
+249,Heal Low Base,Spells\Heal_Low_Base.mdx,10,1
+251,Corruption State Base,Spells\Corruption_ImpactDot_Med_Base.mdx,10,1
+252,Fire DOT State Chest,Spells\Fire_DOT_State_Chest.mdx,10,1
+253,Nullify base,Spells\Nullify_base.mdx,10,1
+254,ChainsofIce Low Base,Spells\ChainsofIce_Low_Base.mdx,4,1
+255,Sleep State Head,Spells\Sleep_State_Head.mdx,10,1
+256,Dynamite Lit,Spells\DynamiteA_SpellObject.mdx,10,1
+257,Bomb Explosion,Spells\Bomb_ExplosionA.mdx,4,1
+258,Dynamite Missile,Spells\DynamiteA_Missile.mdx,10,1
+259,Frost Bolt Missile,Spells\Frostbolt.mdx,0,1
+260,SealofMight Low Base,Spells\SealofMight_Low_Base.mdx,10,1
+261,BurningSpirit Impact Base,Spells\BurningSpirit_Impact_Base.mdx,0,1
+262,DivineShield Low Chest,Spells\DivineShield_Low_Chest.mdx,10,1
+263,DivineShield Low Base,Spells\DivineShield_Low_Base.mdx,10,1
+264,BurningIntellect Impact Base,Spells\BurningIntellect_Impact_Base.mdx,10,1
+265,ArcaneIntellect Impact Base,Spells\ArcaneIntellect_Impact_Base.mdx,0,1
+266,Taunt Head,Spells\Taunt_Head.mdx,0,1
+267,Conjure Item,Spells\ConjureItem.mdx,0,0
+268,Devotion Aura Base,Spells\DevotionAura_Base.mdx,0,1
+269,Conjure Item Cast,Spells\ConjureItemCast.mdx,4,1
+270,Soul Funnel Impact Chest,Spells\SoulFunnel_Impact_Chest.mdx,0,1
+271,Mana Funnel Impact Chest,Spells\ManaFunnel_Impact_Chest.mdx,0,1
+272,Magic PreCast Hand,Spells\Magic_PreCast_Hand.mdx,4,1
+273,Rake,Spells\Rake.mdx,0,1
+274,Anti-Shadow Impact Base,Spells\AntiShadow_Impact_Base.mdx,0,1
+276,Bestow Disease Impact Chest,Spells\BestowDisease_Impact_Chest.mdx,0,1
+277,Create Soulstone Cast,Spells\CreateSoulstone_Cast.mdx,0,1
+278,RetributionAura Base,Spells\RetributionAura_Base.mdx,0,1
+279,Resurrection Low Base,Spells\Resurrection_Low_Base.mdx,0,0
+280,Polymorph Impact,Spells\Polymorph_Impact.mdx,4,1
+281,LightningBolt Impact Chest,Spells\LightningBolt_Impact_Chest.mdx,0,1
+282,Frost Nova Area,Spells\Frost_Nova_area.mdx,4,1
+284,Frost Nova state,Spells\Frost_Nova_state.mdx,4,1
+285,Immolate State,Spells\Immolate_State.mdx,10,1
+286,Maul Impact,Spells\MaulImpact.mdx,0,1
+287,Fire Precast Hand,Spells\Fire_Precast_Hand.mdx,0,0
+288,Fire Cast Hand,Spells\Fire_Cast_Hand.mdx,0,0
+289,Harm Undead Aura Base,Spells\HarmUndeadAura_Base.mdx,0,1
+290,Maul Cast Base,Spells\MaulCasterBase.mdx,0,1
+291,Nature Precast Chest,Spells\Nature_Precast_Chest.mdx,0,0
+292,Flamestrike Area,Spells\Flamestrike_Area.mdx,0,1
+293,Lightning Cast Hand,Spells\Lightning_Cast_Hand.mdx,0,0
+294,HolySmite Low Chest,Spells\HolySmite_Low_Chest.mdx,0,1
+296,LightningShield State Base,Spells\LightningShield_State_Base.mdx,0,0
+297,Immolate State Base,Spells\Immolate_State_Base.mdx,0,1
+298,Life Tap State Chest,Spells\Lifetap_State_Chest.mdx,0,1
+299,Smash Impact Chest,Spells\Smash_Impact_Chest.mdx,0,0
+300,ShadowWordDominate Chest,Spells\ShadowWordDominate_Chest.mdx,0,1
+301,ShadowWordSilence Breath,Spells\ShadowWordSilence_Breath.mdx,0,1
+303,Anti-Magic PreCast Hand,Spells\AntiMagic_PreCast_Hand.mdx,0,1
+304,Anti-Magic State Base,Spells\AntiMagic_State_Base.mdx,0,1
+305,ShadowWordPain Chest,Spells\ShadowWordPain_Chest.mdx,0,1
+306,Magic Unlock,Spells\MagicUnlock.mdx,4,1
+321,MoltenBlast Impact Chest,Spells\MoltenBlast_Impact_Chest.mdx,0,0
+322,zzOLD_Slice and Dice,Particles\SliceDice_Impact_Chest.mdx,10,1
+323,Swipe Impact,Spells\SwipeImpact.mdx,0,1
+325,Faerie Fire Head State,Spells\FaerieFire.mdx,0,1
+326,HolyProtection Chest,Spells\HolyProtection_Chest.mdx,0,1
+328,LightningStorm Cloud State,Spells\LightningStorm_Cloud_State.mdx,0,1
+330,Shock Missile,Spells\Shock_Missile.mdx,10,1
+331,Shock Impact Chest,Spells\Shock_Impact_Chest.mdx,0,0
+332,Chainlightning Impact Chest,Spells\ChainLightning_Impact_Chest.mdx,0,0
+333,PrayerofHealing Chest,Spells\PrayerofHealing_Chest.mdx,0,1
+334,Spirit Armor Impact Head,Spells\SpiritArmor_Impact_Head.mdx,0,0
+335,Anti-Holy Impact Base,Spells\AntiHoly_Impact_Base.mdx,0,1
+336,RighteousnessAura Base,Spells\RighteousnessAura_Base.mdx,0,1
+337,BeastRageCaster,Spells\BeastRageCaster.mdx,0,1
+339,BeastRage State Head,Spells\BeastRageState.mdx,0,1
+340,Basic Strike,Spells\BasicStrike.mdx,0,1
+341,Thorns Base,Spells\Thorns_Base.mdx,0,1
+342,Thorns Low Chest,Spells\Thorns_Low_Chest.mdx,0,1
+343,Taunt Cast Base,Spells\Taunt_Cast.mdx,0,1
+1442,MindBlast Head,Spells\MindBlast_Head.mdx,0,1
+345,ChallengingShout Cast Base,Spells\ChallengingShout_Cast_Base.mdx,0,1
+346,InnerFire Base,Spells\InnerFire_Base.mdx,0,1
+347,Learn Impact Base,Spells\Learn_Impact_Base.mdx,0,1
+348,Mark of the Beast Impact Head,Spells\MarkofBeast_Impact_Head.mdx,0,1
+349,ThunderClap Cast Base,Spells\ThunderClap_Cast_Base.mdx,4,0
+350,Purge Impact Chest,Spells\Purge_Impact_Chest.mdx,0,0
+351,Unyielding Will Impact Chest,Spells\Unyielding_Will_Impact_Chest.mdx,0,1
+354,Undying Strength Impact Chest,Spells\Undying_Strength_Impact_Chest.mdx,0,1
+355,Cyclone State,Spells\Cyclone_State.mdx,0,1
+356,Slowing Strike Cast Hand,Spells\SlowingStrike_Cast_Hand.mdx,0,0
+357,Slowing Strike Impact Chest,Spells\SlowingStrike_Impact_Chest.mdx,0,0
+358,Slowing Strike Impact Base,Spells\SlowingStrike_Impact_Base.mdx,0,0
+360,Astral Recall Impact Base,Spells\Astral_Recall_Impact_Base.mdx,0,0
+361,Whirlwind Base,Spells\Whirlwind_State_Base.mdx,0,0
+362,Arrow Fire,Item\ObjectComponents\Ammo\ArrowFireFlight_01.mdx,0,0
+363,Arrow Ice,Item\ObjectComponents\Ammo\ArrowIceFlight_01.mdx,0,0
+365,Fireball Missile Low,Spells\Fireball_Missile_Low.mdx,0,1
+367,Invisibility Impact Chest,Spells\Invisibility_Impact_Chest.mdx,0,1
+368,Recklessness Impact Chest,Spells\Recklessness_Impact_Chest.mdx,0,0
+370,CounterSpell Impact Chest,Spells\CounterSpell_Impact_Chest.mdx,0,1
+371,ShadowProtection Chest,Spells\ShadowProtection_Chest.mdx,0,0
+372,ProtectionFromNature Chest,Spells\ProtectionFromNature_Chest.mdx,0,0
+373,ProtectionFromFire Chest,Spells\ProtectionFromFire_Chest.mdx,0,0
+374,ResistFrost Chest,Spells\ResistFrost_Chest.mdx,0,0
+375,BattleShout Cast Base,Spells\BattleShout_Cast_Base.mdx,0,0
+376,IntimidatingShout Cast Base,Spells\IntimidatingShout_Cast_Base.mdx,0,0
+377,DemoralizingShout Cast Base,Spells\DemoralizingShout_Cast_Base.mdx,0,0
+378,Strike Cast Base,Spells\Strike_Cast_Chest.mdx,0,0
+379,FinishingBlow Impact Chest,Spells\Feint_Impact_Chest.mdx,0,0
+380,SinisterStrike Base Cast,Spells\SinisterStrike_Base_Cast.mdx,0,0
+381,Kick Impact Chest,Spells\Kick_Chest_Impact.mdx,0,1
+389,Vanish Cast Base,Spells\Vanish_Cast_Base.mdx,0,0
+392,Magic Cast Hand,Spells\Magic_Cast_Hand.mdx,0,1
+393,Item - Bread,Spells\Item_Bread.mdx,0,0
+394,BackStab Impact Chest,Spells\BackStab_Impact_Chest.mdx,0,1
+396,BackStab Cast Base,Spells\BackStab_Cast_Base.mdx,0,1
+397,Gouge Precast State Hand,Spells\Gouge_Precast_State_Hand.mdx,0,0
+398,Blizzard Impact Base,Spells\Blizzard_Impact_Base.mdx,0,0
+399,Arcane Missile,Spells\Arcane_Missile.mdx,0,0
+401,Arcane Impact Chest,Spells\Magic_Impact_Chest.mdx,0,0
+402,Sap Impact Head,Spells\Sap_Impact_Chest.mdx,0,1
+403,Sap Cast Base,Spells\Sap_Cast_Base.mdx,0,1
+404,Cheap Shot Impact,Spells\CheapShot_Impact_Chest.mdx,0,0
+405,Arcane Missile Lvl 1,Spells\Arcane_Missile_Lvl1.mdx,0,0
+406,Arcane Missile Lvl 2,Spells\Arcane_Missile_Lvl2.mdx,0,0
+407,Arcane Missile Lvl 3,Spells\Arcane_Missile_Lvl3.mdx,0,0
+408,Arcane Missile Lvl 4,Spells\Arcane_Missile_Lvl4.mdx,0,0
+409,Polymorph Impact Base,Spells\Polymorph_Impact_Base.mdx,0,0
+410,HolyLight Impact Head,Spells\HolyLight_Impact_Head.mdx,0,0
+411,Totem Cleansing SpellObject,Spells\TotemB_SpellObject.mdx,0,0
+412,HolyWord Fortitude Impact Base,Spells\HolyWord_Fortitude_Impact_Base.mdx,0,0
+413,ShadowWordBefuddle Head,Spells\ShadowWordBefuddle_Head.mdx,0,0
+414,Renew Base,Spells\Renew_Base.mdx,0,0
+415,Renew Chest,Spells\Renew_Chest.mdx,0,0
+416,Strike Impact Chest,Spells\Strike_Impact_Chest.mdx,0,1
+417,Item - Tankard,Spells\TankardA_SpellObject.mdx,0,0
+420,Flamestrike Impact Base,Spells\Flamestrike_Impact_Base.mdx,4,1
+421,Ice Cast Low Hand,Spells\Ice_Precast_Low_Hand.mdx,0,1
+422,MageArmor Impact Head,Spells\MageArmor_Impact_Head.mdx,0,0
+423,Lesser Heal Impact Base,Spells\LesserHeal_Base.mdx,0,0
+424,FireShieldFinal Impact Head,Spells\FireShieldFinal_Impact_Head.mdx,0,0
+425,FireWard Impact Chest,Spells\FireWard_Impact_Chest.mdx,0,0
+426,FrostWard Impact Chest,Spells\FrostWard_Impact_Chest.mdx,0,0
+427,Seal Of Might Impact Base,Spells\SealOfMight_Impact_Base.mdx,0,0
+428,Seal Of Wrath Impact Base,Spells\SealOfWrath_Impact_Base.mdx,0,0
+429,Seal Of Fury Impact Base,Spells\SealOfFury_Impact_Base.mdx,0,1
+430,Seal Of Salvation Impact Base,Spells\SealOfSalvation_Impact_Base.mdx,0,0
+431,Seal Of Wisdom Impact Base,Spells\SealOfWisdom_Impact_Base.mdx,0,0
+432,Seal Of Protection Impact Base,Spells\SealOfProtection_Impact_Base.mdx,0,0
+433,MoltenBlast Missile Lvl2,Spells\MoltenBlast_Missile_Lvl2.mdx,0,0
+434,MoltenBlast Missile lvl3,Spells\MoltenBlast_Missile_Lvl3.mdx,0,0
+435,Healing Aura Base,Spells\HealingAura_Base.mdx,0,1
+436,Mind Rot Head Impact,Spells\MindRot_Head.mdx,0,0
+2975,**TEST*,\\guldan\drive2\projects\WoW\Data\Spells\AcidBreath.mdx,0,1
+2967,New Effect,,0,1
+2969,Missle: Life Drain,\\guldan\drive2\projects\wow\finaldata\patch_1.7.0\data\spells\lifedrain_missile.mdx,0,1
+2971,BaseFlagCapRed Impact Base,spells\baseflagcapred_impact_base.mdx,0,1
+2974,New Effect,,0,1
+2963,Cat Mark State Head,Spells\CatMark.mdx,0,1
+2964,Level Up,Spells\SpellLevelUp.mdx,0,1
+2965,AbolishMagic Base,spells\abolishmagic_base.mdx,0,1
+2966,HellFire FirePuff Caster Base,\spells\HellFire_FirePuff_Caster_Base.mdx,0,1
+2968,Green Radiation Fog (Large),Spells\LargeGreenRadiationFog.mdx,0,1
+2970,Web Spin,spells\webspin.mdx,0,1
+2972,Missile: BloodBolt,spells\bloodbolt_missile_low.mdx,0,1
+2973,Banish Chest (Red),spells\bloodbolt_chest.mdx,0,1
+307,Dark Ritual PreCast Base,Spells\DarkRitual_PreCast_Base.mdx,0,1
+308,ShadowWordFumble Head,Spells\ShadowWordFumble_Head.mdx,0,1
+309,Detect Invisibility Impact Base,Spells\DetectInvis_Impact_Base.mdx,0,1
+310,Detect Invisibility Impact Head,Spells\DetectInvis_Impact_Head.mdx,0,1
+311,CurseofWeakness Head,Spells\CurseofWeakness_Head.mdx,0,1
+312,CurseofFrailty Head,Spells\CurseofFrailty_Head.mdx,0,1
+313,RemoveCurse Base,Spells\RemoveCurse_Base.mdx,0,1
+314,NullifyDisease Base,Spells\NullifyDisease_Base.mdx,0,1
+315,NullifyPoison Base,Spells\NullifyPoison_Base.mdx,0,1
+320,RighteousFury Chest,Spells\RighteousFury_Chest.mdx,0,1
+714,Fire Nova Area,Spells\FireNova_Area.mdx,0,0
+715,Fire Nova State,Spells\FireNova_State.mdx,0,1
+716,Grounding Totem Impact,Spells\GroundingTotem_Impact.mdx,0,0
 717,Ghost_state,Spells\Ghost_state.mdx,0,0
 718,Mana Shield State Base,Spells\ManaShield_State_Base.mdx,0,0
 719,Dampen Magic Impact Base,Spells\DampenMagic_Impact_Base.mdx,0,0
@@ -518,6 +531,27 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 2423,Light Test,spells\lighttest.mdx,0,1
 2542,Consecration Impact Base,spells\consecration_impact_base.mdx,0,1
 2562,Deterrence State Base,Spells\Deterrence_State_Base.mdx,0,1
+2622,Missile: Hammer,spells\missile_hammer.mdx,0,1
+2662,Missile: Snowball,spells\missile_snowball.mdx,0,1
+2663,Snowball Impact Chest,spells\snowball_impact_chest.mdx,0,1
+2682,Missile: Thorns,spells\missile_thorns.mdx,0,1
+2702,HARDCODED Meeting Stone Join,Spells\Bind_Impact_Base.mdx,0,0
+2763,Nefarian Breath Impact,spells\nefarianflamebreath_impact.mdx,0,1
+2762,Dragon Flame Breath Nefarian,spells\nefarianflamebreath.mdx,0,1
+2782,Vengeance State Hand,spells\vengeance_state_hand.mdx,0,1
+2802,Nefarian State Base,spells\nefarian_state_base.mdx,0,1
+2803,Nefarian Impact Base,spells\nefarian_impact_base.mdx,0,1
+2842,Missile: Leather Ball,spells\missile_leatherball.mdx,0,1
+2843,Levitate Impact Base,spells\levitate_impact_base.mdx,0,1
+2844,LoyaltyDown Impact Base,spells\LoyaltyDown_Impact_Base.mdx,0,1
+2862,Fire Reflect State Chest,spells\firereflect_state_chest.mdx,0,1
+2863,Frost Reflect State Chest,spells\frostreflect_state_chest.mdx,0,1
+2864,Shadow Reflect State Chest,spells\shadowreflect_state_chest.mdx,0,1
+2882,Horde CTF Flag Chest,spells\hordectfflag_spell.mdx,0,1
+2883,Alliance CTF Flag Chest,spells\alliancectfflag_spell.mdx,0,1
+2902,Barkskin State Base (New),spells\barkskin_state_base.mdx,0,1
+2922,New Effect,,0,1
+2942,MovementImmunity Base,spells\movementimmunity_base.mdx,0,1
 1175,Fireworks Green Dots,Spells\Fireworks_Green_01.mdx,4,0
 1178,Fireworks Yellow Rose,Spells\Fireworks_YellowRose.mdx,4,0
 1183,Mount Impact,Spells\DruidMorph_Impact_Base.mdx,0,0
@@ -553,6 +587,10 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 2583,Demonic Sacrifice Succubus Chest,Spells\DemonicSacrifice_Succubus_Chest.mdx,0,1
 2585,Stoneform State Chest,Spells\Stoneform_State_Base.mdx,0,1
 2602,Mana Shield State Chest,spells\manashield_state_chest.mdx,0,1
+2683,DustNova Cast Base,spells\dustnova_cast_base.mdx,0,1
+2684,RockyFrost Nova State,spells\rockyfrost_nova_state.mdx,0,1
+2722,Confused State Head,spells\confused_state_head.mdx,0,1
+2962,Missile: Holy Hammer,spells\holy_hammer_missile.mdx,0,1
 1094,Might Aura State Base,Spells\MightAura_Impact_Base.mdx,0,0
 1177,Fireworks Red Streaks,Spells\Fireworks_RedStreaks_01.mdx,4,1
 1223,HARDCODED Inebriated Bubbles,Spells\Bubble_Drunk.mdx,5,0
@@ -580,6 +618,9 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 2402,Soulstone Resurrection Base,spells\soulstoneresurrection_base.mdx,0,1
 2482,Skull Balls,Spells\Enchantments\SkullBalls.mdx,0,1
 2502,Heal Ragnaros State Chest,Spells\HealRag_State_Chest.mdx,0,1
+2642,Dragon Sand Breath,spells\corrosivesandbreath.mdx,0,1
+2822,Barkskin State Base,spells\barkshield_state_base.mdx,0,1
+2865,Missile: Lightning Bolt (Ivus),spells\lightningboltivus_missile.mdx,0,1
 622,Spell Object: Wrench,Spells\SpellObject_Wrench.mdx,0,0
 623,Shadow Precast Uber Hand,Spells\Shadow_Precast_Uber_Hand.mdx,4,1
 624,Shadow ImpactDD High Chest,Spells\Shadow_ImpactDD_High_Chest.mdx,0,1
@@ -595,7 +636,7 @@ ID,Name,FileName,SpecialAttachPoint,AreaEffectSize
 654,Curse Of Agony Head Impact,Spells\CurseofAgony_Head.mdx,0,1
 655,HolyWordShield State Chest,Spells\HolyWordShield_State_Chest.mdx,0,0
 674,HolyDivineShield State Base,Spells\HolyDivineShield_State_Base.mdx,0,0
-675,GooBolt Missile Low,Spells\GooBolt_Missile_Low.mdx,0,0
+675,Missile: GooBolt,Spells\GooBolt_Missile_Low.mdx,0,0
 814,Shadow Precast Uber Base,Spells\Shadow_Precast_Uber_Base.mdx,4,1
 1462,ManaBurn Chest,Spells\ManaBurn_Chest.mdx,0,1
 1542,Enchant PreCast Hand,Spells\Enchant_PreCast_Hand.mdx,0,1

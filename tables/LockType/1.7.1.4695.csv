@@ -1,5 +1,5 @@
 ID,Name_lang[0],ResourceName_lang[0],Verb_lang[0],CursorName
-17,Ignite (TEST),,,
+17,Slow Open,,,
 1,Pick Lock,,,
 2,Herbalism,,,
 3,Mining,,,
@@ -16,3 +16,4 @@ ID,Name_lang[0],ResourceName_lang[0],Verb_lang[0],CursorName
 14,Open Attacking,,,
 15,Gahz'ridian (DND),,,
 16,Blasting,,,
+18,Slow Close,,,
