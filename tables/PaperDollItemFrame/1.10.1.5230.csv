@@ -1,5 +1,4 @@
 ItemButtonName,SlotIcon,SlotNumber
-AmmoSlot,interface\paperdoll\UI-PaperDoll-Slot-Ranged.blp,0
 HeadSlot,interface\paperdoll\UI-PaperDoll-Slot-Head.blp,1
 NeckSlot,interface\paperdoll\UI-PaperDoll-Slot-Neck.blp,2
 ShoulderSlot,interface\paperdoll\UI-PaperDoll-Slot-Shoulder.blp,3
@@ -19,7 +18,6 @@ MainHandSlot,interface\paperdoll\UI-PaperDoll-Slot-MainHand.blp,16
 SecondaryHandSlot,interface\paperdoll\UI-PaperDoll-Slot-SecondaryHand.blp,17
 RangedSlot,interface\paperdoll\UI-PaperDoll-Slot-Ranged.blp,18
 TabardSlot,interface\paperdoll\UI-PaperDoll-Slot-Tabard.blp,19
-Bag0Slot,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,20
 Bag1,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,64
 Bag2,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,65
 Bag3,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,66
@@ -32,6 +30,8 @@ Bag9,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,72
 Bag10,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,73
 Bag11,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,74
 Bag12,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,75
+Bag0Slot,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,20
 Bag1Slot,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,21
 Bag2Slot,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,22
 Bag3Slot,interface\paperdoll\UI-PaperDoll-Slot-Bag.blp,23
+AmmoSlot,interface\paperdoll\UI-PaperDoll-Slot-Ranged.blp,0
