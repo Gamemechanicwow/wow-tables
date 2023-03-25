@@ -1,6 +1,5 @@
 ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
-649,1,-742,-4962,23,Sen'jin Village, Durotar
-169,1,-634.6349,-4296.0337,40.52543,Valley of Trials, Durotar
+169,30,-198,-113,79,Alterac Valley, Snowfall Graveyard
 209,1,-7190.949,-3944.6523,9.227391,Gadgetzan, Tanaris
 329,1,-5530.2827,-3459.28,-45.74437,Shimmering Flats, Thousand Needles
 369,1,2681.0579,-4009.754,107.84863,Azshara
@@ -9,6 +8,14 @@ ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
 529,451,16310.325,16268.939,69.44444,Programmer Isle
 569,0,1750.3435,-669.78986,44.569843,Bulwark, Western Plaguelands
 589,1,16310.325,16268.939,69.44444,Un'goro Trail, Silithus
+649,1,-778,-4985,19,Sen'jin Village, Durotar
+670,451,16620.74,16622.701,21.338247,Bucklers Cemetery 1, Programmer Isle
+689,30,667.186,-307.9834,30.290915,Alterac Valley, Stormpike Graveyard
+690,30,-1078,-305,58,Alterac Valley, Frostwolf Graveyard
+769,489,1519.5303,1481.8684,352.02374,CTF - Alliance Enter Loc
+909,0,2647.55,-4014.39,105.938,Blackwood Lake, Eastern Plaguelands
+854,0,-9552.46,-1374.05,51.2332,Eastvale Logging Camp, Elwynn
+897,529,791.8476,1207.6654,17.838984,Arathi Basin - Graveyard, ALT-S
 31,1,-1443.488,1973.3696,85.490715,Ghost Walker Post, Desolace
 32,1,238.02664,-4792.5156,10.213211,Razor Hill, Durotar
 33,1,1357.1,-4412.01,28.3841,Orgrimmar, Durotar
@@ -20,11 +27,11 @@ ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
 39,1,-4656,-1765,-41,Thousand Needles
 70,1,-6432.2563,-278.2921,3.794105,Un'goro Trail, Silithus
 89,1,-2175.1897,-342.02692,-5.512325,Bloodhoof Village, Mulgore
-90,1,9931.99,2193.67,1328.67,Darnassus, Teldrassil
+90,1,10054.3,2117.12,1329.63,Darnassus, Teldrassil
 91,1,9701.255,945.6204,1291.3551,Dolanaar, Teldrassil
 92,1,2633.4111,-629.73517,107.58125,Astranaar, Ashenvale
 93,1,10384.81,811.5312,1317.5382,Aldrassil, Teldrassil
-94,0,1880.7385,1624.7355,94.43435,Deathknell, Tirisfal
+94,0,1882.94,1629.11,94.4175,Deathknell, Tirisfal Glades
 489,0,-3349.703,-857.4654,1.059584,Menethil, Wetlands
 96,0,1822.61,214.674,60.1402,Undercity, Tirisfal
 97,0,516.19434,1589.8066,127.54494,Sepulcher, Silverpine
@@ -40,13 +47,14 @@ ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
 149,0,-732.7994,-592.50195,22.663046,Southshore, Hillsbrad Foothills
 189,1,-3525.706,-4315.455,6.995607,Theramore, Dustwallow Marsh
 609,1,2942.76,-6037.13,5.16996,Southridge Beach, Azshara
-611,30,690.8004,-489.15897,76.38026,Alterac Valley, Alliance
-629,0,908.3233,-1520.2861,55.037178,TEST
-630,1,4679.34,-6703.7,128.373,Legash Encampment, Azshara
-631,1,-3135.92,-3047.6,34.4596,Brackenwall Village, Dustwallow Marsh
+611,30,941.7649,-507.7477,94.366005,Alterac Valley, Alliance Safe
+629,0,908.3233,-1520.2861,55.037178,TEST for GM Client Only - Do Not Bug
+630,1,4788.78,-6845,89.7901,Legash Encampment, Azshara
+631,1,-3127.69,-3046.94,33.8313,Brackenwall Village, Dustwallow Marsh
 632,0,-7490.45,-2132.62,142.186,Flame Crest, Burning Steppes
-634,0,1404.88,-3700.73,75.9551,Darrowshire, Eastern Plaguelands
-635,1,5977.42,-1214.31,379.39,Irontree Woods, Felwood
+634,0,1392,-3701,77,Darrowshire, Eastern Plaguelands
+635,1,5935.47,-1217.75,383.202,Irontree Woods, Felwood
+770,489,933.3315,1433.724,345.53568,CTF - Horde Enter Loc
 1,0,-9115,423,96,Stormwind
 2,0,-9271,-2305,71,Redridge
 3,0,-10774.263,-1189.6719,33.149426,Darkshire, Duskwood
@@ -58,9 +66,11 @@ ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
 129,1,8706,965,13.27,Rut'theran Village
 249,1,-1072.5887,-3481.8489,62.695408,Ratchet, Barrens
 269,37,-448.1886,-1027.863,430.72433,Plains of Snow - Alliance Start
-289,0,2349.6084,485.20844,33.3731,Brill, Tirisfal
+289,0,2348.67,492.027,33.3665,Brill, Tirisfal Glades
 389,0,-11542.56,-228.6365,27.842743,Stranglethorn
-633,1,7417.32,-2825.43,459.193,Moonglade
+633,1,7426,-2809,464,Moonglade
+749,30,-531.7483,-405.4921,30.752737,Alterac Valley, PvP Horde Choke Graveyard
+852,0,-5165.52,-874.664,507.177,Gates of Ironforge, Dun Morogh
 10,1,-592.60144,-2523.4924,91.78803,Crossroads, Barrens
 49,37,-661.52844,-485.30902,385.8879,Plains of Snow - Horde Start
 98,0,-18.677681,-981.17145,55.83767,Tarren Mill, Hillsbrad
@@ -68,14 +78,42 @@ ID,Continent,Loc[0],Loc[1],Loc[2],AreaName_lang[0]
 105,0,-8935.325,-188.64627,80.416466,Northshire, Elwynn
 370,0,-10846.574,-2949.4878,13.227232,Nethergarde, Blasted Lands
 549,0,16223.823,16278.573,20.891275,Programmer Isle
-610,30,-894.11914,-360.922,48.88026,Alterac Valley, Horde
+610,30,-729.91144,-699.66235,51.637333,Alterac Valley, Horde Safe
+891,0,-1544.14,-3140.2957,13.595421,Arathi - Arathi Front Horde Exit
+894,529,1024.1426,963.71857,-44.54832,Arathi Basin - Graveyard, Mid
+899,529,672.98615,701.3535,-13.790151,Arathi Basin - Graveyard, H-Base
 309,1,-4596.4043,3229.4343,8.993764,Feathermoon, Feralas
 229,1,-2515.9932,-1966.4813,91.783646,Taurajo, Barrens
 310,1,-4439.967,370.15344,51.356552,Camp Mojache, Feralas
 450,1,-7205.565,-2436.6743,-218.16096,Un'Goro Crater
 469,1,4291.2827,96.95573,43.075256,Twilight Vale, Darkshore
-509,0,908.3233,-1520.2861,55.037178,Western Plaguelands, Alliance
+509,0,908.3233,-1520.2861,55.037178,Chillwind Camp, Western Plaguelands
 510,0,2116.7898,-5287.337,81.13204,Death Pit, Eastern Plaguelands
 511,1,6858.564,-4663.2446,701.3633,Everlook, Winterspring
 512,1,2421.7236,-2953.619,123.47346,Kargathia, Ashenvale
-636,0,-6446,-1116,311.985,Firewatch Ridge, Searing Gorge
+636,0,-6450.61,-1113.51,308.022,Thorium Point, Searing Gorge
+669,451,16614.81,16662.979,21.342175,Bucklers Cemetery 2, Programmer Isle
+671,451,16619.52,16577.455,43.901775,Bucklers Cemetery 3, Programmer Isle
+709,1,-634.6349,-4296.0337,40.52543,Valley of Trials, Durotar
+729,30,65.3678,-414.853,49.2977,Alterac Valley, PvP Alliance Choke Graveyard
+750,30,-1415.0109,-306.5106,89.16354,Alterac Valley, Frostwolf Relief Hut
+751,30,641.02484,-19.064453,45.07695,Alterac Valley, Stormpike Aid Station
+771,489,1415.33,1554.79,343.156,CTF - Alliance Rez Loc
+772,489,1029.14,1387.49,340.836,CTF - Horde Rez Loc
+789,0,-291,-4374,107,The Overlook Cliffs, The Hinterlands
+809,1,1035.27,-2104.28,122.945,CTF - Horde Exit Loc
+810,1,1459.17,-1858.67,124.762,CTF - Alliance Exit Loc
+829,0,101.144,-184.934,127.344,Alterac Valley, Alliance Exit
+830,0,536.495,-1085.72,106.27,Alterac Valley, Horde Exit
+849,1,-4590.4087,1632.0807,93.97383,Dire Maul, Feralas
+850,1,1177.78,-4464.24,21.3539,Northern Durotar, Durotar
+851,1,-981.917,-74.6465,20.1265,Thunder Bluff, Mulgore
+853,0,1780.11,221.761,59.6169,Ruins of Lordaeron, Tirisfal Glades
+869,0,1236.89,-2411.99,60.68,Caer Darrow, Western Plaguelands
+889,529,685.5339,683.8199,-13.151314,Arathi Basin - Horde Entrance
+890,529,1315.6458,1312.4939,-8.341004,Arathi Basin - Alliance Entrance
+892,0,-1519.7234,-3072.3098,14.852402,Arathi - Arathi Front Alliance Exit
+893,529,841.4344,793.45105,-55.70058,Arathi Basin - Graveyard, H-Mid
+895,529,1158.9205,1196.925,-55.2703,Arathi Basin - Graveyard, A-Mid
+896,529,1215.2737,774.9291,-79.57072,Arathi Basin - Graveyard, ALT-N
+898,529,1298.1359,1358.2135,-13.691556,Arathi Basin - Graveyard, A-Base

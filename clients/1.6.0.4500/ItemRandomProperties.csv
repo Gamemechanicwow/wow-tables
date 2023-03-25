@@ -1,6 +1,232 @@
 ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[4],Name_lang[0]
-120,of Proficiency,158,0,0,0,0,of Proficiency
-122,of Proficiency,130,0,0,0,0,of Proficiency
+228,,74,82,0,0,0,of the Wolf
+229,,75,79,0,0,0,of the Falcon
+231,,74,80,0,0,0,of the Falcon
+15,of Stamina,71,0,0,0,0,of Stamina
+29,of Toughness,85,0,0,0,0,of Toughness
+42,of Proficiency,160,0,0,0,0,of Proficiency
+57,of Proficiency,147,0,0,0,0,of Proficiency
+96,of Stamina,102,0,0,0,0,of Stamina
+106,of Proficiency,185,0,0,0,0,of Proficiency
+118,of Toughness,122,0,0,0,0,of Toughness
+127,of Proficiency,172,0,0,0,0,of Proficiency
+142,of Proficiency,166,0,0,0,0,of Proficiency
+323,of Strength,1058,0,0,0,0,of Strength
+324,of Strength,1059,0,0,0,0,of Strength
+325,of Strength,1060,0,0,0,0,of Strength
+333,of Stamina,1069,0,0,0,0,of Stamina
+334,of Stamina,1070,0,0,0,0,of Stamina
+335,of Stamina,1071,0,0,0,0,of Stamina
+338,of Stamina,1074,0,0,0,0,of Stamina
+351,of Stamina,1087,0,0,0,0,of Stamina
+387,of Intellect,1122,0,0,0,0,of Intellect
+399,of Intellect,1134,0,0,0,0,of Intellect
+419,of Spirit,1154,0,0,0,0,of Spirit
+420,of Spirit,1155,0,0,0,0,of Spirit
+427,of Spirit,1162,0,0,0,0,of Spirit
+428,of Spirit,1163,0,0,0,0,of Spirit
+437,of the Falcon,343,350,0,0,0,of the Falcon
+438,of the Falcon,349,350,0,0,0,of the Falcon
+439,of the Falcon,343,354,0,0,0,of the Falcon
+440,of the Falcon,349,354,0,0,0,of the Falcon
+448,of the Falcon,363,369,0,0,0,of the Falcon
+450,of the Falcon,403,369,0,0,0,of the Falcon
+451,of the Falcon,368,405,0,0,0,of the Falcon
+452,of the Falcon,403,405,0,0,0,of the Falcon
+453,of the Falcon,404,405,0,0,0,of the Falcon
+454,of the Falcon,403,406,0,0,0,of the Falcon
+455,of the Falcon,404,406,0,0,0,of the Falcon
+456,of the Falcon,883,406,0,0,0,of the Falcon
+457,of the Falcon,404,1118,0,0,0,of the Falcon
+461,of the Falcon,983,1119,0,0,0,of the Falcon
+464,of the Falcon,1094,1120,0,0,0,of the Falcon
+466,of the Falcon,1094,1121,0,0,0,of the Falcon
+468,of the Falcon,1096,1121,0,0,0,of the Falcon
+471,of the Falcon,1097,1122,0,0,0,of the Falcon
+475,of the Falcon,1097,1124,0,0,0,of the Falcon
+476,of the Falcon,1098,1124,0,0,0,of the Falcon
+477,of the Falcon,1099,1124,0,0,0,of the Falcon
+482,of the Falcon,1100,1126,0,0,0,of the Falcon
+486,of the Falcon,1102,1127,0,0,0,of the Falcon
+489,of the Falcon,1103,1128,0,0,0,of the Falcon
+490,of the Falcon,1102,1129,0,0,0,of the Falcon
+491,of the Falcon,1103,1129,0,0,0,of the Falcon
+492,of the Falcon,1104,1129,0,0,0,of the Falcon
+493,of the Falcon,1103,1130,0,0,0,of the Falcon
+494,of the Falcon,1104,1130,0,0,0,of the Falcon
+498,of the Falcon,1106,1131,0,0,0,of the Falcon
+499,of the Falcon,1105,1132,0,0,0,of the Falcon
+500,of the Falcon,1106,1132,0,0,0,of the Falcon
+171,,358,0,0,0,0,of Agility
+172,,363,0,0,0,0,of Agility
+173,,368,0,0,0,0,of Agility
+175,,354,0,0,0,0,of Intellect
+176,,359,0,0,0,0,of Intellect
+177,,364,0,0,0,0,of Intellect
+179,,351,0,0,0,0,of Spirit
+180,,355,0,0,0,0,of Spirit
+181,,360,0,0,0,0,of Spirit
+182,,365,0,0,0,0,of Spirit
+185,,356,0,0,0,0,of Stamina
+186,,361,0,0,0,0,of Stamina
+188,,371,0,0,0,0,of Stamina
+189,,352,0,0,0,0,of Strength
+190,,357,0,0,0,0,of Strength
+191,,362,0,0,0,0,of Strength
+193,,372,0,0,0,0,of Strength
+194,,344,0,0,0,0,of Toughness
+195,,346,0,0,0,0,of Toughness
+196,,345,0,0,0,0,of Toughness
+197,,347,0,0,0,0,of Toughness
+207,,383,0,0,0,0,of Toughness
+210,,384,0,0,0,0,of Toughness
+211,,403,0,0,0,0,of Agility
+213,,405,0,0,0,0,of Intellect
+214,,406,0,0,0,0,of Intellect
+215,,407,0,0,0,0,of Spirit
+216,,408,0,0,0,0,of Spirit
+217,,409,0,0,0,0,of Stamina
+218,,411,0,0,0,0,of Stamina
+219,,410,0,0,0,0,of Strength
+220,,412,0,0,0,0,of Strength
+233,,76,80,0,0,0,of the Falcon
+234,,76,81,0,0,0,of the Falcon
+235,,90,81,0,0,0,of the Falcon
+236,,76,94,0,0,0,of the Falcon
+237,,90,95,0,0,0,of the Falcon
+248,,90,94,0,0,0,of the Falcon
+250,,91,96,0,0,0,of the Falcon
+256,,74,83,0,0,0,of the Wolf
+267,,883,0,0,0,0,of Agility
+308,of Strength,1043,0,0,0,0,of Strength
+341,of Stamina,1077,0,0,0,0,of Stamina
+343,of Stamina,1079,0,0,0,0,of Stamina
+345,of Stamina,1081,0,0,0,0,of Stamina
+346,of Stamina,1082,0,0,0,0,of Stamina
+348,of Stamina,1084,0,0,0,0,of Stamina
+350,of Stamina,1086,0,0,0,0,of Stamina
+353,of Stamina,1089,0,0,0,0,of Stamina
+354,of Stamina,1090,0,0,0,0,of Stamina
+355,of Stamina,1091,0,0,0,0,of Stamina
+356,of Stamina,1092,0,0,0,0,of Stamina
+357,of Stamina,1093,0,0,0,0,of Stamina
+415,of Spirit,1150,0,0,0,0,of Spirit
+430,of Spirit,1165,0,0,0,0,of Spirit
+431,of Spirit,1166,0,0,0,0,of Spirit
+501,of the Wolf,75,82,0,0,0,of the Wolf
+502,of the Wolf,75,83,0,0,0,of the Wolf
+503,of the Wolf,76,83,0,0,0,of the Wolf
+504,of the Wolf,75,84,0,0,0,of the Wolf
+505,of the Wolf,76,84,0,0,0,of the Wolf
+87,of Proficiency,184,0,0,0,0,of Proficiency
+109,of Proficiency,178,0,0,0,0,of Proficiency
+110,of Beast Slaying,192,0,0,0,0,of Beast Slaying
+129,of Proficiency,179,0,0,0,0,of Proficiency
+130,of Beast Slaying,193,0,0,0,0,of Beast Slaying
+154,of Stamina,105,0,0,0,0,of Stamina
+167,,343,0,0,0,0,of Agility
+174,,350,0,0,0,0,of Intellect
+178,,369,0,0,0,0,of Intellect
+184,,353,0,0,0,0,of Stamina
+187,,366,0,0,0,0,of Stamina
+251,,92,96,0,0,0,of the Falcon
+128,of Defense,115,0,0,0,0,of Defense
+143,of Proficiency,152,0,0,0,0,of Proficiency
+252,,92,95,0,0,0,of the Falcon
+253,,92,97,0,0,0,of the Falcon
+254,,93,97,0,0,0,of the Falcon
+309,of Strength,1044,0,0,0,0,of Strength
+310,of Strength,1045,0,0,0,0,of Strength
+311,of Strength,1046,0,0,0,0,of Strength
+312,of Strength,1047,0,0,0,0,of Strength
+313,of Strength,1048,0,0,0,0,of Strength
+316,of Strength,1051,0,0,0,0,of Strength
+318,of Strength,1053,0,0,0,0,of Strength
+319,of Strength,1054,0,0,0,0,of Strength
+320,of Strength,1055,0,0,0,0,of Strength
+321,of Strength,1056,0,0,0,0,of Strength
+322,of Strength,1057,0,0,0,0,of Strength
+329,of Strength,1064,0,0,0,0,of Strength
+332,of Strength,1067,0,0,0,0,of Strength
+358,of Agility,983,0,0,0,0,of Agility
+360,of Agility,1095,0,0,0,0,of Agility
+361,of Agility,1096,0,0,0,0,of Agility
+362,of Agility,1097,0,0,0,0,of Agility
+363,of Agility,1098,0,0,0,0,of Agility
+365,of Agility,1100,0,0,0,0,of Agility
+367,of Agility,1102,0,0,0,0,of Agility
+368,of Agility,1103,0,0,0,0,of Agility
+371,of Agility,1106,0,0,0,0,of Agility
+373,of Agility,1108,0,0,0,0,of Agility
+375,of Agility,1110,0,0,0,0,of Agility
+376,of Agility,1111,0,0,0,0,of Agility
+377,of Agility,1112,0,0,0,0,of Agility
+380,of Agility,1115,0,0,0,0,of Agility
+381,of Agility,1116,0,0,0,0,of Agility
+382,of Agility,1117,0,0,0,0,of Agility
+384,of Intellect,1119,0,0,0,0,of Intellect
+385,of Intellect,1120,0,0,0,0,of Intellect
+392,of Intellect,1127,0,0,0,0,of Intellect
+393,of Intellect,1128,0,0,0,0,of Intellect
+396,of Intellect,1131,0,0,0,0,of Intellect
+397,of Intellect,1132,0,0,0,0,of Intellect
+398,of Intellect,1133,0,0,0,0,of Intellect
+402,of Intellect,1137,0,0,0,0,of Intellect
+404,of Intellect,1139,0,0,0,0,of Intellect
+405,of Intellect,1140,0,0,0,0,of Intellect
+406,of Intellect,1141,0,0,0,0,of Intellect
+410,of Spirit,1145,0,0,0,0,of Spirit
+506,of the Wolf,90,84,0,0,0,of the Wolf
+507,of the Wolf,76,98,0,0,0,of the Wolf
+510,of the Wolf,90,99,0,0,0,of the Wolf
+512,of the Wolf,92,99,0,0,0,of the Wolf
+514,of the Wolf,92,100,0,0,0,of the Wolf
+6,of Strength,68,0,0,0,0,of Strength
+5,of Intellect,79,0,0,0,0,of Intellect
+16,of Spirit,82,0,0,0,0,of Spirit
+17,of Agility,75,0,0,0,0,of Agility
+19,of Stamina,72,0,0,0,0,of Stamina
+23,of Strength,69,0,0,0,0,of Strength
+24,of Strength,70,0,0,0,0,of Strength
+26,of Intellect,81,0,0,0,0,of Intellect
+30,of Toughness,87,0,0,0,0,of Toughness
+32,of Quality,67,0,0,0,0,of Quality
+34,of Quality,78,0,0,0,0,of Quality
+39,of Proficiency,153,0,0,0,0,of Proficiency
+41,of Proficiency,125,0,0,0,0,of Proficiency
+43,of Proficiency,146,0,0,0,0,of Proficiency
+45,of Proficiency,181,0,0,0,0,of Proficiency
+48,of Defense,110,0,0,0,0,of Defense
+50,of Retaliation,199,0,0,0,0,of Retaliation
+58,of Proficiency,133,0,0,0,0,of Proficiency
+60,of Proficiency,168,0,0,0,0,of Proficiency
+63,of Proficiency,175,0,0,0,0,of Proficiency
+62,of Defense,111,0,0,0,0,of Defense
+69,of Proficiency,162,0,0,0,0,of Proficiency
+71,of Proficiency,134,0,0,0,0,of Proficiency
+72,of Proficiency,183,0,0,0,0,of Proficiency
+73,of Proficiency,169,0,0,0,0,of Proficiency
+74,of Defense,112,0,0,0,0,of Defense
+77,of Retaliation,201,0,0,0,0,of Retaliation
+80,of Quality,117,0,0,0,0,of Quality
+81,of Proficiency,156,0,0,0,0,of Proficiency
+82,of Proficiency,142,0,0,0,0,of Proficiency
+83,of Proficiency,128,0,0,0,0,of Proficiency
+85,of Proficiency,149,0,0,0,0,of Proficiency
+90,of Proficiency,177,0,0,0,0,of Proficiency
+91,of Beast Slaying,191,0,0,0,0,of Beast Slaying
+92,of Retaliation,202,0,0,0,0,of Retaliation
+95,of Spirit,98,0,0,0,0,of Spirit
+99,of Quality,118,0,0,0,0,of Quality
+100,of Proficiency,157,0,0,0,0,of Proficiency
+101,of Proficiency,143,0,0,0,0,of Proficiency
+102,of Proficiency,129,0,0,0,0,of Proficiency
+108,of Defense,114,0,0,0,0,of Defense
+111,of Agility,91,0,0,0,0,of Agility
+112,of Intellect,95,0,0,0,0,of Intellect
+114,of Stamina,103,0,0,0,0,of Stamina
+115,of Strength,107,0,0,0,0,of Strength
+116,of Critical Strike,197,0,0,0,0,of Critical Strike
 123,of Proficiency,165,0,0,0,0,of Proficiency
 124,of Proficiency,151,0,0,0,0,of Proficiency
 125,of Proficiency,137,0,0,0,0,of Proficiency
@@ -12,7 +238,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 139,of Proficiency,159,0,0,0,0,of Proficiency
 144,of Proficiency,138,0,0,0,0,of Proficiency
 146,of Proficiency,173,0,0,0,0,of Proficiency
-148,of Proficiency,180,0,0,0,0,of Proficiency
 149,of Beast Slaying,194,0,0,0,0,of Beast Slaying
 150,of Retaliation,205,0,0,0,0,of Retaliation
 153,of Spirit,101,0,0,0,0,of Spirit
@@ -20,7 +245,7 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 132,of Agility,92,0,0,0,0,of Agility
 137,of Toughness,123,0,0,0,0,of Toughness
 141,of Proficiency,131,0,0,0,0,of Proficiency
-147,of Proficiency,116,0,0,0,0,of Proficiency
+147,of Proficiency,116,0,0,0,0,of Defense
 152,of Intellect,97,0,0,0,0,of Intellect
 14,of Agility,74,0,0,0,0,of Agility
 18,of Agility,76,0,0,0,0,of Agility
@@ -32,7 +257,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 54,of Proficiency,126,0,0,0,0,of Proficiency
 59,of Proficiency,182,0,0,0,0,of Proficiency
 65,of Retaliation,200,0,0,0,0,of Retaliation
-70,of Proficiency,148,0,0,0,0,of Proficiency
 75,of Proficiency,176,0,0,0,0,of Proficiency
 79,of Toughness,89,0,0,0,0,of Toughness
 84,of Proficiency,163,0,0,0,0,of Proficiency
@@ -47,7 +271,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 126,of Proficiency,186,0,0,0,0,of Proficiency
 131,of Retaliation,204,0,0,0,0,of Retaliation
 140,of Proficiency,145,0,0,0,0,of Proficiency
-145,of Proficiency,187,0,0,0,0,of Proficiency
 151,of Agility,93,0,0,0,0,of Agility
 156,of Critical Strike,198,0,0,0,0,of Critical Strike
 46,of Proficiency,167,0,0,0,0,of Proficiency
@@ -60,283 +283,57 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 28,of Spirit,84,0,0,0,0,of Spirit
 51,of Critical Strike,195,0,0,0,0,of Critical Strike
 66,of Proficiency,155,0,0,0,0,of Proficiency
-67,of Proficiency,141,0,0,0,0,of Proficiency
 86,of Proficiency,135,0,0,0,0,of Proficiency
-87,of Proficiency,184,0,0,0,0,of Proficiency
-109,of Proficiency,178,0,0,0,0,of Proficiency
-110,of Beast Slaying,192,0,0,0,0,of Beast Slaying
-129,of Proficiency,179,0,0,0,0,of Proficiency
-130,of Beast Slaying,193,0,0,0,0,of Beast Slaying
-154,of Stamina,105,0,0,0,0,of Stamina
-167,,343,0,0,0,0,of Agility
-174,,350,0,0,0,0,of Intellect
-178,,369,0,0,0,0,of Intellect
-184,,353,0,0,0,0,of Stamina
-187,,366,0,0,0,0,of Stamina
-192,,367,0,0,0,0,of Strength
-251,,92,96,0,0,0,of the Falcon
-128,of Defense,115,0,0,0,0,of Defense
-143,of Proficiency,152,0,0,0,0,of Proficiency
-227,,74,79,0,0,0,of the Falcon
-252,,92,95,0,0,0,of the Falcon
-253,,92,97,0,0,0,of the Falcon
-254,,93,97,0,0,0,of the Falcon
-255,,93,96,0,0,0,of the Falcon
-309,of Strength,1044,0,0,0,0,of Strength
-310,of Strength,1045,0,0,0,0,of Strength
-311,of Strength,1046,0,0,0,0,of Strength
-312,of Strength,1047,0,0,0,0,of Strength
-313,of Strength,1048,0,0,0,0,of Strength
-314,of Strength,1049,0,0,0,0,of Strength
-316,of Strength,1051,0,0,0,0,of Strength
-318,of Strength,1053,0,0,0,0,of Strength
-319,of Strength,1054,0,0,0,0,of Strength
-320,of Strength,1055,0,0,0,0,of Strength
-321,of Strength,1056,0,0,0,0,of Strength
-322,of Strength,1057,0,0,0,0,of Strength
-326,of Strength,1061,0,0,0,0,of Strength
-327,of Strength,1062,0,0,0,0,of Strength
-329,of Strength,1064,0,0,0,0,of Strength
-330,of Strength,1065,0,0,0,0,of Strength
-332,of Strength,1067,0,0,0,0,of Strength
-358,of Agility,983,0,0,0,0,of Agility
-360,of Agility,1095,0,0,0,0,of Agility
-361,of Agility,1096,0,0,0,0,of Agility
-362,of Agility,1097,0,0,0,0,of Agility
-363,of Agility,1098,0,0,0,0,of Agility
-365,of Agility,1100,0,0,0,0,of Agility
-367,of Agility,1102,0,0,0,0,of Agility
-368,of Agility,1103,0,0,0,0,of Agility
-370,of Agility,1105,0,0,0,0,of Agility
-371,of Agility,1106,0,0,0,0,of Agility
-372,of Agility,1107,0,0,0,0,of Agility
-373,of Agility,1108,0,0,0,0,of Agility
-375,of Agility,1110,0,0,0,0,of Agility
-376,of Agility,1111,0,0,0,0,of Agility
-377,of Agility,1112,0,0,0,0,of Agility
-380,of Agility,1115,0,0,0,0,of Agility
-381,of Agility,1116,0,0,0,0,of Agility
-382,of Agility,1117,0,0,0,0,of Agility
-384,of Intellect,1119,0,0,0,0,of Intellect
-385,of Intellect,1120,0,0,0,0,of Intellect
-388,of Intellect,1123,0,0,0,0,of Intellect
-392,of Intellect,1127,0,0,0,0,of Intellect
-393,of Intellect,1128,0,0,0,0,of Intellect
-394,of Intellect,1129,0,0,0,0,of Intellect
-396,of Intellect,1131,0,0,0,0,of Intellect
-397,of Intellect,1132,0,0,0,0,of Intellect
-398,of Intellect,1133,0,0,0,0,of Intellect
-402,of Intellect,1137,0,0,0,0,of Intellect
-404,of Intellect,1139,0,0,0,0,of Intellect
-405,of Intellect,1140,0,0,0,0,of Intellect
-406,of Intellect,1141,0,0,0,0,of Intellect
-407,of Intellect,1142,0,0,0,0,of Intellect
-228,,74,82,0,0,0,of the Wolf
-229,,75,79,0,0,0,of the Falcon
-231,,74,80,0,0,0,of the Falcon
-238,,75,80,0,0,0,of the Falcon
-15,of Stamina,71,0,0,0,0,of Stamina
-29,of Toughness,85,0,0,0,0,of Toughness
-42,of Proficiency,160,0,0,0,0,of Proficiency
-57,of Proficiency,147,0,0,0,0,of Proficiency
-68,of Proficiency,127,0,0,0,0,of Proficiency
-76,of Beast Slaying,190,0,0,0,0,of Beast Slaying
-89,of Defense,113,0,0,0,0,of Defense
-96,of Stamina,102,0,0,0,0,of Stamina
-106,of Proficiency,185,0,0,0,0,of Proficiency
-118,of Toughness,122,0,0,0,0,of Toughness
-127,of Proficiency,172,0,0,0,0,of Proficiency
-142,of Proficiency,166,0,0,0,0,of Proficiency
-323,of Strength,1058,0,0,0,0,of Strength
-324,of Strength,1059,0,0,0,0,of Strength
-325,of Strength,1060,0,0,0,0,of Strength
-333,of Stamina,1069,0,0,0,0,of Stamina
-334,of Stamina,1070,0,0,0,0,of Stamina
-335,of Stamina,1071,0,0,0,0,of Stamina
-338,of Stamina,1074,0,0,0,0,of Stamina
-339,of Stamina,1075,0,0,0,0,of Stamina
-351,of Stamina,1087,0,0,0,0,of Stamina
-383,of Intellect,1118,0,0,0,0,of Intellect
-387,of Intellect,1122,0,0,0,0,of Intellect
-399,of Intellect,1134,0,0,0,0,of Intellect
-419,of Spirit,1154,0,0,0,0,of Spirit
-420,of Spirit,1155,0,0,0,0,of Spirit
-427,of Spirit,1162,0,0,0,0,of Spirit
-428,of Spirit,1163,0,0,0,0,of Spirit
-437,of the Falcon,343,350,0,0,0,of the Falcon
-438,of the Falcon,349,350,0,0,0,of the Falcon
-439,of the Falcon,343,354,0,0,0,of the Falcon
-440,of the Falcon,349,354,0,0,0,of the Falcon
-441,of the Falcon,358,354,0,0,0,of the Falcon
-447,of the Falcon,368,364,0,0,0,of the Falcon
-448,of the Falcon,363,369,0,0,0,of the Falcon
-450,of the Falcon,403,369,0,0,0,of the Falcon
-451,of the Falcon,368,405,0,0,0,of the Falcon
-452,of the Falcon,403,405,0,0,0,of the Falcon
-453,of the Falcon,404,405,0,0,0,of the Falcon
-454,of the Falcon,403,406,0,0,0,of the Falcon
-455,of the Falcon,404,406,0,0,0,of the Falcon
-456,of the Falcon,883,406,0,0,0,of the Falcon
-457,of the Falcon,404,1118,0,0,0,of the Falcon
-461,of the Falcon,983,1119,0,0,0,of the Falcon
-463,of the Falcon,983,1120,0,0,0,of the Falcon
-464,of the Falcon,1094,1120,0,0,0,of the Falcon
-466,of the Falcon,1094,1121,0,0,0,of the Falcon
-468,of the Falcon,1096,1121,0,0,0,of the Falcon
-470,of the Falcon,1096,1122,0,0,0,of the Falcon
-471,of the Falcon,1097,1122,0,0,0,of the Falcon
-475,of the Falcon,1097,1124,0,0,0,of the Falcon
-476,of the Falcon,1098,1124,0,0,0,of the Falcon
-477,of the Falcon,1099,1124,0,0,0,of the Falcon
-482,of the Falcon,1100,1126,0,0,0,of the Falcon
-486,of the Falcon,1102,1127,0,0,0,of the Falcon
-487,of the Falcon,1101,1128,0,0,0,of the Falcon
-489,of the Falcon,1103,1128,0,0,0,of the Falcon
-490,of the Falcon,1102,1129,0,0,0,of the Falcon
-491,of the Falcon,1103,1129,0,0,0,of the Falcon
-492,of the Falcon,1104,1129,0,0,0,of the Falcon
-493,of the Falcon,1103,1130,0,0,0,of the Falcon
-494,of the Falcon,1104,1130,0,0,0,of the Falcon
-496,of the Falcon,1104,1131,0,0,0,of the Falcon
-498,of the Falcon,1106,1131,0,0,0,of the Falcon
-499,of the Falcon,1105,1132,0,0,0,of the Falcon
-500,of the Falcon,1106,1132,0,0,0,of the Falcon
-168,,349,0,0,0,0,of Agility
-171,,358,0,0,0,0,of Agility
-172,,363,0,0,0,0,of Agility
-173,,368,0,0,0,0,of Agility
-175,,354,0,0,0,0,of Intellect
-176,,359,0,0,0,0,of Intellect
-177,,364,0,0,0,0,of Intellect
-179,,351,0,0,0,0,of Spirit
-180,,355,0,0,0,0,of Spirit
-181,,360,0,0,0,0,of Spirit
-182,,365,0,0,0,0,of Spirit
-183,,370,0,0,0,0,of Spirit
-185,,356,0,0,0,0,of Stamina
-186,,361,0,0,0,0,of Stamina
-188,,371,0,0,0,0,of Stamina
-189,,352,0,0,0,0,of Strength
-190,,357,0,0,0,0,of Strength
-191,,362,0,0,0,0,of Strength
-193,,372,0,0,0,0,of Strength
-194,,344,0,0,0,0,of Toughness
-195,,346,0,0,0,0,of Toughness
-196,,345,0,0,0,0,of Toughness
-197,,347,0,0,0,0,of Toughness
-198,,348,0,0,0,0,of Toughness
-207,,383,0,0,0,0,of Toughness
-307,of Strength,684,0,0,0,0,of Strength
-210,,384,0,0,0,0,of Toughness
-211,,403,0,0,0,0,of Agility
-212,,404,0,0,0,0,of Agility
-213,,405,0,0,0,0,of Intellect
-214,,406,0,0,0,0,of Intellect
-215,,407,0,0,0,0,of Spirit
-216,,408,0,0,0,0,of Spirit
-217,,409,0,0,0,0,of Stamina
-218,,411,0,0,0,0,of Stamina
-219,,410,0,0,0,0,of Strength
-220,,412,0,0,0,0,of Strength
-232,,75,81,0,0,0,of the Falcon
-233,,76,80,0,0,0,of the Falcon
-234,,76,81,0,0,0,of the Falcon
-235,,90,81,0,0,0,of the Falcon
-236,,76,94,0,0,0,of the Falcon
-237,,90,95,0,0,0,of the Falcon
-247,,91,95,0,0,0,of the Falcon
-248,,90,94,0,0,0,of the Falcon
-249,,91,94,0,0,0,of the Falcon
-250,,91,96,0,0,0,of the Falcon
-256,,74,83,0,0,0,of the Wolf
-267,,883,0,0,0,0,of Agility
-308,of Strength,1043,0,0,0,0,of Strength
-341,of Stamina,1077,0,0,0,0,of Stamina
-342,of Stamina,1078,0,0,0,0,of Stamina
-343,of Stamina,1079,0,0,0,0,of Stamina
-345,of Stamina,1081,0,0,0,0,of Stamina
-346,of Stamina,1082,0,0,0,0,of Stamina
-347,of Stamina,1083,0,0,0,0,of Stamina
-348,of Stamina,1084,0,0,0,0,of Stamina
-350,of Stamina,1086,0,0,0,0,of Stamina
-353,of Stamina,1089,0,0,0,0,of Stamina
-354,of Stamina,1090,0,0,0,0,of Stamina
-355,of Stamina,1091,0,0,0,0,of Stamina
-356,of Stamina,1092,0,0,0,0,of Stamina
-357,of Stamina,1093,0,0,0,0,of Stamina
-415,of Spirit,1150,0,0,0,0,of Spirit
-416,of Spirit,1151,0,0,0,0,of Spirit
-424,of Spirit,1159,0,0,0,0,of Spirit
-430,of Spirit,1165,0,0,0,0,of Spirit
-431,of Spirit,1166,0,0,0,0,of Spirit
-501,of the Wolf,75,82,0,0,0,of the Wolf
-502,of the Wolf,75,83,0,0,0,of the Wolf
-503,of the Wolf,76,83,0,0,0,of the Wolf
-504,of the Wolf,75,84,0,0,0,of the Wolf
-505,of the Wolf,76,84,0,0,0,of the Wolf
-506,of the Wolf,90,84,0,0,0,of the Wolf
-507,of the Wolf,76,98,0,0,0,of the Wolf
-510,of the Wolf,90,99,0,0,0,of the Wolf
-511,of the Wolf,91,99,0,0,0,of the Wolf
-512,of the Wolf,92,99,0,0,0,of the Wolf
-513,of the Wolf,91,100,0,0,0,of the Wolf
-514,of the Wolf,92,100,0,0,0,of the Wolf
-6,of Strength,68,0,0,0,0,of Strength
-5,of Intellect,79,0,0,0,0,of Intellect
-16,of Spirit,82,0,0,0,0,of Spirit
-17,of Agility,75,0,0,0,0,of Agility
-19,of Stamina,72,0,0,0,0,of Stamina
-22,of Stamina,73,0,0,0,0,of Stamina
-23,of Strength,69,0,0,0,0,of Strength
-24,of Strength,70,0,0,0,0,of Strength
-26,of Intellect,81,0,0,0,0,of Intellect
-30,of Toughness,87,0,0,0,0,of Toughness
-32,of Quality,67,0,0,0,0,of Quality
-33,of Quality,77,0,0,0,0,of Quality
-34,of Quality,78,0,0,0,0,of Quality
-35,,88,0,0,0,0,
-39,of Proficiency,153,0,0,0,0,of Proficiency
-41,of Proficiency,125,0,0,0,0,of Proficiency
-43,of Proficiency,146,0,0,0,0,of Proficiency
-45,of Proficiency,181,0,0,0,0,of Proficiency
-48,of Defense,110,0,0,0,0,of Defense
-50,of Retaliation,199,0,0,0,0,of Retaliation
-56,of Proficiency,161,0,0,0,0,of Proficiency
-58,of Proficiency,133,0,0,0,0,of Proficiency
-60,of Proficiency,168,0,0,0,0,of Proficiency
-63,of Proficiency,175,0,0,0,0,of Proficiency
-62,of Defense,111,0,0,0,0,of Defense
-64,of Beast Slaying,189,0,0,0,0,of Beast Slaying
-69,of Proficiency,162,0,0,0,0,of Proficiency
-71,of Proficiency,134,0,0,0,0,of Proficiency
-72,of Proficiency,183,0,0,0,0,of Proficiency
-73,of Proficiency,169,0,0,0,0,of Proficiency
-74,of Defense,112,0,0,0,0,of Defense
-77,of Retaliation,201,0,0,0,0,of Retaliation
-78,of Critical Strike,196,0,0,0,0,of Critical Strike
-80,of Quality,117,0,0,0,0,of Quality
-81,of Proficiency,156,0,0,0,0,of Proficiency
-82,of Proficiency,142,0,0,0,0,of Proficiency
-83,of Proficiency,128,0,0,0,0,of Proficiency
-85,of Proficiency,149,0,0,0,0,of Proficiency
-90,of Proficiency,177,0,0,0,0,of Proficiency
-91,of Beast Slaying,191,0,0,0,0,of Beast Slaying
-92,of Retaliation,202,0,0,0,0,of Retaliation
-94,of Intellect,94,0,0,0,0,of Intellect
-95,of Spirit,98,0,0,0,0,of Spirit
-97,of Strength,106,0,0,0,0,of Strength
-99,of Quality,118,0,0,0,0,of Quality
-100,of Proficiency,157,0,0,0,0,of Proficiency
-101,of Proficiency,143,0,0,0,0,of Proficiency
-102,of Proficiency,129,0,0,0,0,of Proficiency
-108,of Defense,114,0,0,0,0,of Defense
-111,of Agility,91,0,0,0,0,of Agility
-112,of Intellect,95,0,0,0,0,of Intellect
-114,of Stamina,103,0,0,0,0,of Stamina
-115,of Strength,107,0,0,0,0,of Strength
-116,of Critical Strike,197,0,0,0,0,of Critical Strike
-119,of Quality,119,0,0,0,0,of Quality
-558,of the Wolf,1097,1150,0,0,0,of the Wolf
+1119,of the Boar,360,357,0,0,0,of the Boar
+1121,of the Boar,360,362,0,0,0,of the Boar
+1124,of the Boar,365,367,0,0,0,of the Boar
+1125,of the Boar,370,367,0,0,0,of the Boar
+1126,of the Boar,365,372,0,0,0,of the Boar
+1128,of the Boar,407,372,0,0,0,of the Boar
+1131,of the Boar,408,410,0,0,0,of the Boar
+1133,of the Boar,408,412,0,0,0,of the Boar
+1134,of the Boar,1144,412,0,0,0,of the Boar
+1135,of the Boar,408,684,0,0,0,of the Boar
+1137,of the Boar,1145,684,0,0,0,of the Boar
+1140,of the Boar,1146,1043,0,0,0,of the Boar
+1141,of the Boar,1145,1044,0,0,0,of the Boar
+1145,of the Boar,1147,1045,0,0,0,of the Boar
+1146,of the Boar,1148,1045,0,0,0,of the Boar
+1147,of the Boar,1147,1046,0,0,0,of the Boar
+1148,of the Boar,1148,1046,0,0,0,of the Boar
+1149,of the Boar,1149,1046,0,0,0,of the Boar
+1152,of the Boar,1150,1047,0,0,0,of the Boar
+1153,of the Boar,1149,1048,0,0,0,of the Boar
+1157,of the Boar,1151,1049,0,0,0,of the Boar
+1158,of the Boar,1152,1049,0,0,0,of the Boar
+515,of the Wolf,93,100,0,0,0,of the Wolf
+517,of the Wolf,93,101,0,0,0,of the Wolf
+518,of the Wolf,343,101,0,0,0,of the Wolf
+519,of the Wolf,93,351,0,0,0,of the Wolf
+520,of the Wolf,343,351,0,0,0,of the Wolf
+521,of the Wolf,349,351,0,0,0,of the Wolf
+523,of the Wolf,349,355,0,0,0,of the Wolf
+527,of the Wolf,363,360,0,0,0,of the Wolf
+528,of the Wolf,358,365,0,0,0,of the Wolf
+529,of the Wolf,363,365,0,0,0,of the Wolf
+531,of the Wolf,363,370,0,0,0,of the Wolf
+533,of the Wolf,403,370,0,0,0,of the Wolf
+534,of the Wolf,368,407,0,0,0,of the Wolf
+535,of the Wolf,403,407,0,0,0,of the Wolf
+536,of the Wolf,404,407,0,0,0,of the Wolf
+537,of the Wolf,403,408,0,0,0,of the Wolf
+539,of the Wolf,883,408,0,0,0,of the Wolf
+543,of the Wolf,883,1145,0,0,0,of the Wolf
+545,of the Wolf,1094,1145,0,0,0,of the Wolf
+546,of the Wolf,983,1146,0,0,0,of the Wolf
+547,of the Wolf,1094,1146,0,0,0,of the Wolf
+548,of the Wolf,1095,1146,0,0,0,of the Wolf
+549,of the Wolf,1094,1147,0,0,0,of the Wolf
+550,of the Wolf,1095,1147,0,0,0,of the Wolf
+552,of the Wolf,1095,1148,0,0,0,of the Wolf
+553,of the Wolf,1096,1148,0,0,0,of the Wolf
+554,of the Wolf,1097,1148,0,0,0,of the Wolf
+555,of the Wolf,1096,1149,0,0,0,of the Wolf
 559,of the Wolf,1098,1150,0,0,0,of the Wolf
 560,of the Wolf,1099,1150,0,0,0,of the Wolf
 562,of the Wolf,1099,1151,0,0,0,of the Wolf
@@ -347,10 +344,8 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 567,of the Wolf,1100,1153,0,0,0,of the Wolf
 568,of the Wolf,1101,1153,0,0,0,of the Wolf
 569,of the Wolf,1102,1153,0,0,0,of the Wolf
-574,of the Wolf,1103,1155,0,0,0,of the Wolf
 577,of the Wolf,1104,1156,0,0,0,of the Wolf
 578,of the Wolf,1105,1156,0,0,0,of the Wolf
-579,of the Wolf,1104,1157,0,0,0,of the Wolf
 580,of the Wolf,1105,1157,0,0,0,of the Wolf
 581,of the Wolf,1106,1157,0,0,0,of the Wolf
 582,of the Wolf,1105,1158,0,0,0,of the Wolf
@@ -362,9 +357,7 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1058,of the Whale,1147,1070,0,0,0,of the Whale
 1060,of the Whale,1147,1071,0,0,0,of the Whale
 1062,of the Whale,1147,1072,0,0,0,of the Whale
-1064,of the Whale,1149,1072,0,0,0,of the Whale
 1066,of the Whale,1149,1073,0,0,0,of the Whale
-1070,of the Whale,1151,1074,0,0,0,of the Whale
 1073,of the Whale,1152,1075,0,0,0,of the Whale
 1075,of the Whale,1152,1076,0,0,0,of the Whale
 1082,of the Whale,1155,1078,0,0,0,of the Whale
@@ -381,7 +374,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1165,of the Boar,1153,1052,0,0,0,of the Boar
 1166,of the Boar,1154,1052,0,0,0,of the Boar
 1168,of the Boar,1154,1053,0,0,0,of the Boar
-1169,of the Boar,1155,1053,0,0,0,of the Boar
 1170,of the Boar,1156,1053,0,0,0,of the Boar
 1171,of the Boar,1155,1054,0,0,0,of the Boar
 1173,of the Boar,1157,1054,0,0,0,of the Boar
@@ -390,14 +382,9 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1176,of the Boar,1158,1055,0,0,0,of the Boar
 1178,of the Boar,1158,1056,0,0,0,of the Boar
 1179,of the Bear,71,68,0,0,0,of the Bear
-1180,of the Bear,72,68,0,0,0,of the Bear
-1181,of the Bear,71,69,0,0,0,of the Bear
 1183,of the Bear,73,69,0,0,0,of the Bear
-1184,of the Bear,72,70,0,0,0,of the Bear
-1185,of the Bear,73,70,0,0,0,of the Bear
 1186,of the Bear,102,70,0,0,0,of the Bear
 1187,of the Bear,73,106,0,0,0,of the Bear
-1188,of the Bear,102,106,0,0,0,of the Bear
 1191,of the Bear,103,107,0,0,0,of the Bear
 1192,of the Bear,104,107,0,0,0,of the Bear
 1193,of the Bear,103,108,0,0,0,of the Bear
@@ -405,30 +392,77 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1195,of the Bear,105,108,0,0,0,of the Bear
 1196,of the Bear,104,109,0,0,0,of the Bear
 1197,of the Bear,105,109,0,0,0,of the Bear
-1198,of the Bear,353,109,0,0,0,of the Bear
 1200,of the Bear,353,352,0,0,0,of the Bear
 1202,of the Bear,353,357,0,0,0,of the Bear
 1203,of the Bear,356,357,0,0,0,of the Bear
-1204,of the Bear,361,357,0,0,0,of the Bear
 1205,of the Bear,356,362,0,0,0,of the Bear
+803,of the Owl,1121,1146,0,0,0,of the Owl
+805,of the Owl,1121,1147,0,0,0,of the Owl
+807,of the Owl,1121,1148,0,0,0,of the Owl
+808,of the Owl,1122,1148,0,0,0,of the Owl
+810,of the Owl,1122,1149,0,0,0,of the Owl
+811,of the Owl,1123,1149,0,0,0,of the Owl
+812,of the Owl,1124,1149,0,0,0,of the Owl
+814,of the Owl,1124,1150,0,0,0,of the Owl
+817,of the Owl,1125,1151,0,0,0,of the Owl
+819,of the Owl,1125,1152,0,0,0,of the Owl
+820,of the Owl,1126,1152,0,0,0,of the Owl
+821,of the Owl,1127,1152,0,0,0,of the Owl
+823,of the Owl,1127,1153,0,0,0,of the Owl
+824,of the Owl,1128,1153,0,0,0,of the Owl
+827,of the Owl,1129,1154,0,0,0,of the Owl
+829,of the Owl,1129,1155,0,0,0,of the Owl
+830,of the Owl,1130,1155,0,0,0,of the Owl
+832,of the Owl,1130,1156,0,0,0,of the Owl
+834,of the Owl,1130,1157,0,0,0,of the Owl
+835,of the Owl,1131,1157,0,0,0,of the Owl
+836,of the Owl,1132,1157,0,0,0,of the Owl
+926,of the Gorilla,79,69,0,0,0,of the Gorilla
+927,of the Gorilla,80,69,0,0,0,of the Gorilla
+931,of the Gorilla,94,70,0,0,0,of the Gorilla
+932,of the Gorilla,81,106,0,0,0,of the Gorilla
+933,of the Gorilla,94,106,0,0,0,of the Gorilla
+935,of the Gorilla,94,107,0,0,0,of the Gorilla
+936,of the Gorilla,95,107,0,0,0,of the Gorilla
+938,of the Gorilla,95,108,0,0,0,of the Gorilla
+939,of the Gorilla,96,108,0,0,0,of the Gorilla
+940,of the Gorilla,97,108,0,0,0,of the Gorilla
+942,of the Gorilla,97,109,0,0,0,of the Gorilla
+945,of the Gorilla,350,352,0,0,0,of the Gorilla
+947,of the Gorilla,350,357,0,0,0,of the Gorilla
+949,of the Gorilla,359,357,0,0,0,of the Gorilla
+950,of the Gorilla,354,362,0,0,0,of the Gorilla
+952,of the Gorilla,364,362,0,0,0,of the Gorilla
+764,of the Owl,95,98,0,0,0,of the Owl
+955,of the Gorilla,369,367,0,0,0,of the Gorilla
+956,of the Gorilla,364,372,0,0,0,of the Gorilla
+957,of the Gorilla,369,372,0,0,0,of the Gorilla
+958,of the Gorilla,405,372,0,0,0,of the Gorilla
+959,of the Gorilla,369,410,0,0,0,of the Gorilla
+963,of the Gorilla,406,412,0,0,0,of the Gorilla
+964,of the Gorilla,1118,412,0,0,0,of the Gorilla
+965,of the Gorilla,406,684,0,0,0,of the Gorilla
+966,of the Gorilla,1118,684,0,0,0,of the Gorilla
+967,of the Gorilla,1119,684,0,0,0,of the Gorilla
+968,of the Gorilla,1118,1043,0,0,0,of the Gorilla
+969,of the Gorilla,1119,1043,0,0,0,of the Gorilla
+971,of the Gorilla,1119,1044,0,0,0,of the Gorilla
+972,of the Gorilla,1120,1044,0,0,0,of the Gorilla
 1206,of the Bear,361,362,0,0,0,of the Bear
 1208,of the Bear,361,367,0,0,0,of the Bear
 1209,of the Bear,366,367,0,0,0,of the Bear
 1210,of the Bear,371,367,0,0,0,of the Bear
 1211,of the Bear,366,372,0,0,0,of the Bear
-1212,of the Bear,371,372,0,0,0,of the Bear
 1214,of the Bear,371,410,0,0,0,of the Bear
 1215,of the Bear,409,410,0,0,0,of the Bear
 1217,of the Bear,409,412,0,0,0,of the Bear
 1218,of the Bear,411,412,0,0,0,of the Bear
 1219,of the Bear,1068,412,0,0,0,of the Bear
-1220,of the Bear,411,684,0,0,0,of the Bear
 1221,of the Bear,1068,684,0,0,0,of the Bear
 1222,of the Bear,1069,684,0,0,0,of the Bear
 1223,of the Bear,1068,1043,0,0,0,of the Bear
 1226,of the Bear,1069,1044,0,0,0,of the Bear
 1227,of the Bear,1070,1044,0,0,0,of the Bear
-1228,of the Bear,1071,1044,0,0,0,of the Bear
 1229,of the Bear,1070,1045,0,0,0,of the Bear
 1230,of the Bear,1071,1045,0,0,0,of the Bear
 1231,of the Bear,1072,1045,0,0,0,of the Bear
@@ -436,10 +470,8 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1235,of the Bear,1072,1047,0,0,0,of the Bear
 1236,of the Bear,1073,1047,0,0,0,of the Bear
 1238,of the Bear,1073,1048,0,0,0,of the Bear
-1239,of the Bear,1074,1048,0,0,0,of the Bear
 1240,of the Bear,1075,1048,0,0,0,of the Bear
 1241,of the Bear,1074,1049,0,0,0,of the Bear
-1243,of the Bear,1076,1049,0,0,0,of the Bear
 1244,of the Bear,1075,1050,0,0,0,of the Bear
 1245,of the Bear,1076,1050,0,0,0,of the Bear
 1247,of the Bear,1076,1051,0,0,0,of the Bear
@@ -456,84 +488,15 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 589,of the Monkey,75,73,0,0,0,of the Monkey
 590,of the Monkey,76,73,0,0,0,of the Monkey
 592,of the Monkey,76,102,0,0,0,of the Monkey
-594,of the Monkey,91,102,0,0,0,of the Monkey
 596,of the Monkey,91,103,0,0,0,of the Monkey
 597,of the Monkey,92,103,0,0,0,of the Monkey
 599,of the Monkey,92,104,0,0,0,of the Monkey
 601,of the Monkey,92,105,0,0,0,of the Monkey
 602,of the Monkey,93,105,0,0,0,of the Monkey
-603,of the Monkey,343,105,0,0,0,of the Monkey
-604,of the Monkey,93,353,0,0,0,of the Monkey
-606,of the Monkey,349,353,0,0,0,of the Monkey
 607,of the Monkey,343,356,0,0,0,of the Monkey
 609,of the Monkey,358,356,0,0,0,of the Monkey
 610,of the Monkey,349,361,0,0,0,of the Monkey
 612,of the Monkey,363,361,0,0,0,of the Monkey
-613,of the Monkey,358,366,0,0,0,of the Monkey
-792,of the Owl,405,408,0,0,0,of the Owl
-794,of the Owl,1118,408,0,0,0,of the Owl
-795,of the Owl,406,1144,0,0,0,of the Owl
-796,of the Owl,1118,1144,0,0,0,of the Owl
-797,of the Owl,1119,1144,0,0,0,of the Owl
-799,of the Owl,1119,1145,0,0,0,of the Owl
-800,of the Owl,1120,1145,0,0,0,of the Owl
-801,of the Owl,1119,1146,0,0,0,of the Owl
-802,of the Owl,1120,1146,0,0,0,of the Owl
-803,of the Owl,1121,1146,0,0,0,of the Owl
-805,of the Owl,1121,1147,0,0,0,of the Owl
-807,of the Owl,1121,1148,0,0,0,of the Owl
-808,of the Owl,1122,1148,0,0,0,of the Owl
-809,of the Owl,1123,1148,0,0,0,of the Owl
-810,of the Owl,1122,1149,0,0,0,of the Owl
-811,of the Owl,1123,1149,0,0,0,of the Owl
-812,of the Owl,1124,1149,0,0,0,of the Owl
-814,of the Owl,1124,1150,0,0,0,of the Owl
-816,of the Owl,1124,1151,0,0,0,of the Owl
-817,of the Owl,1125,1151,0,0,0,of the Owl
-819,of the Owl,1125,1152,0,0,0,of the Owl
-820,of the Owl,1126,1152,0,0,0,of the Owl
-821,of the Owl,1127,1152,0,0,0,of the Owl
-823,of the Owl,1127,1153,0,0,0,of the Owl
-824,of the Owl,1128,1153,0,0,0,of the Owl
-826,of the Owl,1128,1154,0,0,0,of the Owl
-827,of the Owl,1129,1154,0,0,0,of the Owl
-829,of the Owl,1129,1155,0,0,0,of the Owl
-830,of the Owl,1130,1155,0,0,0,of the Owl
-832,of the Owl,1130,1156,0,0,0,of the Owl
-834,of the Owl,1130,1157,0,0,0,of the Owl
-835,of the Owl,1131,1157,0,0,0,of the Owl
-836,of the Owl,1132,1157,0,0,0,of the Owl
-837,of the Owl,1131,1158,0,0,0,of the Owl
-924,of the Gorilla,79,68,0,0,0,of the Gorilla
-926,of the Gorilla,79,69,0,0,0,of the Gorilla
-927,of the Gorilla,80,69,0,0,0,of the Gorilla
-929,of the Gorilla,80,70,0,0,0,of the Gorilla
-931,of the Gorilla,94,70,0,0,0,of the Gorilla
-932,of the Gorilla,81,106,0,0,0,of the Gorilla
-933,of the Gorilla,94,106,0,0,0,of the Gorilla
-935,of the Gorilla,94,107,0,0,0,of the Gorilla
-936,of the Gorilla,95,107,0,0,0,of the Gorilla
-938,of the Gorilla,95,108,0,0,0,of the Gorilla
-939,of the Gorilla,96,108,0,0,0,of the Gorilla
-940,of the Gorilla,97,108,0,0,0,of the Gorilla
-942,of the Gorilla,97,109,0,0,0,of the Gorilla
-945,of the Gorilla,350,352,0,0,0,of the Gorilla
-946,of the Gorilla,354,352,0,0,0,of the Gorilla
-947,of the Gorilla,350,357,0,0,0,of the Gorilla
-948,of the Gorilla,354,357,0,0,0,of the Gorilla
-949,of the Gorilla,359,357,0,0,0,of the Gorilla
-950,of the Gorilla,354,362,0,0,0,of the Gorilla
-952,of the Gorilla,364,362,0,0,0,of the Gorilla
-764,of the Owl,95,98,0,0,0,of the Owl
-954,of the Gorilla,364,367,0,0,0,of the Gorilla
-955,of the Gorilla,369,367,0,0,0,of the Gorilla
-956,of the Gorilla,364,372,0,0,0,of the Gorilla
-957,of the Gorilla,369,372,0,0,0,of the Gorilla
-958,of the Gorilla,405,372,0,0,0,of the Gorilla
-959,of the Gorilla,369,410,0,0,0,of the Gorilla
-960,of the Gorilla,405,410,0,0,0,of the Gorilla
-963,of the Gorilla,406,412,0,0,0,of the Gorilla
-614,of the Monkey,363,366,0,0,0,of the Monkey
 615,of the Monkey,368,366,0,0,0,of the Monkey
 617,of the Monkey,368,371,0,0,0,of the Monkey
 618,of the Monkey,403,371,0,0,0,of the Monkey
@@ -544,11 +507,9 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 623,of the Monkey,404,411,0,0,0,of the Monkey
 624,of the Monkey,883,411,0,0,0,of the Monkey
 626,of the Monkey,883,1068,0,0,0,of the Monkey
-628,of the Monkey,883,1069,0,0,0,of the Monkey
 629,of the Monkey,983,1069,0,0,0,of the Monkey
 630,of the Monkey,1094,1069,0,0,0,of the Monkey
 631,of the Monkey,983,1070,0,0,0,of the Monkey
-632,of the Monkey,1094,1070,0,0,0,of the Monkey
 634,of the Monkey,1094,1071,0,0,0,of the Monkey
 635,of the Monkey,1095,1071,0,0,0,of the Monkey
 636,of the Monkey,1096,1071,0,0,0,of the Monkey
@@ -556,20 +517,17 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 639,of the Monkey,1097,1072,0,0,0,of the Monkey
 642,of the Monkey,1098,1073,0,0,0,of the Monkey
 645,of the Monkey,1099,1074,0,0,0,of the Monkey
-646,of the Monkey,1098,1075,0,0,0,of the Monkey
 647,of the Monkey,1099,1075,0,0,0,of the Monkey
 648,of the Monkey,1100,1075,0,0,0,of the Monkey
 650,of the Monkey,1100,1076,0,0,0,of the Monkey
 651,of the Monkey,1101,1076,0,0,0,of the Monkey
 653,of the Monkey,1101,1077,0,0,0,of the Monkey
 654,of the Monkey,1102,1077,0,0,0,of the Monkey
-655,of the Monkey,1101,1078,0,0,0,of the Monkey
 657,of the Monkey,1103,1078,0,0,0,of the Monkey
 658,of the Monkey,1102,1079,0,0,0,of the Monkey
 659,of the Monkey,1103,1079,0,0,0,of the Monkey
 661,of the Monkey,1103,1080,0,0,0,of the Monkey
 662,of the Monkey,1104,1080,0,0,0,of the Monkey
-664,of the Monkey,1104,1081,0,0,0,of the Monkey
 666,of the Monkey,1106,1081,0,0,0,of the Monkey
 667,of the Monkey,1105,1082,0,0,0,of the Monkey
 668,of the Monkey,1106,1082,0,0,0,of the Monkey
@@ -577,9 +535,7 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 671,of the Tiger,74,69,0,0,0,of the Tiger
 672,of the Tiger,75,69,0,0,0,of the Tiger
 673,of the Tiger,76,69,0,0,0,of the Tiger
-674,of the Tiger,75,70,0,0,0,of the Tiger
 593,of the Monkey,90,102,0,0,0,of the Monkey
-600,of the Monkey,93,104,0,0,0,of the Monkey
 641,of the Monkey,1097,1073,0,0,0,of the Monkey
 644,of the Monkey,1098,1074,0,0,0,of the Monkey
 676,of the Tiger,90,70,0,0,0,of the Tiger
@@ -591,7 +547,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 683,of the Tiger,91,108,0,0,0,of the Tiger
 684,of the Tiger,92,108,0,0,0,of the Tiger
 685,of the Tiger,93,108,0,0,0,of the Tiger
-687,of the Tiger,93,109,0,0,0,of the Tiger
 688,of the Tiger,343,109,0,0,0,of the Tiger
 689,of the Tiger,93,352,0,0,0,of the Tiger
 691,of the Tiger,349,352,0,0,0,of the Tiger
@@ -599,14 +554,9 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 693,of the Tiger,349,357,0,0,0,of the Tiger
 694,of the Tiger,358,357,0,0,0,of the Tiger
 695,of the Tiger,349,362,0,0,0,of the Tiger
-696,of the Tiger,358,362,0,0,0,of the Tiger
 697,of the Tiger,363,362,0,0,0,of the Tiger
-698,of the Tiger,358,367,0,0,0,of the Tiger
 700,of the Tiger,368,367,0,0,0,of the Tiger
-702,of the Tiger,368,372,0,0,0,of the Tiger
 703,of the Tiger,403,372,0,0,0,of the Tiger
-704,of the Tiger,368,410,0,0,0,of the Tiger
-705,of the Tiger,403,410,0,0,0,of the Tiger
 707,of the Tiger,403,412,0,0,0,of the Tiger
 708,of the Tiger,404,412,0,0,0,of the Tiger
 711,of the Tiger,883,684,0,0,0,of the Tiger
@@ -615,11 +565,9 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 714,of the Tiger,983,1043,0,0,0,of the Tiger
 715,of the Tiger,1094,1043,0,0,0,of the Tiger
 717,of the Tiger,1094,1044,0,0,0,of the Tiger
-721,of the Tiger,1096,1045,0,0,0,of the Tiger
 722,of the Tiger,1095,1046,0,0,0,of the Tiger
 724,of the Tiger,1097,1046,0,0,0,of the Tiger
 725,of the Tiger,1096,1047,0,0,0,of the Tiger
-726,of the Tiger,1097,1047,0,0,0,of the Tiger
 729,of the Tiger,1098,1048,0,0,0,of the Tiger
 730,of the Tiger,1099,1048,0,0,0,of the Tiger
 733,of the Tiger,1100,1049,0,0,0,of the Tiger
@@ -628,19 +576,16 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 741,of the Tiger,1102,1052,0,0,0,of the Tiger
 743,of the Tiger,1102,1053,0,0,0,of the Tiger
 744,of the Tiger,1103,1053,0,0,0,of the Tiger
-745,of the Tiger,1104,1053,0,0,0,of the Tiger
 746,of the Tiger,1103,1054,0,0,0,of the Tiger
 748,of the Tiger,1105,1054,0,0,0,of the Tiger
 749,of the Tiger,1104,1055,0,0,0,of the Tiger
 751,of the Tiger,1106,1055,0,0,0,of the Tiger
-752,of the Tiger,1105,1056,0,0,0,of the Tiger
 753,of the Tiger,1106,1056,0,0,0,of the Tiger
 755,of the Owl,80,82,0,0,0,of the Owl
 757,of the Owl,80,83,0,0,0,of the Owl
 758,of the Owl,81,83,0,0,0,of the Owl
 759,of the Owl,80,84,0,0,0,of the Owl
 760,of the Owl,81,84,0,0,0,of the Owl
-762,of the Owl,81,98,0,0,0,of the Owl
 765,of the Owl,94,99,0,0,0,of the Owl
 767,of the Owl,96,99,0,0,0,of the Owl
 769,of the Owl,96,100,0,0,0,of the Owl
@@ -650,8 +595,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 773,of the Owl,350,101,0,0,0,of the Owl
 775,of the Owl,350,351,0,0,0,of the Owl
 776,of the Owl,354,351,0,0,0,of the Owl
-777,of the Owl,350,355,0,0,0,of the Owl
-778,of the Owl,354,355,0,0,0,of the Owl
 779,of the Owl,359,355,0,0,0,of the Owl
 780,of the Owl,354,360,0,0,0,of the Owl
 783,of the Owl,359,365,0,0,0,of the Owl
@@ -662,34 +605,34 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 788,of the Owl,405,370,0,0,0,of the Owl
 789,of the Owl,369,407,0,0,0,of the Owl
 791,of the Owl,406,407,0,0,0,of the Owl
-410,of Spirit,1145,0,0,0,0,of Spirit
+792,of the Owl,405,408,0,0,0,of the Owl
+795,of the Owl,406,1144,0,0,0,of the Owl
+796,of the Owl,1118,1144,0,0,0,of the Owl
+799,of the Owl,1119,1145,0,0,0,of the Owl
+800,of the Owl,1120,1145,0,0,0,of the Owl
+801,of the Owl,1119,1146,0,0,0,of the Owl
+802,of the Owl,1120,1146,0,0,0,of the Owl
 412,of Spirit,1147,0,0,0,0,of Spirit
-413,of Spirit,1148,0,0,0,0,of Spirit
 422,of Spirit,1157,0,0,0,0,of Spirit
 423,of Spirit,1158,0,0,0,0,of Spirit
 425,of Spirit,1160,0,0,0,0,of Spirit
 433,of Spirit,1168,0,0,0,0,of Spirit
-434,of Spirit,1183,0,0,0,0,of Spirit
 436,of the Falcon,93,350,0,0,0,of the Falcon
 442,of the Falcon,349,359,0,0,0,of the Falcon
 443,of the Falcon,358,359,0,0,0,of the Falcon
-444,of the Falcon,363,359,0,0,0,of the Falcon
 465,of the Falcon,1095,1120,0,0,0,of the Falcon
 467,of the Falcon,1095,1121,0,0,0,of the Falcon
 469,of the Falcon,1095,1122,0,0,0,of the Falcon
 472,of the Falcon,1096,1123,0,0,0,of the Falcon
-474,of the Falcon,1098,1123,0,0,0,of the Falcon
 478,of the Falcon,1098,1125,0,0,0,of the Falcon
 479,of the Falcon,1099,1125,0,0,0,of the Falcon
 483,of the Falcon,1101,1126,0,0,0,of the Falcon
 484,of the Falcon,1100,1127,0,0,0,of the Falcon
-485,of the Falcon,1101,1127,0,0,0,of the Falcon
 839,of the Eagle,79,71,0,0,0,of the Eagle
 840,of the Eagle,80,71,0,0,0,of the Eagle
 842,of the Eagle,80,72,0,0,0,of the Eagle
 844,of the Eagle,80,73,0,0,0,of the Eagle
 845,of the Eagle,81,73,0,0,0,of the Eagle
-846,of the Eagle,94,73,0,0,0,of the Eagle
 847,of the Eagle,81,102,0,0,0,of the Eagle
 848,of the Eagle,94,102,0,0,0,of the Eagle
 849,of the Eagle,95,102,0,0,0,of the Eagle
@@ -702,21 +645,17 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 858,of the Eagle,350,105,0,0,0,of the Eagle
 860,of the Eagle,350,353,0,0,0,of the Eagle
 861,of the Eagle,354,353,0,0,0,of the Eagle
-862,of the Eagle,350,356,0,0,0,of the Eagle
 863,of the Eagle,354,356,0,0,0,of the Eagle
 864,of the Eagle,359,356,0,0,0,of the Eagle
 866,of the Eagle,359,361,0,0,0,of the Eagle
 867,of the Eagle,364,361,0,0,0,of the Eagle
 869,of the Eagle,364,366,0,0,0,of the Eagle
 870,of the Eagle,369,366,0,0,0,of the Eagle
-871,of the Eagle,364,371,0,0,0,of the Eagle
 872,of the Eagle,369,371,0,0,0,of the Eagle
 873,of the Eagle,405,371,0,0,0,of the Eagle
 874,of the Eagle,369,409,0,0,0,of the Eagle
 875,of the Eagle,405,409,0,0,0,of the Eagle
-878,of the Eagle,406,411,0,0,0,of the Eagle
 879,of the Eagle,1118,411,0,0,0,of the Eagle
-880,of the Eagle,406,1068,0,0,0,of the Eagle
 881,of the Eagle,1118,1068,0,0,0,of the Eagle
 882,of the Eagle,1119,1068,0,0,0,of the Eagle
 883,of the Eagle,1118,1069,0,0,0,of the Eagle
@@ -725,28 +664,21 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 887,of the Eagle,1120,1070,0,0,0,of the Eagle
 889,of the Eagle,1120,1071,0,0,0,of the Eagle
 891,of the Eagle,1122,1071,0,0,0,of the Eagle
-893,of the Eagle,1122,1072,0,0,0,of the Eagle
 894,of the Eagle,1123,1072,0,0,0,of the Eagle
-895,of the Eagle,1122,1073,0,0,0,of the Eagle
 896,of the Eagle,1123,1073,0,0,0,of the Eagle
 897,of the Eagle,1124,1073,0,0,0,of the Eagle
 900,of the Eagle,1125,1074,0,0,0,of the Eagle
 905,of the Eagle,1126,1076,0,0,0,of the Eagle
 906,of the Eagle,1127,1076,0,0,0,of the Eagle
 1044,of the Whale,370,409,0,0,0,of the Whale
-1047,of the Whale,407,411,0,0,0,of the Whale
 1050,of the Whale,408,1068,0,0,0,of the Whale
-1051,of the Whale,1144,1068,0,0,0,of the Whale
-1052,of the Whale,1145,1068,0,0,0,of the Whale
 1053,of the Whale,1144,1069,0,0,0,of the Whale
 1056,of the Whale,1145,1070,0,0,0,of the Whale
 1059,of the Whale,1146,1071,0,0,0,of the Whale
 1065,of the Whale,1148,1073,0,0,0,of the Whale
-1069,of the Whale,1150,1074,0,0,0,of the Whale
 1071,of the Whale,1150,1075,0,0,0,of the Whale
 1072,of the Whale,1151,1075,0,0,0,of the Whale
 1074,of the Whale,1151,1076,0,0,0,of the Whale
-1076,of the Whale,1153,1076,0,0,0,of the Whale
 1081,of the Whale,1154,1078,0,0,0,of the Whale
 1083,of the Whale,1154,1079,0,0,0,of the Whale
 1085,of the Whale,1156,1079,0,0,0,of the Whale
@@ -755,7 +687,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1090,of the Whale,1157,1081,0,0,0,of the Whale
 706,of the Tiger,404,410,0,0,0,of the Tiger
 709,of the Tiger,883,412,0,0,0,of the Tiger
-719,of the Tiger,1094,1045,0,0,0,of the Tiger
 720,of the Tiger,1095,1045,0,0,0,of the Tiger
 731,of the Tiger,1098,1049,0,0,0,of the Tiger
 732,of the Tiger,1099,1049,0,0,0,of the Tiger
@@ -764,19 +695,16 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 901,of the Eagle,1124,1075,0,0,0,of the Eagle
 902,of the Eagle,1125,1075,0,0,0,of the Eagle
 903,of the Eagle,1126,1075,0,0,0,of the Eagle
-908,of the Eagle,1127,1077,0,0,0,of the Eagle
 909,of the Eagle,1128,1077,0,0,0,of the Eagle
 910,of the Eagle,1127,1078,0,0,0,of the Eagle
 911,of the Eagle,1128,1078,0,0,0,of the Eagle
 912,of the Eagle,1129,1078,0,0,0,of the Eagle
 914,of the Eagle,1129,1079,0,0,0,of the Eagle
-915,of the Eagle,1130,1079,0,0,0,of the Eagle
 917,of the Eagle,1130,1080,0,0,0,of the Eagle
 918,of the Eagle,1131,1080,0,0,0,of the Eagle
 919,of the Eagle,1130,1081,0,0,0,of the Eagle
 920,of the Eagle,1131,1081,0,0,0,of the Eagle
 921,of the Eagle,1132,1081,0,0,0,of the Eagle
-922,of the Eagle,1131,1082,0,0,0,of the Eagle
 923,of the Eagle,1132,1082,0,0,0,of the Eagle
 1098,of the Boar,84,69,0,0,0,of the Boar
 1100,of the Boar,84,70,0,0,0,of the Boar
@@ -784,9 +712,7 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1102,of the Boar,84,106,0,0,0,of the Boar
 1103,of the Boar,98,106,0,0,0,of the Boar
 1104,of the Boar,99,106,0,0,0,of the Boar
-1105,of the Boar,98,107,0,0,0,of the Boar
 1106,of the Boar,99,107,0,0,0,of the Boar
-1108,of the Boar,99,108,0,0,0,of the Boar
 1110,of the Boar,101,108,0,0,0,of the Boar
 1111,of the Boar,100,109,0,0,0,of the Boar
 1112,of the Boar,101,109,0,0,0,of the Boar
@@ -794,74 +720,11 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1114,of the Boar,101,352,0,0,0,of the Boar
 1115,of the Boar,351,352,0,0,0,of the Boar
 1117,of the Boar,351,357,0,0,0,of the Boar
-1119,of the Boar,360,357,0,0,0,of the Boar
-1121,of the Boar,360,362,0,0,0,of the Boar
-1122,of the Boar,365,362,0,0,0,of the Boar
-1124,of the Boar,365,367,0,0,0,of the Boar
-1125,of the Boar,370,367,0,0,0,of the Boar
-1126,of the Boar,365,372,0,0,0,of the Boar
-1127,of the Boar,370,372,0,0,0,of the Boar
-1128,of the Boar,407,372,0,0,0,of the Boar
-1131,of the Boar,408,410,0,0,0,of the Boar
-1133,of the Boar,408,412,0,0,0,of the Boar
-1134,of the Boar,1144,412,0,0,0,of the Boar
-1135,of the Boar,408,684,0,0,0,of the Boar
-1137,of the Boar,1145,684,0,0,0,of the Boar
-1138,of the Boar,1144,1043,0,0,0,of the Boar
-1139,of the Boar,1145,1043,0,0,0,of the Boar
-1140,of the Boar,1146,1043,0,0,0,of the Boar
-1141,of the Boar,1145,1044,0,0,0,of the Boar
-1145,of the Boar,1147,1045,0,0,0,of the Boar
-1146,of the Boar,1148,1045,0,0,0,of the Boar
-1147,of the Boar,1147,1046,0,0,0,of the Boar
-1148,of the Boar,1148,1046,0,0,0,of the Boar
-1149,of the Boar,1149,1046,0,0,0,of the Boar
-1151,of the Boar,1149,1047,0,0,0,of the Boar
-1152,of the Boar,1150,1047,0,0,0,of the Boar
-1153,of the Boar,1149,1048,0,0,0,of the Boar
-1157,of the Boar,1151,1049,0,0,0,of the Boar
-1158,of the Boar,1152,1049,0,0,0,of the Boar
-1159,of the Boar,1151,1050,0,0,0,of the Boar
-515,of the Wolf,93,100,0,0,0,of the Wolf
-516,of the Wolf,92,101,0,0,0,of the Wolf
-517,of the Wolf,93,101,0,0,0,of the Wolf
-518,of the Wolf,343,101,0,0,0,of the Wolf
-519,of the Wolf,93,351,0,0,0,of the Wolf
-520,of the Wolf,343,351,0,0,0,of the Wolf
-521,of the Wolf,349,351,0,0,0,of the Wolf
-523,of the Wolf,349,355,0,0,0,of the Wolf
-524,of the Wolf,358,355,0,0,0,of the Wolf
-525,of the Wolf,349,360,0,0,0,of the Wolf
-527,of the Wolf,363,360,0,0,0,of the Wolf
-528,of the Wolf,358,365,0,0,0,of the Wolf
-529,of the Wolf,363,365,0,0,0,of the Wolf
-530,of the Wolf,368,365,0,0,0,of the Wolf
-531,of the Wolf,363,370,0,0,0,of the Wolf
-533,of the Wolf,403,370,0,0,0,of the Wolf
-534,of the Wolf,368,407,0,0,0,of the Wolf
-535,of the Wolf,403,407,0,0,0,of the Wolf
-536,of the Wolf,404,407,0,0,0,of the Wolf
-537,of the Wolf,403,408,0,0,0,of the Wolf
-538,of the Wolf,404,408,0,0,0,of the Wolf
-539,of the Wolf,883,408,0,0,0,of the Wolf
-540,of the Wolf,404,1144,0,0,0,of the Wolf
-543,of the Wolf,883,1145,0,0,0,of the Wolf
-544,of the Wolf,983,1145,0,0,0,of the Wolf
-545,of the Wolf,1094,1145,0,0,0,of the Wolf
-546,of the Wolf,983,1146,0,0,0,of the Wolf
-547,of the Wolf,1094,1146,0,0,0,of the Wolf
-548,of the Wolf,1095,1146,0,0,0,of the Wolf
-549,of the Wolf,1094,1147,0,0,0,of the Wolf
-550,of the Wolf,1095,1147,0,0,0,of the Wolf
-552,of the Wolf,1095,1148,0,0,0,of the Wolf
-553,of the Wolf,1096,1148,0,0,0,of the Wolf
-554,of the Wolf,1097,1148,0,0,0,of the Wolf
-555,of the Wolf,1096,1149,0,0,0,of the Wolf
-557,of the Wolf,1098,1149,0,0,0,of the Wolf
+1412,of Fire Resistance,1348,0,0,0,0,of Fire Resistance
+1413,of Fire Resistance,1349,0,0,0,0,of Fire Resistance
+1415,of Fire Resistance,1351,0,0,0,0,of Fire Resistance
 1416,of Fire Resistance,1352,0,0,0,0,of Fire Resistance
-1419,of Fire Resistance,1355,0,0,0,0,of Fire Resistance
 1420,of Fire Resistance,1356,0,0,0,0,of Fire Resistance
-1422,of Fire Resistance,1358,0,0,0,0,of Fire Resistance
 1424,of Fire Resistance,1360,0,0,0,0,of Fire Resistance
 1425,of Fire Resistance,1361,0,0,0,0,of Fire Resistance
 1429,of Fire Resistance,1365,0,0,0,0,of Fire Resistance
@@ -870,17 +733,12 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1432,of Fire Resistance,1368,0,0,0,0,of Fire Resistance
 1433,of Fire Resistance,1369,0,0,0,0,of Fire Resistance
 1437,of Fire Resistance,1373,0,0,0,0,of Fire Resistance
-1438,of Fire Resistance,1374,0,0,0,0,of Fire Resistance
 1439,of Fire Resistance,1375,0,0,0,0,of Fire Resistance
-1442,of Fire Resistance,1378,0,0,0,0,of Fire Resistance
 1443,of Fire Resistance,1379,0,0,0,0,of Fire Resistance
-1447,of Shadow Resistance,1429,0,0,0,0,of Shadow Resistance
 1448,of Shadow Resistance,1430,0,0,0,0,of Shadow Resistance
-1450,of Shadow Resistance,1432,0,0,0,0,of Shadow Resistance
 1452,of Shadow Resistance,1434,0,0,0,0,of Shadow Resistance
 1453,of Shadow Resistance,1435,0,0,0,0,of Shadow Resistance
 1454,of Shadow Resistance,1436,0,0,0,0,of Shadow Resistance
-1455,of Shadow Resistance,1437,0,0,0,0,of Shadow Resistance
 1458,of Shadow Resistance,1440,0,0,0,0,of Shadow Resistance
 1459,of Shadow Resistance,1441,0,0,0,0,of Shadow Resistance
 1460,of Shadow Resistance,1442,0,0,0,0,of Shadow Resistance
@@ -889,9 +747,7 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1465,of Shadow Resistance,1447,0,0,0,0,of Shadow Resistance
 1466,of Shadow Resistance,1448,0,0,0,0,of Shadow Resistance
 1468,of Shadow Resistance,1450,0,0,0,0,of Shadow Resistance
-1469,of Shadow Resistance,1451,0,0,0,0,of Shadow Resistance
 1471,of Shadow Resistance,1453,0,0,0,0,of Shadow Resistance
-1473,of Shadow Resistance,1455,0,0,0,0,of Shadow Resistance
 1474,of Shadow Resistance,1456,0,0,0,0,of Shadow Resistance
 1475,of Shadow Resistance,1457,0,0,0,0,of Shadow Resistance
 1476,of Shadow Resistance,1458,0,0,0,0,of Shadow Resistance
@@ -901,9 +757,7 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1483,of Shadow Resistance,1465,0,0,0,0,of Shadow Resistance
 1485,of Shadow Resistance,1467,0,0,0,0,of Shadow Resistance
 1487,of Shadow Resistance,1469,0,0,0,0,of Shadow Resistance
-1489,of Shadow Resistance,1471,0,0,0,0,of Shadow Resistance
 1491,of Nature Resistance,1381,0,0,0,0,of Nature Resistance
-1492,of Nature Resistance,1382,0,0,0,0,of Nature Resistance
 1494,of Nature Resistance,1384,0,0,0,0,of Nature Resistance
 1497,of Nature Resistance,1387,0,0,0,0,of Nature Resistance
 1498,of Nature Resistance,1388,0,0,0,0,of Nature Resistance
@@ -912,11 +766,9 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1504,of Nature Resistance,1394,0,0,0,0,of Nature Resistance
 1505,of Nature Resistance,1395,0,0,0,0,of Nature Resistance
 1506,of Nature Resistance,1396,0,0,0,0,of Nature Resistance
-1507,of Nature Resistance,1397,0,0,0,0,of Nature Resistance
 1511,of Nature Resistance,1401,0,0,0,0,of Nature Resistance
 1512,of Nature Resistance,1402,0,0,0,0,of Nature Resistance
 1513,of Nature Resistance,1403,0,0,0,0,of Nature Resistance
-1514,of Nature Resistance,1404,0,0,0,0,of Nature Resistance
 1518,of Nature Resistance,1408,0,0,0,0,of Nature Resistance
 1519,of Nature Resistance,1409,0,0,0,0,of Nature Resistance
 1520,of Nature Resistance,1410,0,0,0,0,of Nature Resistance
@@ -926,7 +778,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1256,of the Bear,1079,1054,0,0,0,of the Bear
 1260,of the Bear,1081,1055,0,0,0,of the Bear
 1261,of the Bear,1082,1055,0,0,0,of the Bear
-1527,of Nature Resistance,1417,0,0,0,0,of Nature Resistance
 1528,of Nature Resistance,1418,0,0,0,0,of Nature Resistance
 1530,of Nature Resistance,1420,0,0,0,0,of Nature Resistance
 1531,of Nature Resistance,1421,0,0,0,0,of Nature Resistance
@@ -939,8 +790,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1123,of the Boar,360,367,0,0,0,of the Boar
 1331,of Arcane Resistance,1267,0,0,0,0,of Arcane Resistance
 1337,of Arcane Resistance,1273,0,0,0,0,of Arcane Resistance
-1521,of Nature Resistance,1411,0,0,0,0,of Nature Resistance
-1547,of Power,1563,0,0,0,0,of Power
 1548,of Power,1583,0,0,0,0,of Power
 1549,of Power,1584,0,0,0,0,of Power
 1550,of Power,1585,0,0,0,0,of Power
@@ -955,24 +804,8 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1559,of Power,1594,0,0,0,0,of Power
 1560,of Power,1595,0,0,0,0,of Power
 1561,of Power,1596,0,0,0,0,of Power
-1562,of Power,1597,0,0,0,0,of Power
-1563,of Power,1598,0,0,0,0,of Power
-1564,of Power,1599,0,0,0,0,of Power
-1565,of Power,1600,0,0,0,0,of Power
-1566,of Power,1601,0,0,0,0,of Power
-1567,of Power,1602,0,0,0,0,of Power
-964,of the Gorilla,1118,412,0,0,0,of the Gorilla
-965,of the Gorilla,406,684,0,0,0,of the Gorilla
-966,of the Gorilla,1118,684,0,0,0,of the Gorilla
-967,of the Gorilla,1119,684,0,0,0,of the Gorilla
-968,of the Gorilla,1118,1043,0,0,0,of the Gorilla
-969,of the Gorilla,1119,1043,0,0,0,of the Gorilla
-971,of the Gorilla,1119,1044,0,0,0,of the Gorilla
-972,of the Gorilla,1120,1044,0,0,0,of the Gorilla
-974,of the Gorilla,1120,1045,0,0,0,of the Gorilla
 975,of the Gorilla,1121,1045,0,0,0,of the Gorilla
 976,of the Gorilla,1122,1045,0,0,0,of the Gorilla
-977,of the Gorilla,1121,1046,0,0,0,of the Gorilla
 979,of the Gorilla,1123,1046,0,0,0,of the Gorilla
 980,of the Gorilla,1122,1047,0,0,0,of the Gorilla
 981,of the Gorilla,1123,1047,0,0,0,of the Gorilla
@@ -984,8 +817,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 989,of the Gorilla,1125,1050,0,0,0,of the Gorilla
 990,of the Gorilla,1126,1050,0,0,0,of the Gorilla
 991,of the Gorilla,1127,1050,0,0,0,of the Gorilla
-992,of the Gorilla,1126,1051,0,0,0,of the Gorilla
-993,of the Gorilla,1127,1051,0,0,0,of the Gorilla
 994,of the Gorilla,1128,1051,0,0,0,of the Gorilla
 996,of the Gorilla,1128,1052,0,0,0,of the Gorilla
 997,of the Gorilla,1129,1052,0,0,0,of the Gorilla
@@ -994,15 +825,12 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1002,of the Gorilla,1130,1054,0,0,0,of the Gorilla
 1003,of the Gorilla,1131,1054,0,0,0,of the Gorilla
 1005,of the Gorilla,1131,1055,0,0,0,of the Gorilla
-1006,of the Gorilla,1132,1055,0,0,0,of the Gorilla
 1008,of the Gorilla,1132,1056,0,0,0,of the Gorilla
 1009,of the Whale,82,71,0,0,0,of the Whale
 1010,of the Whale,83,71,0,0,0,of the Whale
 1012,of the Whale,83,72,0,0,0,of the Whale
 1013,of the Whale,84,72,0,0,0,of the Whale
 1014,of the Whale,83,73,0,0,0,of the Whale
-1017,of the Whale,84,102,0,0,0,of the Whale
-1018,of the Whale,98,102,0,0,0,of the Whale
 1019,of the Whale,99,102,0,0,0,of the Whale
 1020,of the Whale,98,103,0,0,0,of the Whale
 1022,of the Whale,100,103,0,0,0,of the Whale
@@ -1013,23 +841,17 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1030,of the Whale,351,353,0,0,0,of the Whale
 1031,of the Whale,355,353,0,0,0,of the Whale
 1033,of the Whale,355,356,0,0,0,of the Whale
-1034,of the Whale,360,356,0,0,0,of the Whale
 1036,of the Whale,360,361,0,0,0,of the Whale
 1037,of the Whale,365,361,0,0,0,of the Whale
-1038,of the Whale,360,366,0,0,0,of the Whale
 1040,of the Whale,370,366,0,0,0,of the Whale
 337,of Stamina,1073,0,0,0,0,of Stamina
 389,of Intellect,1124,0,0,0,0,of Intellect
-435,of the Falcon,343,97,0,0,0,of the Falcon
-449,of the Falcon,368,369,0,0,0,of the Falcon
 458,of the Falcon,883,1118,0,0,0,of the Falcon
 473,of the Falcon,1097,1123,0,0,0,of the Falcon
 488,of the Falcon,1102,1128,0,0,0,of the Falcon
 497,of the Falcon,1105,1131,0,0,0,of the Falcon
 344,of Stamina,1080,0,0,0,0,of Stamina
 352,of Stamina,1088,0,0,0,0,of Stamina
-409,of Spirit,1144,0,0,0,0,of Spirit
-432,of Spirit,1167,0,0,0,0,of Spirit
 509,of the Wolf,91,98,0,0,0,of the Wolf
 287,of Stamina,1068,0,0,0,0,of Stamina
 317,of Strength,1052,0,0,0,0,of Strength
@@ -1040,11 +862,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 374,of Agility,1109,0,0,0,0,of Agility
 379,of Agility,1114,0,0,0,0,of Agility
 386,of Intellect,1121,0,0,0,0,of Intellect
-395,of Intellect,1130,0,0,0,0,of Intellect
-403,of Intellect,1138,0,0,0,0,of Intellect
-411,of Spirit,1146,0,0,0,0,of Spirit
-426,of Spirit,1161,0,0,0,0,of Spirit
-446,of the Falcon,363,364,0,0,0,of the Falcon
 481,of the Falcon,1099,1126,0,0,0,of the Falcon
 841,of the Eagle,79,72,0,0,0,of the Eagle
 850,of the Eagle,94,103,0,0,0,of the Eagle
@@ -1084,15 +901,8 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1234,of the Bear,1073,1046,0,0,0,of the Bear
 1242,of the Bear,1075,1049,0,0,0,of the Bear
 1252,of the Bear,1079,1052,0,0,0,of the Bear
-575,of the Wolf,1104,1155,0,0,0,of the Wolf
-591,of the Monkey,90,73,0,0,0,of the Monkey
-605,of the Monkey,343,353,0,0,0,of the Monkey
-616,of the Monkey,363,371,0,0,0,of the Monkey
-627,of the Monkey,983,1068,0,0,0,of the Monkey
-638,of the Monkey,1096,1072,0,0,0,of the Monkey
 652,of the Monkey,1100,1077,0,0,0,of the Monkey
 665,of the Monkey,1105,1081,0,0,0,of the Monkey
-598,of the Monkey,91,104,0,0,0,of the Monkey
 680,of the Tiger,90,107,0,0,0,of the Tiger
 690,of the Tiger,343,352,0,0,0,of the Tiger
 699,of the Tiger,363,367,0,0,0,of the Tiger
@@ -1128,12 +938,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1316,of Arcane Resistance,1252,0,0,0,0,of Arcane Resistance
 1321,of Arcane Resistance,1257,0,0,0,0,of Arcane Resistance
 1328,of Arcane Resistance,1264,0,0,0,0,of Arcane Resistance
-1335,of Arcane Resistance,1271,0,0,0,0,of Arcane Resistance
-391,of Intellect,1126,0,0,0,0,of Intellect
-400,of Intellect,1135,0,0,0,0,of Intellect
-408,of Intellect,1143,0,0,0,0,of Intellect
-417,of Spirit,1152,0,0,0,0,of Spirit
-429,of Spirit,1164,0,0,0,0,of Spirit
 633,of the Monkey,1095,1070,0,0,0,of the Monkey
 640,of the Monkey,1096,1073,0,0,0,of the Monkey
 649,of the Monkey,1099,1076,0,0,0,of the Monkey
@@ -1156,39 +960,43 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1493,of Nature Resistance,1383,0,0,0,0,of Nature Resistance
 1501,of Nature Resistance,1391,0,0,0,0,of Nature Resistance
 1525,of Nature Resistance,1415,0,0,0,0,of Nature Resistance
-1259,of the Bear,1080,1055,0,0,0,of the Bear
-1529,of Nature Resistance,1419,0,0,0,0,of Nature Resistance
-1343,of Arcane Resistance,1279,0,0,0,0,of Arcane Resistance
-1349,of Arcane Resistance,1285,0,0,0,0,of Arcane Resistance
-1355,of Frost Resistance,1291,0,0,0,0,of Frost Resistance
-1428,of Fire Resistance,1364,0,0,0,0,of Fire Resistance
+1724,of Marksmanship,2060,0,0,0,0,of Marksmanship
+1725,of Marksmanship,2061,0,0,0,0,of Marksmanship
+1726,of Marksmanship,2062,0,0,0,0,of Marksmanship
+1727,of Marksmanship,2063,0,0,0,0,of Marksmanship
+1728,of Marksmanship,2064,0,0,0,0,of Marksmanship
+1729,of Marksmanship,2065,0,0,0,0,of Marksmanship
+1730,of Marksmanship,2066,0,0,0,0,of Marksmanship
+1732,of Marksmanship,2068,0,0,0,0,of Marksmanship
+1733,of Marksmanship,2069,0,0,0,0,of Marksmanship
+1734,of Marksmanship,2070,0,0,0,0,of Marksmanship
+1735,of Marksmanship,2071,0,0,0,0,of Marksmanship
+1736,of Marksmanship,2072,0,0,0,0,of Marksmanship
+1737,of Marksmanship,2073,0,0,0,0,of Marksmanship
+1738,of Marksmanship,2074,0,0,0,0,of Marksmanship
+1739,of Marksmanship,2075,0,0,0,0,of Marksmanship
+1741,of Marksmanship,2077,0,0,0,0,of Marksmanship
 1253,of the Bear,1078,1053,0,0,0,of the Bear
 1254,of the Bear,1079,1053,0,0,0,of the Bear
 1257,of the Bear,1080,1054,0,0,0,of the Bear
 1258,of the Bear,1081,1054,0,0,0,of the Bear
 1262,of the Bear,1081,1056,0,0,0,of the Bear
 1263,of the Bear,1082,1056,0,0,0,of the Bear
-1273,of Strength,1203,0,0,0,0,of Strength
 1274,of Strength,1204,0,0,0,0,of Strength
 1276,of Strength,1206,0,0,0,0,of Strength
 1278,of Strength,1208,0,0,0,0,of Strength
-1279,of Agility,1215,0,0,0,0,of Agility
-1280,of Agility,1216,0,0,0,0,of Agility
 1281,of Agility,1217,0,0,0,0,of Agility
 1283,of Agility,1219,0,0,0,0,of Agility
 1284,of Agility,1220,0,0,0,0,of Agility
 1286,of Intellect,1222,0,0,0,0,of Intellect
-1288,of Intellect,1224,0,0,0,0,of Intellect
 1289,of Intellect,1225,0,0,0,0,of Intellect
 1291,of Spirit,1227,0,0,0,0,of Spirit
 1292,of Spirit,1228,0,0,0,0,of Spirit
 1293,of Spirit,1229,0,0,0,0,of Spirit
 1294,of Spirit,1230,0,0,0,0,of Spirit
 1296,of Spirit,1232,0,0,0,0,of Spirit
-1308,of Arcane Resistance,1244,0,0,0,0,of Arcane Resistance
 1309,of Arcane Resistance,1245,0,0,0,0,of Arcane Resistance
 1311,of Arcane Resistance,1247,0,0,0,0,of Arcane Resistance
-1312,of Arcane Resistance,1248,0,0,0,0,of Arcane Resistance
 1314,of Arcane Resistance,1250,0,0,0,0,of Arcane Resistance
 1315,of Arcane Resistance,1251,0,0,0,0,of Arcane Resistance
 1317,of Arcane Resistance,1253,0,0,0,0,of Arcane Resistance
@@ -1197,8 +1005,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1322,of Arcane Resistance,1258,0,0,0,0,of Arcane Resistance
 1323,of Arcane Resistance,1259,0,0,0,0,of Arcane Resistance
 1324,of Arcane Resistance,1260,0,0,0,0,of Arcane Resistance
-1326,of Arcane Resistance,1262,0,0,0,0,of Arcane Resistance
-1329,of Arcane Resistance,1265,0,0,0,0,of Arcane Resistance
 1330,of Arcane Resistance,1266,0,0,0,0,of Arcane Resistance
 1332,of Arcane Resistance,1268,0,0,0,0,of Arcane Resistance
 1333,of Arcane Resistance,1269,0,0,0,0,of Arcane Resistance
@@ -1209,9 +1015,7 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1341,of Arcane Resistance,1277,0,0,0,0,of Arcane Resistance
 1345,of Arcane Resistance,1281,0,0,0,0,of Arcane Resistance
 1346,of Arcane Resistance,1282,0,0,0,0,of Arcane Resistance
-1347,of Arcane Resistance,1283,0,0,0,0,of Arcane Resistance
 1348,of Arcane Resistance,1284,0,0,0,0,of Arcane Resistance
-1351,of Arcane Resistance,1287,0,0,0,0,of Arcane Resistance
 1353,of Frost Resistance,1289,0,0,0,0,of Frost Resistance
 1354,of Frost Resistance,1290,0,0,0,0,of Frost Resistance
 1356,of Frost Resistance,1292,0,0,0,0,of Frost Resistance
@@ -1219,11 +1023,8 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1359,of Frost Resistance,1295,0,0,0,0,of Frost Resistance
 1362,of Frost Resistance,1298,0,0,0,0,of Frost Resistance
 1364,of Frost Resistance,1300,0,0,0,0,of Frost Resistance
-1365,of Frost Resistance,1301,0,0,0,0,of Frost Resistance
 1267,of Stamina,1209,0,0,0,0,of Stamina
 1268,of Stamina,1210,0,0,0,0,of Stamina
-1269,of Stamina,1211,0,0,0,0,of Stamina
-1270,of Stamina,1212,0,0,0,0,of Stamina
 1272,of Stamina,1214,0,0,0,0,of Stamina
 1290,of Intellect,1226,0,0,0,0,of Intellect
 1367,of Frost Resistance,1303,0,0,0,0,of Frost Resistance
@@ -1231,45 +1032,138 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1370,of Frost Resistance,1306,0,0,0,0,of Frost Resistance
 1371,of Frost Resistance,1307,0,0,0,0,of Frost Resistance
 1373,of Frost Resistance,1309,0,0,0,0,of Frost Resistance
-1374,of Frost Resistance,1310,0,0,0,0,of Frost Resistance
 1375,of Frost Resistance,1311,0,0,0,0,of Frost Resistance
 1378,of Frost Resistance,1314,0,0,0,0,of Frost Resistance
-1379,of Frost Resistance,1315,0,0,0,0,of Frost Resistance
 1380,of Frost Resistance,1316,0,0,0,0,of Frost Resistance
 1381,of Frost Resistance,1317,0,0,0,0,of Frost Resistance
 1382,of Frost Resistance,1318,0,0,0,0,of Frost Resistance
 1385,of Frost Resistance,1321,0,0,0,0,of Frost Resistance
 1386,of Frost Resistance,1322,0,0,0,0,of Frost Resistance
 1387,of Frost Resistance,1323,0,0,0,0,of Frost Resistance
-1388,of Frost Resistance,1324,0,0,0,0,of Frost Resistance
 1390,of Frost Resistance,1326,0,0,0,0,of Frost Resistance
 1392,of Frost Resistance,1328,0,0,0,0,of Frost Resistance
 1393,of Frost Resistance,1329,0,0,0,0,of Frost Resistance
 1395,of Frost Resistance,1331,0,0,0,0,of Frost Resistance
 1396,of Frost Resistance,1332,0,0,0,0,of Frost Resistance
-1397,of Frost Resistance,1333,0,0,0,0,of Frost Resistance
 1399,of Fire Resistance,1335,0,0,0,0,of Fire Resistance
 1402,of Fire Resistance,1338,0,0,0,0,of Fire Resistance
 1403,of Fire Resistance,1339,0,0,0,0,of Fire Resistance
-1404,of Fire Resistance,1340,0,0,0,0,of Fire Resistance
 1405,of Fire Resistance,1341,0,0,0,0,of Fire Resistance
 1409,of Fire Resistance,1345,0,0,0,0,of Fire Resistance
 1410,of Fire Resistance,1346,0,0,0,0,of Fire Resistance
-1412,of Fire Resistance,1348,0,0,0,0,of Fire Resistance
-1413,of Fire Resistance,1349,0,0,0,0,of Fire Resistance
-1415,of Fire Resistance,1351,0,0,0,0,of Fire Resistance
-1496,of Nature Resistance,1386,0,0,0,0,of Nature Resistance
-1275,of Strength,1205,0,0,0,0,of Strength
+1915,of Holy Wrath,2195,0,0,0,0,of Holy Wrath
+1934,of Holy Wrath,2214,0,0,0,0,of Holy Wrath
+1960,of Frozen Wrath,2240,0,0,0,0,of Frozen Wrath
 1285,of Intellect,1221,0,0,0,0,of Intellect
 1307,of Arcane Resistance,1243,0,0,0,0,of Arcane Resistance
 1313,of Arcane Resistance,1249,0,0,0,0,of Arcane Resistance
 1320,of Arcane Resistance,1256,0,0,0,0,of Arcane Resistance
+1743,of Eluding,2078,0,0,0,0,of Eluding
+1744,of Eluding,2078,0,0,0,0,of Eluding
+1748,of Eluding,2078,74,0,0,0,of Eluding
+1749,of Eluding,2078,74,0,0,0,of Eluding
+1750,of Eluding,2078,74,0,0,0,of Eluding
+1751,of Eluding,2078,75,0,0,0,of Eluding
+1752,of Eluding,2078,75,0,0,0,of Eluding
+1753,of Eluding,2078,75,0,0,0,of Eluding
+1754,of Eluding,2078,76,0,0,0,of Eluding
+1755,of Eluding,2078,76,0,0,0,of Eluding
+1756,of Eluding,2078,76,0,0,0,of Eluding
+1759,of Eluding,2078,90,0,0,0,of Eluding
+1760,of Eluding,2078,91,0,0,0,of Eluding
+1761,of Eluding,2078,91,0,0,0,of Eluding
+1762,of Eluding,2078,91,0,0,0,of Eluding
+1764,of Eluding,2078,92,0,0,0,of Eluding
+1765,of Eluding,2078,92,0,0,0,of Eluding
+1766,of Eluding,2078,93,0,0,0,of Eluding
+1768,of Eluding,2078,93,0,0,0,of Eluding
+1769,of Eluding,2078,343,0,0,0,of Eluding
+1770,of Eluding,2078,343,0,0,0,of Eluding
+1773,of Eluding,2078,349,0,0,0,of Eluding
+1774,of Eluding,2078,349,0,0,0,of Eluding
+1777,of Eluding,2078,349,0,0,0,of Eluding
+1778,of Eluding,2078,349,0,0,0,of Eluding
+1779,of Eluding,2078,349,0,0,0,of Eluding
+1780,of Eluding,2078,358,0,0,0,of Eluding
+1782,of Eluding,2078,358,0,0,0,of Eluding
+1783,of Eluding,2078,363,0,0,0,of Eluding
+1785,of Eluding,2078,363,0,0,0,of Eluding
+1786,of Eluding,2078,368,0,0,0,of Eluding
+1788,of Eluding,2078,368,0,0,0,of Eluding
+1790,of Eluding,2078,403,0,0,0,of Eluding
+1791,of Eluding,2078,403,0,0,0,of Eluding
+1794,of Eluding,2078,404,0,0,0,of Eluding
+1795,of Eluding,2078,404,0,0,0,of Eluding
+1796,of Eluding,2078,404,0,0,0,of Eluding
+1797,of Eluding,2078,883,0,0,0,of Eluding
+1799,of Arcane Wrath,2079,0,0,0,0,of Arcane Wrath
+1800,of Arcane Wrath,2080,0,0,0,0,of Arcane Wrath
+1803,of Arcane Wrath,2083,0,0,0,0,of Arcane Wrath
+1805,of Arcane Wrath,2085,0,0,0,0,of Arcane Wrath
+1806,of Arcane Wrath,2086,0,0,0,0,of Arcane Wrath
+1811,of Arcane Wrath,2091,0,0,0,0,of Arcane Wrath
+1813,of Arcane Wrath,2093,0,0,0,0,of Arcane Wrath
+1817,of Arcane Wrath,2097,0,0,0,0,of Arcane Wrath
+1818,of Arcane Wrath,2098,0,0,0,0,of Arcane Wrath
+1819,of Arcane Wrath,2099,0,0,0,0,of Arcane Wrath
+1822,of Arcane Wrath,2102,0,0,0,0,of Arcane Wrath
+1823,of Arcane Wrath,2103,0,0,0,0,of Arcane Wrath
+1825,of Arcane Wrath,2105,0,0,0,0,of Arcane Wrath
+1828,of Arcane Wrath,2108,0,0,0,0,of Arcane Wrath
+1830,of Arcane Wrath,2110,0,0,0,0,of Arcane Wrath
+1834,of Arcane Wrath,2114,0,0,0,0,of Arcane Wrath
+1836,of Arcane Wrath,2116,0,0,0,0,of Arcane Wrath
+1839,of Shadow Wrath,2119,0,0,0,0,of Shadow Wrath
+1840,of Shadow Wrath,2120,0,0,0,0,of Shadow Wrath
+1843,of Shadow Wrath,2123,0,0,0,0,of Shadow Wrath
+1844,of Shadow Wrath,2124,0,0,0,0,of Shadow Wrath
+1846,of Shadow Wrath,2126,0,0,0,0,of Shadow Wrath
+1850,of Shadow Wrath,2130,0,0,0,0,of Shadow Wrath
+1857,of Shadow Wrath,2137,0,0,0,0,of Shadow Wrath
+1858,of Shadow Wrath,2138,0,0,0,0,of Shadow Wrath
+1861,of Shadow Wrath,2141,0,0,0,0,of Shadow Wrath
+1868,of Shadow Wrath,2148,0,0,0,0,of Shadow Wrath
+1871,of Shadow Wrath,2151,0,0,0,0,of Shadow Wrath
+1873,of Shadow Wrath,2153,0,0,0,0,of Shadow Wrath
+1876,of Fiery Wrath,2156,0,0,0,0,of Fiery Wrath
+1877,of Fiery Wrath,2157,0,0,0,0,of Fiery Wrath
+1878,of Fiery Wrath,2158,0,0,0,0,of Fiery Wrath
+1879,of Fiery Wrath,2159,0,0,0,0,of Fiery Wrath
+1884,of Fiery Wrath,2164,0,0,0,0,of Fiery Wrath
+1885,of Fiery Wrath,2165,0,0,0,0,of Fiery Wrath
+1886,of Fiery Wrath,2166,0,0,0,0,of Fiery Wrath
+1888,of Fiery Wrath,2168,0,0,0,0,of Fiery Wrath
+1889,of Fiery Wrath,2169,0,0,0,0,of Fiery Wrath
+1891,of Fiery Wrath,2171,0,0,0,0,of Fiery Wrath
+1892,of Fiery Wrath,2172,0,0,0,0,of Fiery Wrath
+1893,of Fiery Wrath,2173,0,0,0,0,of Fiery Wrath
+1897,of Fiery Wrath,2177,0,0,0,0,of Fiery Wrath
+1898,of Fiery Wrath,2178,0,0,0,0,of Fiery Wrath
+1900,of Fiery Wrath,2180,0,0,0,0,of Fiery Wrath
+1904,of Fiery Wrath,2184,0,0,0,0,of Fiery Wrath
+1905,of Fiery Wrath,2185,0,0,0,0,of Fiery Wrath
+1906,of Fiery Wrath,2186,0,0,0,0,of Fiery Wrath
+1908,of Fiery Wrath,2188,0,0,0,0,of Fiery Wrath
+1910,of Fiery Wrath,2190,0,0,0,0,of Fiery Wrath
+1914,of Holy Wrath,2194,0,0,0,0,of Holy Wrath
+1916,of Holy Wrath,2196,0,0,0,0,of Holy Wrath
+1691,of Blocking,1986,1043,0,0,0,of Blocking
+1692,of Blocking,1986,1043,0,0,0,of Blocking
+1693,of Blocking,1986,1043,0,0,0,of Blocking
+1694,of Blocking,1986,1044,0,0,0,of Blocking
+1702,of Blocking,1986,1047,0,0,0,of Blocking
+1704,of Marksmanship,2040,0,0,0,0,of Marksmanship
+1706,of Marksmanship,2042,0,0,0,0,of Marksmanship
+1129,of the Boar,370,410,0,0,0,of the Boar
+1143,of the Boar,1147,1044,0,0,0,of the Boar
+1150,of the Boar,1148,1047,0,0,0,of the Boar
+1156,of the Boar,1150,1049,0,0,0,of the Boar
+1484,of Shadow Resistance,1466,0,0,0,0,of Shadow Resistance
 1327,of Arcane Resistance,1263,0,0,0,0,of Arcane Resistance
 1352,of Arcane Resistance,1288,0,0,0,0,of Arcane Resistance
 1271,of Stamina,1213,0,0,0,0,of Stamina
 1369,of Frost Resistance,1305,0,0,0,0,of Frost Resistance
 1376,of Frost Resistance,1312,0,0,0,0,of Frost Resistance
-1407,of Fire Resistance,1343,0,0,0,0,of Fire Resistance
 1418,of Fire Resistance,1354,0,0,0,0,of Fire Resistance
 1436,of Fire Resistance,1372,0,0,0,0,of Fire Resistance
 1444,of Fire Resistance,1380,0,0,0,0,of Fire Resistance
@@ -1285,78 +1179,36 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1502,of Nature Resistance,1392,0,0,0,0,of Nature Resistance
 1509,of Nature Resistance,1399,0,0,0,0,of Nature Resistance
 1515,of Nature Resistance,1405,0,0,0,0,of Nature Resistance
-1568,of Power,1603,0,0,0,0,of Power
-1569,of Power,1604,0,0,0,0,of Power
-1570,of Power,1605,0,0,0,0,of Power
-1571,of Power,1606,0,0,0,0,of Power
-1572,of Power,1607,0,0,0,0,of Power
-1573,of Power,1608,0,0,0,0,of Power
-1574,of Power,1609,0,0,0,0,of Power
-1575,of Power,1610,0,0,0,0,of Power
-1576,of Power,1611,0,0,0,0,of Power
-1577,of Power,1612,0,0,0,0,of Power
-1578,of Power,1613,0,0,0,0,of Power
-1579,of Power,1614,0,0,0,0,of Power
-1580,of Power,1615,0,0,0,0,of Power
-1581,of Power,1616,0,0,0,0,of Power
-1582,of Power,1617,0,0,0,0,of Power
-1583,of Power,1618,0,0,0,0,of Power
-1584,of Power,1619,0,0,0,0,of Power
-1585,of Power,1620,0,0,0,0,of Power
-1587,of Power,1622,0,0,0,0,of Power
-1588,of Power,1623,0,0,0,0,of Power
-1589,of Power,1624,0,0,0,0,of Power
-1590,of Power,1625,0,0,0,0,of Power
-1591,of Power,1626,0,0,0,0,of Power
-1592,of Power,1627,0,0,0,0,of Power
-1398,of Frost Resistance,1334,0,0,0,0,of Frost Resistance
-1434,of Fire Resistance,1370,0,0,0,0,of Fire Resistance
-336,of Stamina,1072,0,0,0,0,of Stamina
-418,of Spirit,1153,0,0,0,0,of Spirit
-445,of the Falcon,358,364,0,0,0,of the Falcon
-459,of the Falcon,983,1118,0,0,0,of the Falcon
-480,of the Falcon,1100,1125,0,0,0,of the Falcon
-495,of the Falcon,1105,1130,0,0,0,of the Falcon
-315,of Strength,1050,0,0,0,0,of Strength
-401,of Intellect,1136,0,0,0,0,of Intellect
-414,of Spirit,1149,0,0,0,0,of Spirit
-460,of the Falcon,883,1119,0,0,0,of the Falcon
-854,of the Eagle,96,104,0,0,0,of the Eagle
-876,of the Eagle,406,409,0,0,0,of the Eagle
-890,of the Eagle,1121,1071,0,0,0,of the Eagle
-1057,of the Whale,1146,1070,0,0,0,of the Whale
-1097,of the Boar,83,69,0,0,0,of the Boar
-1118,of the Boar,355,357,0,0,0,of the Boar
-1130,of the Boar,407,410,0,0,0,of the Boar
-1142,of the Boar,1146,1044,0,0,0,of the Boar
-1154,of the Boar,1150,1048,0,0,0,of the Boar
-542,of the Wolf,983,1144,0,0,0,of the Wolf
-1167,of the Boar,1155,1052,0,0,0,of the Boar
-1213,of the Bear,409,372,0,0,0,of the Bear
-1225,of the Bear,1070,1043,0,0,0,of the Bear
-611,of the Monkey,358,361,0,0,0,of the Monkey
-675,of the Tiger,76,70,0,0,0,of the Tiger
-608,of the Monkey,349,356,0,0,0,of the Monkey
-686,of the Tiger,92,109,0,0,0,of the Tiger
-742,of the Tiger,1103,1052,0,0,0,of the Tiger
-774,of the Owl,97,351,0,0,0,of the Owl
-781,of the Owl,359,360,0,0,0,of the Owl
-790,of the Owl,405,407,0,0,0,of the Owl
-928,of the Gorilla,81,69,0,0,0,of the Gorilla
-985,of the Gorilla,1125,1048,0,0,0,of the Gorilla
-998,of the Gorilla,1128,1053,0,0,0,of the Gorilla
-1011,of the Whale,82,72,0,0,0,of the Whale
-1021,of the Whale,99,103,0,0,0,of the Whale
-1032,of the Whale,351,356,0,0,0,of the Whale
-1041,of the Whale,365,371,0,0,0,of the Whale
-885,of the Eagle,1120,1069,0,0,0,of the Eagle
-892,of the Eagle,1121,1072,0,0,0,of the Eagle
-899,of the Eagle,1124,1074,0,0,0,of the Eagle
-930,of the Gorilla,81,70,0,0,0,of the Gorilla
-937,of the Gorilla,96,107,0,0,0,of the Gorilla
-944,of the Gorilla,97,352,0,0,0,of the Gorilla
-951,of the Gorilla,359,362,0,0,0,of the Gorilla
-1000,of the Gorilla,1130,1053,0,0,0,of the Gorilla
+1648,of Blocking,1983,68,0,0,0,of Blocking
+1696,of Blocking,1986,1045,0,0,0,of Blocking
+1698,of Blocking,1986,1045,0,0,0,of Blocking
+1700,of Blocking,1986,1046,0,0,0,of Blocking
+1701,of Blocking,1986,1046,0,0,0,of Blocking
+1710,of Marksmanship,2046,0,0,0,0,of Marksmanship
+1712,of Marksmanship,2048,0,0,0,0,of Marksmanship
+1714,of Marksmanship,2050,0,0,0,0,of Marksmanship
+1715,of Marksmanship,2051,0,0,0,0,of Marksmanship
+1716,of Marksmanship,2052,0,0,0,0,of Marksmanship
+1717,of Marksmanship,2053,0,0,0,0,of Marksmanship
+1719,of Marksmanship,2055,0,0,0,0,of Marksmanship
+1720,of Marksmanship,2056,0,0,0,0,of Marksmanship
+1919,of Holy Wrath,2199,0,0,0,0,of Holy Wrath
+1920,of Holy Wrath,2200,0,0,0,0,of Holy Wrath
+1921,of Holy Wrath,2201,0,0,0,0,of Holy Wrath
+1924,of Holy Wrath,2204,0,0,0,0,of Holy Wrath
+1928,of Holy Wrath,2208,0,0,0,0,of Holy Wrath
+1929,of Holy Wrath,2209,0,0,0,0,of Holy Wrath
+1930,of Holy Wrath,2210,0,0,0,0,of Holy Wrath
+1931,of Holy Wrath,2211,0,0,0,0,of Holy Wrath
+1936,of Holy Wrath,2216,0,0,0,0,of Holy Wrath
+1938,of Holy Wrath,2218,0,0,0,0,of Holy Wrath
+1939,of Holy Wrath,2219,0,0,0,0,of Holy Wrath
+1944,of Holy Wrath,2224,0,0,0,0,of Holy Wrath
+1946,of Holy Wrath,2226,0,0,0,0,of Holy Wrath
+1948,of Holy Wrath,2228,0,0,0,0,of Holy Wrath
+1953,of Frozen Wrath,2233,0,0,0,0,of Frozen Wrath
+1954,of Frozen Wrath,2234,0,0,0,0,of Frozen Wrath
+1959,of Frozen Wrath,2239,0,0,0,0,of Frozen Wrath
 1342,of Arcane Resistance,1278,0,0,0,0,of Arcane Resistance
 1350,of Arcane Resistance,1286,0,0,0,0,of Arcane Resistance
 1357,of Frost Resistance,1293,0,0,0,0,of Frost Resistance
@@ -1366,13 +1218,6 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1377,of Frost Resistance,1313,0,0,0,0,of Frost Resistance
 1383,of Frost Resistance,1319,0,0,0,0,of Frost Resistance
 1389,of Frost Resistance,1325,0,0,0,0,of Frost Resistance
-1394,of Frost Resistance,1330,0,0,0,0,of Frost Resistance
-1401,of Fire Resistance,1337,0,0,0,0,of Fire Resistance
-1408,of Fire Resistance,1344,0,0,0,0,of Fire Resistance
-1414,of Fire Resistance,1350,0,0,0,0,of Fire Resistance
-1421,of Fire Resistance,1357,0,0,0,0,of Fire Resistance
-1427,of Fire Resistance,1363,0,0,0,0,of Fire Resistance
-1435,of Fire Resistance,1371,0,0,0,0,of Fire Resistance
 1441,of Fire Resistance,1377,0,0,0,0,of Fire Resistance
 1446,of Shadow Resistance,1428,0,0,0,0,of Shadow Resistance
 1451,of Shadow Resistance,1433,0,0,0,0,of Shadow Resistance
@@ -1430,6 +1275,675 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 822,of the Owl,1126,1153,0,0,0,of the Owl
 833,of the Owl,1131,1156,0,0,0,of the Owl
 941,of the Gorilla,96,109,0,0,0,of the Gorilla
+1325,of Arcane Resistance,1261,0,0,0,0,of Arcane Resistance
+1624,of Defense,1960,0,0,0,0,of Defense
+1654,of Blocking,1983,106,0,0,0,of Blocking
+1676,of Blocking,1985,372,0,0,0,of Blocking
+1695,of Blocking,1986,1044,0,0,0,of Blocking
+1490,of Shadow Resistance,1472,0,0,0,0,of Shadow Resistance
+1496,of Nature Resistance,1386,0,0,0,0,of Nature Resistance
+1275,of Strength,1205,0,0,0,0,of Strength
+1400,of Fire Resistance,1336,0,0,0,0,of Fire Resistance
+1406,of Fire Resistance,1342,0,0,0,0,of Fire Resistance
+1411,of Fire Resistance,1347,0,0,0,0,of Fire Resistance
+1417,of Fire Resistance,1353,0,0,0,0,of Fire Resistance
+1440,of Fire Resistance,1376,0,0,0,0,of Fire Resistance
+1445,of Shadow Resistance,1427,0,0,0,0,of Shadow Resistance
+1336,of Arcane Resistance,1272,0,0,0,0,of Arcane Resistance
+1344,of Arcane Resistance,1280,0,0,0,0,of Arcane Resistance
+1360,of Frost Resistance,1296,0,0,0,0,of Frost Resistance
+1384,of Frost Resistance,1320,0,0,0,0,of Frost Resistance
+1391,of Frost Resistance,1327,0,0,0,0,of Frost Resistance
+1426,of Fire Resistance,1362,0,0,0,0,of Fire Resistance
+1607,,1943,0,0,0,0,of Defense
+1609,of Defense,1945,0,0,0,0,of Defense
+1610,of Defense,1946,0,0,0,0,of Defense
+1611,of Defense,1947,0,0,0,0,of Defense
+1612,of Defense,1948,0,0,0,0,of Defense
+1613,of Defense,1949,0,0,0,0,of Defense
+1614,of Defense,1950,0,0,0,0,of Defense
+1617,of Defense,1953,0,0,0,0,of Defense
+1618,of Defense,1954,0,0,0,0,of Defense
+1619,of Defense,1955,0,0,0,0,of Defense
+1621,of Defense,1957,0,0,0,0,of Defense
+1623,of Defense,1959,0,0,0,0,of Defense
+1626,of Defense,1962,0,0,0,0,of Defense
+1627,of Defense,1963,0,0,0,0,of Defense
+1628,of Defense,1964,0,0,0,0,of Defense
+1629,of Defense,1965,0,0,0,0,of Defense
+1631,of Defense,1967,0,0,0,0,of Defense
+1632,of Defense,1968,0,0,0,0,of Defense
+1633,of Defense,1969,0,0,0,0,of Defense
+1636,of Defense,1972,0,0,0,0,of Defense
+1647,of Blocking,1983,0,0,0,0,of Blocking
+1649,of Blocking,1983,68,0,0,0,of Blocking
+1650,of Blocking,1983,69,0,0,0,of Blocking
+1651,of Blocking,1983,69,0,0,0,of Blocking
+1655,of Blocking,1983,106,0,0,0,of Blocking
+1657,of Blocking,1984,107,0,0,0,of Blocking
+1658,of Blocking,1984,108,0,0,0,of Blocking
+1660,of Blocking,1984,109,0,0,0,of Blocking
+1663,of Blocking,1984,352,0,0,0,of Blocking
+1664,of Blocking,1984,357,0,0,0,of Blocking
+1665,of Blocking,1984,357,0,0,0,of Blocking
+1666,of Blocking,1984,357,0,0,0,of Blocking
+1670,of Blocking,1985,362,0,0,0,of Blocking
+1672,of Blocking,1985,367,0,0,0,of Blocking
+1673,of Blocking,1985,367,0,0,0,of Blocking
+1675,of Blocking,1985,372,0,0,0,of Blocking
+1677,of Blocking,1986,372,0,0,0,of Blocking
+1679,of Blocking,1986,372,0,0,0,of Blocking
+1681,of Blocking,1986,372,0,0,0,of Blocking
+1682,of Blocking,1986,410,0,0,0,of Blocking
+1683,of Blocking,1986,410,0,0,0,of Blocking
+1684,of Blocking,1986,412,0,0,0,of Blocking
+1685,of Blocking,1986,412,0,0,0,of Blocking
+1688,of Blocking,1986,684,0,0,0,of Blocking
+1562,of Power,1597,0,0,0,0,of Power
+1563,of Power,1598,0,0,0,0,of Power
+1564,of Power,1599,0,0,0,0,of Power
+1565,of Power,1600,0,0,0,0,of Power
+1566,of Power,1601,0,0,0,0,of Power
+1567,of Power,1602,0,0,0,0,of Power
+1568,of Power,1603,0,0,0,0,of Power
+1569,of Power,1604,0,0,0,0,of Power
+1570,of Power,1605,0,0,0,0,of Power
+1571,of Power,1606,0,0,0,0,of Power
+1572,of Power,1607,0,0,0,0,of Power
+1573,of Power,1608,0,0,0,0,of Power
+1574,of Power,1609,0,0,0,0,of Power
+1575,of Power,1610,0,0,0,0,of Power
+1576,of Power,1611,0,0,0,0,of Power
+1577,of Power,1612,0,0,0,0,of Power
+1578,of Power,1613,0,0,0,0,of Power
+1580,of Power,1615,0,0,0,0,of Power
+1581,of Power,1616,0,0,0,0,of Power
+1582,of Power,1617,0,0,0,0,of Power
+1583,of Power,1618,0,0,0,0,of Power
+1584,of Power,1619,0,0,0,0,of Power
+1585,of Power,1620,0,0,0,0,of Power
+1587,of Power,1622,0,0,0,0,of Power
+1589,of Power,1624,0,0,0,0,of Power
+1590,of Power,1625,0,0,0,0,of Power
+1591,of Power,1626,0,0,0,0,of Power
+1592,of Power,1627,0,0,0,0,of Power
+1398,of Frost Resistance,1334,0,0,0,0,of Frost Resistance
+1434,of Fire Resistance,1370,0,0,0,0,of Fire Resistance
+1742,of Eluding,2078,0,0,0,0,of Eluding
+1845,of Shadow Wrath,2125,0,0,0,0,of Shadow Wrath
+1852,of Shadow Wrath,2132,0,0,0,0,of Shadow Wrath
+1859,of Shadow Wrath,2139,0,0,0,0,of Shadow Wrath
+1862,of Shadow Wrath,2142,0,0,0,0,of Shadow Wrath
+1864,of Shadow Wrath,2144,0,0,0,0,of Shadow Wrath
+1869,of Shadow Wrath,2149,0,0,0,0,of Shadow Wrath
+1872,of Shadow Wrath,2152,0,0,0,0,of Shadow Wrath
+1961,of Frozen Wrath,2241,0,0,0,0,of Frozen Wrath
+1963,of Frozen Wrath,2243,0,0,0,0,of Frozen Wrath
+1964,of Frozen Wrath,2244,0,0,0,0,of Frozen Wrath
+1965,of Frozen Wrath,2245,0,0,0,0,of Frozen Wrath
+1967,of Frozen Wrath,2247,0,0,0,0,of Frozen Wrath
+1971,of Frozen Wrath,2251,0,0,0,0,of Frozen Wrath
+1972,of Frozen Wrath,2252,0,0,0,0,of Frozen Wrath
+1976,of Frozen Wrath,2256,0,0,0,0,of Frozen Wrath
+1977,of Frozen Wrath,2257,0,0,0,0,of Frozen Wrath
+1978,of Frozen Wrath,2258,0,0,0,0,of Frozen Wrath
+1979,of Frozen Wrath,2259,0,0,0,0,of Frozen Wrath
+1981,of Frozen Wrath,2261,0,0,0,0,of Frozen Wrath
+1985,of Frozen Wrath,2265,0,0,0,0,of Frozen Wrath
+1986,of Frozen Wrath,2266,0,0,0,0,of Frozen Wrath
+1988,of Frozen Wrath,2268,0,0,0,0,of Frozen Wrath
+1990,of Nature's Wrath,2270,0,0,0,0,of Nature's Wrath
+1993,of Nature's Wrath,2273,0,0,0,0,of Nature's Wrath
+1996,of Nature's Wrath,2276,0,0,0,0,of Nature's Wrath
+1997,of Nature's Wrath,2277,0,0,0,0,of Nature's Wrath
+1998,of Nature's Wrath,2278,0,0,0,0,of Nature's Wrath
+2001,of Nature's Wrath,2281,0,0,0,0,of Nature's Wrath
+2002,of Nature's Wrath,2282,0,0,0,0,of Nature's Wrath
+2003,of Nature's Wrath,2283,0,0,0,0,of Nature's Wrath
+2004,of Nature's Wrath,2284,0,0,0,0,of Nature's Wrath
+2011,of Nature's Wrath,2291,0,0,0,0,of Nature's Wrath
+2013,of Nature's Wrath,2293,0,0,0,0,of Nature's Wrath
+2014,of Nature's Wrath,2294,0,0,0,0,of Nature's Wrath
+2015,of Nature's Wrath,2295,0,0,0,0,of Nature's Wrath
+2018,of Nature's Wrath,2298,0,0,0,0,of Nature's Wrath
+2019,of Nature's Wrath,2299,0,0,0,0,of Nature's Wrath
+2022,of Nature's Wrath,2302,0,0,0,0,of Nature's Wrath
+2024,of Nature's Wrath,2304,0,0,0,0,of Nature's Wrath
+2027,of Healing,2307,0,0,0,0,of Healing
+2028,of Healing,2308,0,0,0,0,of Healing
+2029,of Healing,2309,0,0,0,0,of Healing
+336,of Stamina,1072,0,0,0,0,of Stamina
+418,of Spirit,1153,0,0,0,0,of Spirit
+445,of the Falcon,358,364,0,0,0,of the Falcon
+459,of the Falcon,983,1118,0,0,0,of the Falcon
+480,of the Falcon,1100,1125,0,0,0,of the Falcon
+495,of the Falcon,1105,1130,0,0,0,of the Falcon
+315,of Strength,1050,0,0,0,0,of Strength
+401,of Intellect,1136,0,0,0,0,of Intellect
+414,of Spirit,1149,0,0,0,0,of Spirit
+460,of the Falcon,883,1119,0,0,0,of the Falcon
+854,of the Eagle,96,104,0,0,0,of the Eagle
+876,of the Eagle,406,409,0,0,0,of the Eagle
+890,of the Eagle,1121,1071,0,0,0,of the Eagle
+1057,of the Whale,1146,1070,0,0,0,of the Whale
+1097,of the Boar,83,69,0,0,0,of the Boar
+1118,of the Boar,355,357,0,0,0,of the Boar
+1130,of the Boar,407,410,0,0,0,of the Boar
+1142,of the Boar,1146,1044,0,0,0,of the Boar
+1154,of the Boar,1150,1048,0,0,0,of the Boar
+1757,of Eluding,2078,90,0,0,0,of Eluding
+1167,of the Boar,1155,1052,0,0,0,of the Boar
+1213,of the Bear,409,372,0,0,0,of the Bear
+1775,of Eluding,2078,349,0,0,0,of Eluding
+1792,of Eluding,2078,403,0,0,0,of Eluding
+1809,of Arcane Wrath,2089,0,0,0,0,of Arcane Wrath
+1829,of Arcane Wrath,2109,0,0,0,0,of Arcane Wrath
+1895,of Fiery Wrath,2175,0,0,0,0,of Fiery Wrath
+794,of the Owl,1118,408,0,0,0,of the Owl
+809,of the Owl,1123,1148,0,0,0,of the Owl
+826,of the Owl,1128,1154,0,0,0,of the Owl
+846,of the Eagle,94,73,0,0,0,of the Eagle
+1951,of Frozen Wrath,2231,0,0,0,0,of Frozen Wrath
+1926,of Holy Wrath,2206,0,0,0,0,of Holy Wrath
+1940,of Holy Wrath,2220,0,0,0,0,of Holy Wrath
+1956,of Frozen Wrath,2236,0,0,0,0,of Frozen Wrath
+1674,of Blocking,1985,372,0,0,0,of Blocking
+1687,of Blocking,1986,412,0,0,0,of Blocking
+1707,of Marksmanship,2043,0,0,0,0,of Marksmanship
+1620,of Defense,1956,0,0,0,0,of Defense
+1635,of Defense,1971,0,0,0,0,of Defense
+1659,of Blocking,1984,108,0,0,0,of Blocking
+1855,of Shadow Wrath,2135,0,0,0,0,of Shadow Wrath
+1870,of Shadow Wrath,2150,0,0,0,0,of Shadow Wrath
+1970,of Frozen Wrath,2250,0,0,0,0,of Frozen Wrath
+1980,of Frozen Wrath,2260,0,0,0,0,of Frozen Wrath
+1994,of Nature's Wrath,2274,0,0,0,0,of Nature's Wrath
+2009,of Nature's Wrath,2289,0,0,0,0,of Nature's Wrath
+2020,of Nature's Wrath,2300,0,0,0,0,of Nature's Wrath
+1747,of Eluding,2078,0,0,0,0,of Eluding
+1771,of Eluding,2078,343,0,0,0,of Eluding
+1787,of Eluding,2078,368,0,0,0,of Eluding
+1832,of Arcane Wrath,2112,0,0,0,0,of Arcane Wrath
+1899,of Fiery Wrath,2179,0,0,0,0,of Fiery Wrath
+2005,of Nature's Wrath,2285,0,0,0,0,of Nature's Wrath
+2070,of Concentration,2366,0,0,0,0,of Concentration
+1711,of Marksmanship,2047,0,0,0,0,of Marksmanship
+2036,of Healing,2316,0,0,0,0,of Healing
+2048,of Healing,2328,0,0,0,0,of Healing
+2061,of Healing,2341,0,0,0,0,of Healing
+2073,of Concentration,2369,0,0,0,0,of Concentration
+2085,of Concentration,2381,0,0,0,0,of Concentration
+2099,of Concentration,2395,0,0,0,0,of Concentration
+2111,of Regeneration,2407,0,0,0,0,of Regeneration
+2121,of Regeneration,2417,0,0,0,0,of Regeneration
+1848,of Shadow Wrath,2128,0,0,0,0,of Shadow Wrath
+1853,of Shadow Wrath,2133,0,0,0,0,of Shadow Wrath
+1860,of Shadow Wrath,2140,0,0,0,0,of Shadow Wrath
+1863,of Shadow Wrath,2143,0,0,0,0,of Shadow Wrath
+1881,of Fiery Wrath,2161,0,0,0,0,of Fiery Wrath
+1887,of Fiery Wrath,2167,0,0,0,0,of Fiery Wrath
+1894,of Fiery Wrath,2174,0,0,0,0,of Fiery Wrath
+1667,of Blocking,1985,357,0,0,0,of Blocking
+1668,of Blocking,1985,362,0,0,0,of Blocking
+339,of Stamina,1075,0,0,0,0,of Stamina
+447,of the Falcon,368,364,0,0,0,of the Falcon
+470,of the Falcon,1096,1122,0,0,0,of the Falcon
+496,of the Falcon,1104,1131,0,0,0,of the Falcon
+168,,349,0,0,0,0,of Agility
+183,,370,0,0,0,0,of Spirit
+198,,348,0,0,0,0,of Toughness
+232,,75,81,0,0,0,of the Falcon
+342,of Stamina,1078,0,0,0,0,of Stamina
+416,of Spirit,1151,0,0,0,0,of Spirit
+513,of the Wolf,91,100,0,0,0,of the Wolf
+33,of Quality,77,0,0,0,0,of Quality
+64,of Beast Slaying,189,0,0,0,0,of Beast Slaying
+97,of Strength,106,0,0,0,0,of Strength
+119,of Quality,119,0,0,0,0,of Quality
+148,of Proficiency,180,0,0,0,0,of Proficiency
+70,of Proficiency,148,0,0,0,0,of Proficiency
+145,of Proficiency,187,0,0,0,0,of Proficiency
+67,of Proficiency,141,0,0,0,0,of Proficiency
+192,,367,0,0,0,0,of Strength
+255,,93,96,0,0,0,of the Falcon
+327,of Strength,1062,0,0,0,0,of Strength
+372,of Agility,1107,0,0,0,0,of Agility
+394,of Intellect,1129,0,0,0,0,of Intellect
+434,of Spirit,1183,0,0,0,0,of Spirit
+485,of the Falcon,1101,1127,0,0,0,of the Falcon
+871,of the Eagle,364,371,0,0,0,of the Eagle
+893,of the Eagle,1122,1072,0,0,0,of the Eagle
+1069,of the Whale,1150,1074,0,0,0,of the Whale
+719,of the Tiger,1094,1045,0,0,0,of the Tiger
+915,of the Eagle,1130,1079,0,0,0,of the Eagle
+1108,of the Boar,99,108,0,0,0,of the Boar
+1127,of the Boar,370,372,0,0,0,of the Boar
+1151,of the Boar,1149,1047,0,0,0,of the Boar
+540,of the Wolf,404,1144,0,0,0,of the Wolf
+557,of the Wolf,1098,1149,0,0,0,of the Wolf
+579,of the Wolf,1104,1157,0,0,0,of the Wolf
+1070,of the Whale,1151,1074,0,0,0,of the Whale
+1184,of the Bear,72,70,0,0,0,of the Bear
+1204,of the Bear,361,357,0,0,0,of the Bear
+1220,of the Bear,411,684,0,0,0,of the Bear
+1239,of the Bear,1074,1048,0,0,0,of the Bear
+614,of the Monkey,363,366,0,0,0,of the Monkey
+632,of the Monkey,1094,1070,0,0,0,of the Monkey
+655,of the Monkey,1101,1078,0,0,0,of the Monkey
+674,of the Tiger,75,70,0,0,0,of the Tiger
+698,of the Tiger,358,367,0,0,0,of the Tiger
+726,of the Tiger,1097,1047,0,0,0,of the Tiger
+752,of the Tiger,1105,1056,0,0,0,of the Tiger
+777,of the Owl,350,355,0,0,0,of the Owl
+797,of the Owl,1119,1144,0,0,0,of the Owl
+816,of the Owl,1124,1151,0,0,0,of the Owl
+837,of the Owl,1131,1158,0,0,0,of the Owl
+946,of the Gorilla,354,352,0,0,0,of the Gorilla
+954,of the Gorilla,364,367,0,0,0,of the Gorilla
+974,of the Gorilla,1120,1045,0,0,0,of the Gorilla
+992,of the Gorilla,1126,1051,0,0,0,of the Gorilla
+1018,of the Whale,98,102,0,0,0,of the Whale
+1038,of the Whale,360,366,0,0,0,of the Whale
+1722,of Marksmanship,2058,0,0,0,0,of Marksmanship
+862,of the Eagle,350,356,0,0,0,of the Eagle
+878,of the Eagle,406,411,0,0,0,of the Eagle
+89,of Defense,113,0,0,0,0,of Defense
+895,of the Eagle,1122,1073,0,0,0,of the Eagle
+908,of the Eagle,1127,1077,0,0,0,of the Eagle
+922,of the Eagle,1131,1082,0,0,0,of the Eagle
+929,of the Gorilla,80,70,0,0,0,of the Gorilla
+948,of the Gorilla,354,357,0,0,0,of the Gorilla
+960,of the Gorilla,405,410,0,0,0,of the Gorilla
+977,of the Gorilla,1121,1046,0,0,0,of the Gorilla
+993,of the Gorilla,1127,1051,0,0,0,of the Gorilla
+413,of Spirit,1148,0,0,0,0,of Spirit
+417,of Spirit,1152,0,0,0,0,of Spirit
+429,of Spirit,1164,0,0,0,0,of Spirit
+1723,of Marksmanship,2059,0,0,0,0,of Marksmanship
+1740,of Marksmanship,2076,0,0,0,0,of Marksmanship
+1804,of Arcane Wrath,2084,0,0,0,0,of Arcane Wrath
+1814,of Arcane Wrath,2094,0,0,0,0,of Arcane Wrath
+1827,of Arcane Wrath,2107,0,0,0,0,of Arcane Wrath
+1838,of Shadow Wrath,2118,0,0,0,0,of Shadow Wrath
+1854,of Shadow Wrath,2134,0,0,0,0,of Shadow Wrath
+1867,of Shadow Wrath,2147,0,0,0,0,of Shadow Wrath
+1608,of Defense,1944,0,0,0,0,of Defense
+1616,of Defense,1952,0,0,0,0,of Defense
+1625,of Defense,1961,0,0,0,0,of Defense
+1634,of Defense,1970,0,0,0,0,of Defense
+1653,of Blocking,1983,70,0,0,0,of Blocking
+1662,of Blocking,1984,352,0,0,0,of Blocking
+1671,of Blocking,1985,362,0,0,0,of Blocking
+1680,of Blocking,1986,372,0,0,0,of Blocking
+1689,of Blocking,1986,684,0,0,0,of Blocking
+1705,of Marksmanship,2041,0,0,0,0,of Marksmanship
+1718,of Marksmanship,2054,0,0,0,0,of Marksmanship
+1758,of Eluding,2078,90,0,0,0,of Eluding
+1767,of Eluding,2078,93,0,0,0,of Eluding
+1776,of Eluding,2078,349,0,0,0,of Eluding
+1784,of Eluding,2078,363,0,0,0,of Eluding
+1793,of Eluding,2078,404,0,0,0,of Eluding
+2021,of Nature's Wrath,2301,0,0,0,0,of Nature's Wrath
+2032,of Healing,2312,0,0,0,0,of Healing
+2037,of Healing,2317,0,0,0,0,of Healing
+2038,of Healing,2318,0,0,0,0,of Healing
+2039,of Healing,2319,0,0,0,0,of Healing
+2040,of Healing,2320,0,0,0,0,of Healing
+2041,of Healing,2321,0,0,0,0,of Healing
+2043,of Healing,2323,0,0,0,0,of Healing
+2044,of Healing,2324,0,0,0,0,of Healing
+2046,of Healing,2326,0,0,0,0,of Healing
+2047,of Healing,2327,0,0,0,0,of Healing
+2049,of Healing,2329,0,0,0,0,of Healing
+2050,of Healing,2330,0,0,0,0,of Healing
+2052,of Healing,2332,0,0,0,0,of Healing
+2054,of Healing,2334,0,0,0,0,of Healing
+2056,of Healing,2336,0,0,0,0,of Healing
+2057,of Healing,2337,0,0,0,0,of Healing
+2058,of Healing,2338,0,0,0,0,of Healing
+2059,of Healing,2339,0,0,0,0,of Healing
+2062,of Healing,2342,0,0,0,0,of Healing
+2063,of Healing,2343,0,0,0,0,of Healing
+2064,of Healing,2344,0,0,0,0,of Healing
+2068,of Concentration,2364,0,0,0,0,of Concentration
+2069,of Concentration,2365,0,0,0,0,of Concentration
+2072,of Concentration,2368,0,0,0,0,of Concentration
+2074,of Concentration,2370,0,0,0,0,of Concentration
+2077,of Concentration,2373,0,0,0,0,of Concentration
+2078,of Concentration,2374,0,0,0,0,of Concentration
+2080,of Concentration,2376,0,0,0,0,of Concentration
+2083,of Concentration,2379,0,0,0,0,of Concentration
+2086,of Concentration,2382,0,0,0,0,of Concentration
+2087,of Concentration,2383,0,0,0,0,of Concentration
+2088,of Concentration,2384,0,0,0,0,of Concentration
+2089,of Concentration,2385,0,0,0,0,of Concentration
+2090,of Concentration,2386,0,0,0,0,of Concentration
+2091,of Concentration,2387,0,0,0,0,of Concentration
+2095,of Concentration,2391,0,0,0,0,of Concentration
+2096,of Concentration,2392,0,0,0,0,of Concentration
+2097,of Concentration,2393,0,0,0,0,of Concentration
+2100,of Concentration,2396,0,0,0,0,of Concentration
+2103,of Concentration,2399,0,0,0,0,of Concentration
+2106,of Regeneration,2402,0,0,0,0,of Regeneration
+2107,of Regeneration,2403,0,0,0,0,of Regeneration
+2108,of Regeneration,2404,0,0,0,0,of Regeneration
+2109,of Regeneration,2405,0,0,0,0,of Regeneration
+2110,of Regeneration,2406,0,0,0,0,of Regeneration
+2114,of Regeneration,2410,0,0,0,0,of Regeneration
+2115,of Regeneration,2411,0,0,0,0,of Regeneration
+2117,of Regeneration,2413,0,0,0,0,of Regeneration
+2118,of Regeneration,2414,0,0,0,0,of Regeneration
+2119,of Regeneration,2415,0,0,0,0,of Regeneration
+2120,of Regeneration,2416,0,0,0,0,of Regeneration
+2124,of Regeneration,2420,0,0,0,0,of Regeneration
+2125,of Regeneration,2421,0,0,0,0,of Regeneration
+2128,of Regeneration,2424,0,0,0,0,of Regeneration
+2129,of Regeneration,2425,0,0,0,0,of Regeneration
+2130,of Regeneration,2426,0,0,0,0,of Regeneration
+2131,of Regeneration,2427,0,0,0,0,of Regeneration
+2132,of Regeneration,2428,0,0,0,0,of Regeneration
+2133,of Regeneration,2429,0,0,0,0,of Regeneration
+2134,of Regeneration,2430,0,0,0,0,of Regeneration
+2135,of Regeneration,2431,0,0,0,0,of Regeneration
+2136,of Regeneration,2432,0,0,0,0,of Regeneration
+2138,of Regeneration,2434,0,0,0,0,of Regeneration
+2139,of Regeneration,2435,0,0,0,0,of Regeneration
+2140,of Regeneration,2436,0,0,0,0,of Regeneration
+2141,of Regeneration,2437,0,0,0,0,of Regeneration
+2142,of Regeneration,2438,0,0,0,0,of Regeneration
+1690,of Blocking,1986,1043,0,0,0,of Blocking
+1703,of Blocking,1986,1047,0,0,0,of Blocking
+1709,of Marksmanship,2045,0,0,0,0,of Marksmanship
+1810,of Arcane Wrath,2090,0,0,0,0,of Arcane Wrath
+2012,of Nature's Wrath,2292,0,0,0,0,of Nature's Wrath
+1731,of Marksmanship,2067,0,0,0,0,of Marksmanship
+1826,of Arcane Wrath,2106,0,0,0,0,of Arcane Wrath
+1798,of Eluding,2078,883,0,0,0,of Eluding
+1808,of Arcane Wrath,2088,0,0,0,0,of Arcane Wrath
+1820,of Arcane Wrath,2100,0,0,0,0,of Arcane Wrath
+1835,of Arcane Wrath,2115,0,0,0,0,of Arcane Wrath
+1847,of Shadow Wrath,2127,0,0,0,0,of Shadow Wrath
+1865,of Shadow Wrath,2145,0,0,0,0,of Shadow Wrath
+1882,of Fiery Wrath,2162,0,0,0,0,of Fiery Wrath
+1896,of Fiery Wrath,2176,0,0,0,0,of Fiery Wrath
+2030,of Healing,2310,0,0,0,0,of Healing
+2093,of Concentration,2389,0,0,0,0,of Concentration
+2098,of Concentration,2394,0,0,0,0,of Concentration
+2104,of Concentration,2400,0,0,0,0,of Concentration
+2113,of Regeneration,2409,0,0,0,0,of Regeneration
+2122,of Regeneration,2418,0,0,0,0,of Regeneration
+1122,of the Boar,365,362,0,0,0,of the Boar
+1139,of the Boar,1145,1043,0,0,0,of the Boar
+1159,of the Boar,1151,1050,0,0,0,of the Boar
+1169,of the Boar,1155,1053,0,0,0,of the Boar
+1185,of the Bear,73,70,0,0,0,of the Bear
+1198,of the Bear,353,109,0,0,0,of the Bear
+120,of Proficiency,158,0,0,0,0,of Proficiency
+1212,of the Bear,371,372,0,0,0,of the Bear
+1228,of the Bear,1071,1044,0,0,0,of the Bear
+1017,of the Whale,84,102,0,0,0,of the Whale
+1034,of the Whale,360,356,0,0,0,of the Whale
+1047,of the Whale,407,411,0,0,0,of the Whale
+1064,of the Whale,1149,1072,0,0,0,of the Whale
+1076,of the Whale,1153,1076,0,0,0,of the Whale
+1105,of the Boar,98,107,0,0,0,of the Boar
+1243,of the Bear,1076,1049,0,0,0,of the Bear
+1273,of Strength,1203,0,0,0,0,of Strength
+1288,of Intellect,1224,0,0,0,0,of Intellect
+1312,of Arcane Resistance,1248,0,0,0,0,of Arcane Resistance
+1329,of Arcane Resistance,1265,0,0,0,0,of Arcane Resistance
+1347,of Arcane Resistance,1283,0,0,0,0,of Arcane Resistance
+1365,of Frost Resistance,1301,0,0,0,0,of Frost Resistance
+1374,of Frost Resistance,1310,0,0,0,0,of Frost Resistance
+1388,of Frost Resistance,1324,0,0,0,0,of Frost Resistance
+1394,of Frost Resistance,1330,0,0,0,0,of Frost Resistance
+1401,of Fire Resistance,1337,0,0,0,0,of Fire Resistance
+1404,of Fire Resistance,1340,0,0,0,0,of Fire Resistance
+1408,of Fire Resistance,1344,0,0,0,0,of Fire Resistance
+1414,of Fire Resistance,1350,0,0,0,0,of Fire Resistance
+1421,of Fire Resistance,1357,0,0,0,0,of Fire Resistance
+1422,of Fire Resistance,1358,0,0,0,0,of Fire Resistance
+1427,of Fire Resistance,1363,0,0,0,0,of Fire Resistance
+1435,of Fire Resistance,1371,0,0,0,0,of Fire Resistance
+1438,of Fire Resistance,1374,0,0,0,0,of Fire Resistance
+1455,of Shadow Resistance,1437,0,0,0,0,of Shadow Resistance
+1473,of Shadow Resistance,1455,0,0,0,0,of Shadow Resistance
+1489,of Shadow Resistance,1471,0,0,0,0,of Shadow Resistance
+1507,of Nature Resistance,1397,0,0,0,0,of Nature Resistance
+1801,of Arcane Wrath,2081,0,0,0,0,of Arcane Wrath
+1807,of Arcane Wrath,2087,0,0,0,0,of Arcane Wrath
+1816,of Arcane Wrath,2096,0,0,0,0,of Arcane Wrath
+1824,of Arcane Wrath,2104,0,0,0,0,of Arcane Wrath
+1833,of Arcane Wrath,2113,0,0,0,0,of Arcane Wrath
+1841,of Shadow Wrath,2121,0,0,0,0,of Shadow Wrath
+1802,of Arcane Wrath,2082,0,0,0,0,of Arcane Wrath
+1875,of Fiery Wrath,2155,0,0,0,0,of Fiery Wrath
+1652,of Blocking,1983,70,0,0,0,of Blocking
+1407,of Fire Resistance,1343,0,0,0,0,of Fire Resistance
+1874,of Shadow Wrath,2154,0,0,0,0,of Shadow Wrath
+2082,of Concentration,2378,0,0,0,0,of Concentration
+1051,of the Whale,1144,1068,0,0,0,of the Whale
+1052,of the Whale,1145,1068,0,0,0,of the Whale
+524,of the Wolf,358,355,0,0,0,of the Wolf
+525,of the Wolf,349,360,0,0,0,of the Wolf
+1180,of the Bear,72,68,0,0,0,of the Bear
+1181,of the Bear,71,69,0,0,0,of the Bear
+1933,of Holy Wrath,2213,0,0,0,0,of Holy Wrath
+604,of the Monkey,93,353,0,0,0,of the Monkey
+606,of the Monkey,349,353,0,0,0,of the Monkey
+704,of the Tiger,368,410,0,0,0,of the Tiger
+705,of the Tiger,403,410,0,0,0,of the Tiger
+1279,of Agility,1215,0,0,0,0,of Agility
+1280,of Agility,1216,0,0,0,0,of Agility
+1982,of Frozen Wrath,2262,0,0,0,0,of Frozen Wrath
+1269,of Stamina,1211,0,0,0,0,of Stamina
+1270,of Stamina,1212,0,0,0,0,of Stamina
+1745,of Eluding,2078,0,0,0,0,of Eluding
+1746,of Eluding,2078,0,0,0,0,of Eluding
+1950,of Holy Wrath,2230,0,0,0,0,of Holy Wrath
+2051,of Healing,2331,0,0,0,0,of Healing
+2081,of Concentration,2377,0,0,0,0,of Concentration
+212,,404,0,0,0,0,of Agility
+22,of Stamina,73,0,0,0,0,of Stamina
+227,,74,79,0,0,0,of the Falcon
+238,,75,80,0,0,0,of the Falcon
+249,,91,94,0,0,0,of the Falcon
+314,of Strength,1049,0,0,0,0,of Strength
+330,of Strength,1065,0,0,0,0,of Strength
+347,of Stamina,1083,0,0,0,0,of Stamina
+370,of Agility,1105,0,0,0,0,of Agility
+383,of Intellect,1118,0,0,0,0,of Intellect
+388,of Intellect,1123,0,0,0,0,of Intellect
+395,of Intellect,1130,0,0,0,0,of Intellect
+403,of Intellect,1138,0,0,0,0,of Intellect
+407,of Intellect,1142,0,0,0,0,of Intellect
+409,of Spirit,1144,0,0,0,0,of Spirit
+411,of Spirit,1146,0,0,0,0,of Spirit
+424,of Spirit,1159,0,0,0,0,of Spirit
+426,of Spirit,1161,0,0,0,0,of Spirit
+432,of Spirit,1167,0,0,0,0,of Spirit
+435,of the Falcon,343,97,0,0,0,of the Falcon
+441,of the Falcon,358,354,0,0,0,of the Falcon
+444,of the Falcon,363,359,0,0,0,of the Falcon
+446,of the Falcon,363,364,0,0,0,of the Falcon
+449,of the Falcon,368,369,0,0,0,of the Falcon
+463,of the Falcon,983,1120,0,0,0,of the Falcon
+487,of the Falcon,1101,1128,0,0,0,of the Falcon
+511,of the Wolf,91,99,0,0,0,of the Wolf
+516,of the Wolf,92,101,0,0,0,of the Wolf
+530,of the Wolf,368,365,0,0,0,of the Wolf
+544,of the Wolf,983,1145,0,0,0,of the Wolf
+558,of the Wolf,1097,1150,0,0,0,of the Wolf
+56,of Proficiency,161,0,0,0,0,of Proficiency
+574,of the Wolf,1103,1155,0,0,0,of the Wolf
+575,of the Wolf,1104,1155,0,0,0,of the Wolf
+591,of the Monkey,90,73,0,0,0,of the Monkey
+594,of the Monkey,91,102,0,0,0,of the Monkey
+598,of the Monkey,91,104,0,0,0,of the Monkey
+600,of the Monkey,93,104,0,0,0,of the Monkey
+605,of the Monkey,343,353,0,0,0,of the Monkey
+613,of the Monkey,358,366,0,0,0,of the Monkey
+616,of the Monkey,363,371,0,0,0,of the Monkey
+627,of the Monkey,983,1068,0,0,0,of the Monkey
+628,of the Monkey,883,1069,0,0,0,of the Monkey
+638,of the Monkey,1096,1072,0,0,0,of the Monkey
+646,of the Monkey,1098,1075,0,0,0,of the Monkey
+664,of the Monkey,1104,1081,0,0,0,of the Monkey
+68,of Proficiency,127,0,0,0,0,of Proficiency
+687,of the Tiger,93,109,0,0,0,of the Tiger
+702,of the Tiger,368,372,0,0,0,of the Tiger
+721,of the Tiger,1096,1045,0,0,0,of the Tiger
+745,of the Tiger,1104,1053,0,0,0,of the Tiger
+76,of Beast Slaying,190,0,0,0,0,of Beast Slaying
+762,of the Owl,81,98,0,0,0,of the Owl
+778,of the Owl,354,355,0,0,0,of the Owl
+78,of Critical Strike,196,0,0,0,0,of Critical Strike
+1812,of Arcane Wrath,2092,0,0,0,0,of Arcane Wrath
+1883,of Fiery Wrath,2163,0,0,0,0,of Fiery Wrath
+1943,of Holy Wrath,2223,0,0,0,0,of Holy Wrath
+1661,of Blocking,1984,109,0,0,0,of Blocking
+1973,of Frozen Wrath,2253,0,0,0,0,of Frozen Wrath
+2079,of Concentration,2375,0,0,0,0,of Concentration
+1699,of Blocking,1986,1045,0,0,0,of Blocking
+1713,of Marksmanship,2049,0,0,0,0,of Marksmanship
+1721,of Marksmanship,2057,0,0,0,0,of Marksmanship
+2035,of Healing,2315,0,0,0,0,of Healing
+2045,of Healing,2325,0,0,0,0,of Healing
+2055,of Healing,2335,0,0,0,0,of Healing
+2067,of Concentration,2363,0,0,0,0,of Concentration
+2076,of Concentration,2372,0,0,0,0,of Concentration
+2084,of Concentration,2380,0,0,0,0,of Concentration
+2094,of Concentration,2390,0,0,0,0,of Concentration
+2102,of Concentration,2398,0,0,0,0,of Concentration
+2112,of Regeneration,2408,0,0,0,0,of Regeneration
+2123,of Regeneration,2419,0,0,0,0,of Regeneration
+2137,of Regeneration,2433,0,0,0,0,of Regeneration
+1815,of Arcane Wrath,2095,0,0,0,0,of Arcane Wrath
+1821,of Arcane Wrath,2101,0,0,0,0,of Arcane Wrath
+1831,of Arcane Wrath,2111,0,0,0,0,of Arcane Wrath
+1837,of Shadow Wrath,2117,0,0,0,0,of Shadow Wrath
+1842,of Shadow Wrath,2122,0,0,0,0,of Shadow Wrath
+1851,of Shadow Wrath,2131,0,0,0,0,of Shadow Wrath
+1901,of Fiery Wrath,2181,0,0,0,0,of Fiery Wrath
+1907,of Fiery Wrath,2187,0,0,0,0,of Fiery Wrath
+1912,of Fiery Wrath,2192,0,0,0,0,of Fiery Wrath
+1917,of Holy Wrath,2197,0,0,0,0,of Holy Wrath
+1922,of Holy Wrath,2202,0,0,0,0,of Holy Wrath
+1927,of Holy Wrath,2207,0,0,0,0,of Holy Wrath
+1932,of Holy Wrath,2212,0,0,0,0,of Holy Wrath
+1937,of Holy Wrath,2217,0,0,0,0,of Holy Wrath
+1942,of Holy Wrath,2222,0,0,0,0,of Holy Wrath
+1947,of Holy Wrath,2227,0,0,0,0,of Holy Wrath
+1952,of Frozen Wrath,2232,0,0,0,0,of Frozen Wrath
+1958,of Frozen Wrath,2238,0,0,0,0,of Frozen Wrath
+1984,of Frozen Wrath,2264,0,0,0,0,of Frozen Wrath
+1989,of Nature's Wrath,2269,0,0,0,0,of Nature's Wrath
+1995,of Nature's Wrath,2275,0,0,0,0,of Nature's Wrath
+2006,of Nature's Wrath,2286,0,0,0,0,of Nature's Wrath
+2034,of Healing,2314,0,0,0,0,of Healing
+2053,of Healing,2333,0,0,0,0,of Healing
+2075,of Concentration,2371,0,0,0,0,of Concentration
+2101,of Concentration,2397,0,0,0,0,of Concentration
+2127,of Regeneration,2423,0,0,0,0,of Regeneration
+1911,of Fiery Wrath,2191,0,0,0,0,of Fiery Wrath
+2000,of Nature's Wrath,2280,0,0,0,0,of Nature's Wrath
+2017,of Nature's Wrath,2297,0,0,0,0,of Nature's Wrath
+2023,of Nature's Wrath,2303,0,0,0,0,of Nature's Wrath
+1902,of Fiery Wrath,2182,0,0,0,0,of Fiery Wrath
+1909,of Fiery Wrath,2189,0,0,0,0,of Fiery Wrath
+1918,of Holy Wrath,2198,0,0,0,0,of Holy Wrath
+1925,of Holy Wrath,2205,0,0,0,0,of Holy Wrath
+1941,of Holy Wrath,2221,0,0,0,0,of Holy Wrath
+1949,of Holy Wrath,2229,0,0,0,0,of Holy Wrath
+1957,of Frozen Wrath,2237,0,0,0,0,of Frozen Wrath
+1962,of Frozen Wrath,2242,0,0,0,0,of Frozen Wrath
+1968,of Frozen Wrath,2248,0,0,0,0,of Frozen Wrath
+1975,of Frozen Wrath,2255,0,0,0,0,of Frozen Wrath
+1991,of Nature's Wrath,2271,0,0,0,0,of Nature's Wrath
+1999,of Nature's Wrath,2279,0,0,0,0,of Nature's Wrath
+2008,of Nature's Wrath,2288,0,0,0,0,of Nature's Wrath
+2016,of Nature's Wrath,2296,0,0,0,0,of Nature's Wrath
+2025,of Nature's Wrath,2305,0,0,0,0,of Nature's Wrath
+2033,of Healing,2313,0,0,0,0,of Healing
+2042,of Healing,2322,0,0,0,0,of Healing
+2060,of Healing,2340,0,0,0,0,of Healing
+2071,of Concentration,2367,0,0,0,0,of Concentration
+2092,of Concentration,2388,0,0,0,0,of Concentration
+2105,of Regeneration,2401,0,0,0,0,of Regeneration
+2116,of Regeneration,2412,0,0,0,0,of Regeneration
+2126,of Regeneration,2422,0,0,0,0,of Regeneration
+307,of Strength,684,0,0,0,0,of Strength
+94,of Intellect,94,0,0,0,0,of Intellect
+391,of Intellect,1126,0,0,0,0,of Intellect
+400,of Intellect,1135,0,0,0,0,of Intellect
+408,of Intellect,1143,0,0,0,0,of Intellect
+247,,91,95,0,0,0,of the Falcon
+122,of Proficiency,130,0,0,0,0,of Proficiency
+326,of Strength,1061,0,0,0,0,of Strength
+474,of the Falcon,1098,1123,0,0,0,of the Falcon
+880,of the Eagle,406,1068,0,0,0,of the Eagle
+1138,of the Boar,1144,1043,0,0,0,of the Boar
+538,of the Wolf,404,408,0,0,0,of the Wolf
+1188,of the Bear,102,106,0,0,0,of the Bear
+603,of the Monkey,343,105,0,0,0,of the Monkey
+696,of the Tiger,358,362,0,0,0,of the Tiger
+924,of the Gorilla,79,68,0,0,0,of the Gorilla
+1006,of the Gorilla,1132,1055,0,0,0,of the Gorilla
+1447,of Shadow Resistance,1429,0,0,0,0,of Shadow Resistance
+1588,of Power,1623,0,0,0,0,of Power
+2026,of Nature's Wrath,2306,0,0,0,0,of Nature's Wrath
+542,of the Wolf,983,1144,0,0,0,of the Wolf
+1335,of Arcane Resistance,1271,0,0,0,0,of Arcane Resistance
+1259,of the Bear,1080,1055,0,0,0,of the Bear
+1529,of Nature Resistance,1419,0,0,0,0,of Nature Resistance
+1343,of Arcane Resistance,1279,0,0,0,0,of Arcane Resistance
+1349,of Arcane Resistance,1285,0,0,0,0,of Arcane Resistance
+1355,of Frost Resistance,1291,0,0,0,0,of Frost Resistance
+1428,of Fire Resistance,1364,0,0,0,0,of Fire Resistance
+1308,of Arcane Resistance,1244,0,0,0,0,of Arcane Resistance
+1326,of Arcane Resistance,1262,0,0,0,0,of Arcane Resistance
+1351,of Arcane Resistance,1287,0,0,0,0,of Arcane Resistance
+1379,of Frost Resistance,1315,0,0,0,0,of Frost Resistance
+1397,of Frost Resistance,1333,0,0,0,0,of Frost Resistance
+1419,of Fire Resistance,1355,0,0,0,0,of Fire Resistance
+1442,of Fire Resistance,1378,0,0,0,0,of Fire Resistance
+1450,of Shadow Resistance,1432,0,0,0,0,of Shadow Resistance
+1469,of Shadow Resistance,1451,0,0,0,0,of Shadow Resistance
+1492,of Nature Resistance,1382,0,0,0,0,of Nature Resistance
+1514,of Nature Resistance,1404,0,0,0,0,of Nature Resistance
+1527,of Nature Resistance,1417,0,0,0,0,of Nature Resistance
+1521,of Nature Resistance,1411,0,0,0,0,of Nature Resistance
+1547,of Power,1563,0,0,0,0,of Power
+1579,of Power,1614,0,0,0,0,of Power
+1856,of Shadow Wrath,2136,0,0,0,0,of Shadow Wrath
+1969,of Frozen Wrath,2249,0,0,0,0,of Frozen Wrath
+1987,of Frozen Wrath,2267,0,0,0,0,of Frozen Wrath
+2010,of Nature's Wrath,2290,0,0,0,0,of Nature's Wrath
+2031,of Healing,2311,0,0,0,0,of Healing
+1225,of the Bear,1070,1043,0,0,0,of the Bear
+611,of the Monkey,358,361,0,0,0,of the Monkey
+675,of the Tiger,76,70,0,0,0,of the Tiger
+608,of the Monkey,349,356,0,0,0,of the Monkey
+686,of the Tiger,92,109,0,0,0,of the Tiger
+742,of the Tiger,1103,1052,0,0,0,of the Tiger
+774,of the Owl,97,351,0,0,0,of the Owl
+781,of the Owl,359,360,0,0,0,of the Owl
+790,of the Owl,405,407,0,0,0,of the Owl
+928,of the Gorilla,81,69,0,0,0,of the Gorilla
+985,of the Gorilla,1125,1048,0,0,0,of the Gorilla
+998,of the Gorilla,1128,1053,0,0,0,of the Gorilla
+1011,of the Whale,82,72,0,0,0,of the Whale
+1021,of the Whale,99,103,0,0,0,of the Whale
+1032,of the Whale,351,356,0,0,0,of the Whale
+1041,of the Whale,365,371,0,0,0,of the Whale
+885,of the Eagle,1120,1069,0,0,0,of the Eagle
+892,of the Eagle,1121,1072,0,0,0,of the Eagle
+899,of the Eagle,1124,1074,0,0,0,of the Eagle
+930,of the Gorilla,81,70,0,0,0,of the Gorilla
+937,of the Gorilla,96,107,0,0,0,of the Gorilla
+944,of the Gorilla,97,352,0,0,0,of the Gorilla
+951,of the Gorilla,359,362,0,0,0,of the Gorilla
+1000,of the Gorilla,1130,1053,0,0,0,of the Gorilla
 961,of the Gorilla,406,410,0,0,0,of the Gorilla
 973,of the Gorilla,1121,1044,0,0,0,of the Gorilla
 1007,of the Gorilla,1131,1056,0,0,0,of the Gorilla
@@ -1446,22 +1960,32 @@ ID,Name,Enchantment[0],Enchantment[1],Enchantment[2],Enchantment[3],Enchantment[
 1136,of the Boar,1144,684,0,0,0,of the Boar
 1233,of the Bear,1072,1046,0,0,0,of the Bear
 1246,of the Bear,1077,1050,0,0,0,of the Bear
-1325,of Arcane Resistance,1261,0,0,0,0,of Arcane Resistance
-1400,of Fire Resistance,1336,0,0,0,0,of Fire Resistance
-1406,of Fire Resistance,1342,0,0,0,0,of Fire Resistance
-1411,of Fire Resistance,1347,0,0,0,0,of Fire Resistance
-1417,of Fire Resistance,1353,0,0,0,0,of Fire Resistance
-1440,of Fire Resistance,1376,0,0,0,0,of Fire Resistance
-1445,of Shadow Resistance,1427,0,0,0,0,of Shadow Resistance
-1336,of Arcane Resistance,1272,0,0,0,0,of Arcane Resistance
-1344,of Arcane Resistance,1280,0,0,0,0,of Arcane Resistance
-1360,of Frost Resistance,1296,0,0,0,0,of Frost Resistance
-1384,of Frost Resistance,1320,0,0,0,0,of Frost Resistance
-1391,of Frost Resistance,1327,0,0,0,0,of Frost Resistance
-1426,of Fire Resistance,1362,0,0,0,0,of Fire Resistance
-1129,of the Boar,370,410,0,0,0,of the Boar
-1143,of the Boar,1147,1044,0,0,0,of the Boar
-1150,of the Boar,1148,1047,0,0,0,of the Boar
-1156,of the Boar,1150,1049,0,0,0,of the Boar
-1484,of Shadow Resistance,1466,0,0,0,0,of Shadow Resistance
-1490,of Shadow Resistance,1472,0,0,0,0,of Shadow Resistance
+1880,of Fiery Wrath,2160,0,0,0,0,of Fiery Wrath
+1890,of Fiery Wrath,2170,0,0,0,0,of Fiery Wrath
+1903,of Fiery Wrath,2183,0,0,0,0,of Fiery Wrath
+1913,of Holy Wrath,2193,0,0,0,0,of Holy Wrath
+1923,of Holy Wrath,2203,0,0,0,0,of Holy Wrath
+1935,of Holy Wrath,2215,0,0,0,0,of Holy Wrath
+1945,of Holy Wrath,2225,0,0,0,0,of Holy Wrath
+1955,of Frozen Wrath,2235,0,0,0,0,of Frozen Wrath
+1669,of Blocking,1985,362,0,0,0,of Blocking
+1678,of Blocking,1986,372,0,0,0,of Blocking
+1686,of Blocking,1986,412,0,0,0,of Blocking
+1697,of Blocking,1986,1045,0,0,0,of Blocking
+1708,of Marksmanship,2044,0,0,0,0,of Marksmanship
+1615,of Defense,1951,0,0,0,0,of Defense
+1622,of Defense,1958,0,0,0,0,of Defense
+1630,of Defense,1966,0,0,0,0,of Defense
+1637,of Defense,1973,0,0,0,0,of Defense
+1656,of Blocking,1983,107,0,0,0,of Blocking
+1849,of Shadow Wrath,2129,0,0,0,0,of Shadow Wrath
+1866,of Shadow Wrath,2146,0,0,0,0,of Shadow Wrath
+1966,of Frozen Wrath,2246,0,0,0,0,of Frozen Wrath
+1974,of Frozen Wrath,2254,0,0,0,0,of Frozen Wrath
+1983,of Frozen Wrath,2263,0,0,0,0,of Frozen Wrath
+1992,of Nature's Wrath,2272,0,0,0,0,of Nature's Wrath
+2007,of Nature's Wrath,2287,0,0,0,0,of Nature's Wrath
+1763,of Eluding,2078,92,0,0,0,of Eluding
+1772,of Eluding,2078,349,0,0,0,of Eluding
+1781,of Eluding,2078,358,0,0,0,of Eluding
+1789,of Eluding,2078,368,0,0,0,of Eluding
