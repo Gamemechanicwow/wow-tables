@@ -1,0 +1,10 @@
+ID,PlayerClass,DamageBonusStat,DisplayPower,PetNameToken,Name_lang,Filename,SpellClassSet
+1,1,0,1,PET,Warrior,,0
+2,1,0,0,PET,Paladin,,0
+3,1,1,0,PET,Hunter,,0
+4,1,1,3,PET,Rogue,,0
+5,1,0,0,PET,Priest,,0
+7,1,0,0,PET,Shaman,,0
+8,1,0,0,PET,Mage,,0
+9,1,0,0,DEMON,Warlock,,0
+11,1,0,0,PET,Druid,,0
