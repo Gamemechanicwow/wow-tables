@@ -1,4 +1,4 @@
-ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang[0],ItemVisual,Flags
+ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang,ItemVisual,Flags
 193,3,0,0,0,0,0,0,0,0,7595,0,0,+12 Beast Slaying,0,0
 194,3,0,0,0,0,0,0,0,0,7596,0,0,+14 Beast Slaying,0,0
 197,3,0,0,0,0,0,0,0,0,7599,0,0,Critical Hit +3%,0,0

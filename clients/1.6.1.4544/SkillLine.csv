@@ -1,4 +1,4 @@
-ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
+ID,CategoryID,SkillCostsID,DisplayName_lang,Description_lang,SpellIconID
 393,11,0,Skinning,,0
 109,10,0,Language: Orcish,,0
 124,9,0,Tauren Racial,,0

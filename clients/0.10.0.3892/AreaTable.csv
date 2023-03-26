@@ -1,4 +1,4 @@
-ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang[0],FactionGroupMask
+ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang,FactionGroupMask
 59,0,12,159,64,0,11,35,1,0,-1,Northshire Vineyards,0
 61,0,12,160,64,0,11,35,1,0,-1,Thunder Falls,0
 63,0,12,162,64,0,11,35,1,0,6,The Stonefield Farm,0

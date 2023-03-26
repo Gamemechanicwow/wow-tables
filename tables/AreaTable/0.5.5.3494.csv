@@ -1,4 +1,4 @@
-ID,AreaNumber,ContinentID,ParentAreaNum,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,MIDIAmbience,MIDIAmbienceUnderwater,ZoneMusic,IntroSound,IntroPriority,ExplorationLevel,AreaName_lang[0]
+ID,AreaNumber,ContinentID,ParentAreaNum,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,MIDIAmbience,MIDIAmbienceUnderwater,ZoneMusic,IntroSound,IntroPriority,ExplorationLevel,AreaName_lang
 249,589825,0,589824,8,0,0,11,30,25,10,0,0,-1,Dreadmaul Rock
 251,589827,0,589824,8,0,0,11,0,25,0,0,0,-1,Flame Crest
 252,589828,0,589824,8,0,0,11,30,25,10,0,0,-1,Blackrock Stronghold

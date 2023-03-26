@@ -1,8 +1,8 @@
-ID,Name,Description_lang[0]
+ID,Name,Description_lang
 1,APP_TITLE,WowError
 2,WOWERROR,WOWERROR
-3,HEADER,The following data will be sent to Blizzard when you click Send
-Though you can opt not to send this information, doing so will help us to improve the game.
+3,HEADER,"The following data will be sent to Blizzard when you click Send
+Though you can opt not to send this information, doing so will help us to improve the game."
 4,SEND,Send
 5,CANCEL,Cancel
 6,SEND_ERROR,Error sending data

@@ -1,4 +1,4 @@
-ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
+ID,CategoryID,SkillCostsID,DisplayName_lang,Description_lang,SpellIconID
 229,6,0,Polearms,,0
 593,7,0,Destruction,,0
 573,7,0,Restoration,,0

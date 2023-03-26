@@ -1,4 +1,4 @@
-ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang[0],FactionGroupMask
+ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang,FactionGroupMask
 61,0,12,160,64,0,11,35,1,0,0,Thunder Falls,0
 63,0,12,162,64,0,11,35,1,0,6,The Stonefield Farm,0
 65,0,0,164,68,0,11,0,0,0,0,***On Map Dungeon***,0

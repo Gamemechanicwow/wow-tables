@@ -1,4 +1,4 @@
-ID,WMOID,NameSetID,WMOGroupID,DayAmbienceSoundID,NightAmbienceSoundID,SoundProviderPref,SoundProviderPrefUnderwater,MIDIAmbience,MIDIAmbienceUnderwater,ZoneMusic,IntroSound,IntroPriority,Flags,AreaName_lang[0]
+ID,WMOID,NameSetID,WMOGroupID,DayAmbienceSoundID,NightAmbienceSoundID,SoundProviderPref,SoundProviderPrefUnderwater,MIDIAmbience,MIDIAmbienceUnderwater,ZoneMusic,IntroSound,IntroPriority,Flags,AreaName_lang
 12578,52,0,-1,0,0,0,0,0,0,0,0,0,0,
 2713,52,0,0,0,0,0,0,0,0,0,0,0,0,
 2714,52,0,0,0,0,0,0,0,0,0,0,0,0,

@@ -1,4 +1,4 @@
-ID,BonusActionBar,Name_lang[0],Flags,CreatureType,AttackIconID
+ID,BonusActionBar,Name_lang,Flags,CreatureType,AttackIconID
 1,1,Cat Form,0,0,0
 2,0,Tree Form,0,0,0
 3,0,Travel Form,0,0,0

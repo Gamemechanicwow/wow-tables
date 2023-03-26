@@ -1,4 +1,4 @@
-ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
+ID,CategoryID,SkillCostsID,DisplayName_lang,Description_lang,SpellIconID
 6,7,0,Frost,,0
 8,7,0,Fire,,0
 26,7,0,Arms,,0

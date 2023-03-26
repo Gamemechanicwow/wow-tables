@@ -1,4 +1,4 @@
-ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0]
+ID,CategoryID,SkillCostsID,DisplayName_lang,Description_lang
 516,9,0,Demon Tracking,
 517,9,0,Undead Tracking,
 518,9,0,Dragon Tracking,

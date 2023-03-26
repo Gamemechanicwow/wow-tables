@@ -1,4 +1,4 @@
-ID,RangeMin,RangeMax,Flags,DisplayName_lang[0],DisplayNameShort_lang[0]
+ID,RangeMin,RangeMax,Flags,DisplayName_lang,DisplayNameShort_lang
 1,0,0,0,Self Only,
 2,0,5,1,Combat Range,
 3,0,20,0,Short Range,

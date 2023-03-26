@@ -1,4 +1,4 @@
-ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang[0],ItemVisual,Flags
+ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang,ItemVisual,Flags
 287,3,0,0,0,0,0,0,0,0,7721,0,0,+4 Weapon Fire Damage,0,0
 289,3,0,0,0,0,0,0,0,0,7723,0,0,+8 Weapon Fire Damage,0,0
 1,3,0,0,0,0,0,0,0,0,15568,0,0,Rockbiter 3,0,0

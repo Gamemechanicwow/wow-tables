@@ -1,4 +1,4 @@
-EnumID,SpecialMiscValue,Globalstrings_tag,Name_lang[0]
+EnumID,SpecialMiscValue,Globalstrings_tag,Name_lang
 0,0,SPELL_AURA_NONE,None
 1,0,SPELL_AURA_BIND_SIGHT,Bind Sight
 2,0,SPELL_AURA_MOD_POSSESS,Mod Possess

@@ -1,4 +1,4 @@
-ID,Flags,FactionID,ExplorationSoundID,MaleDisplayID,FemaleDisplayID,ClientPrefix,MountScale,BaseLanguage,CreatureType,LoginEffectSpellID,CombatStunSpellID,ResSicknessSpellID,SplashSoundID,StartingTaxiNodes,ClientFileString,CinematicSequenceID,Name_lang[0]
+ID,Flags,FactionID,ExplorationSoundID,MaleDisplayID,FemaleDisplayID,ClientPrefix,MountScale,BaseLanguage,CreatureType,LoginEffectSpellID,CombatStunSpellID,ResSicknessSpellID,SplashSoundID,StartingTaxiNodes,ClientFileString,CinematicSequenceID,Name_lang
 1,12,1,4140,49,50,Hu,1,7,7,836,1604,15007,1096,100663330,Human,81,Human
 2,12,2,4141,51,52,Or,1.1,1,7,836,1604,15007,1096,4194304,Orc,21,Orc
 3,12,3,4147,53,54,Dw,1,7,7,836,1604,15007,1090,100663330,Dwarf,41,Dwarf

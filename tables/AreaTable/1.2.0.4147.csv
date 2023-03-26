@@ -1,4 +1,4 @@
-ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang[0],FactionGroupMask
+ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang,FactionGroupMask
 65,0,0,164,68,0,11,0,0,0,0,***On Map Dungeon***,0
 66,1,0,165,68,0,11,0,0,0,0,***On Map Dungeon***,0
 69,0,44,167,64,0,11,0,1,0,15,Lakeshire,0

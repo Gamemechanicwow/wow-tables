@@ -1,4 +1,4 @@
-ID,Importance,Icon,FactionID,Pos[0],Pos[1],Pos[2],ContinentID,Flags,Name_lang[0]
+ID,Importance,Icon,FactionID,Pos[0],Pos[1],Pos[2],ContinentID,Flags,Name_lang
 27,3,6,84,-6392.65,-3158,299.765,0,5,Angor Fortress
 1,3,6,0,-6134.2783,383.7634,399.25397,0,5,Anvilmar
 40,3,4,0,-14383.3,487.139,-29.5617,0,13,Booty Bay

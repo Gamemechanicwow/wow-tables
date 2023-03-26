@@ -1,4 +1,4 @@
-ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang[0],FactionGroupMask
+ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang,FactionGroupMask
 388,1,17,110,64,0,11,32,3,0,15,The Stagnant Oasis,0
 391,1,17,112,64,0,11,32,3,0,12,The Merchant Coast,0
 394,0,0,115,64,0,11,37,0,0,0,Darrowmere Lake UNUSED,0

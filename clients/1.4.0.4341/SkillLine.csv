@@ -1,4 +1,4 @@
-ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
+ID,CategoryID,SkillCostsID,DisplayName_lang,Description_lang,SpellIconID
 50,7,0,Beast Mastery,,0
 51,7,0,Survival,,0
 56,7,0,Holy,,0

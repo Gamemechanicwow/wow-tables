@@ -1,4 +1,4 @@
-ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang[0],FactionGroupMask
+ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang,FactionGroupMask
 251,0,46,2,64,0,11,0,0,0,0,Flame Crest,0
 252,0,46,3,64,0,11,0,0,301,57,Blackrock Stronghold,0
 256,1,141,6,64,0,11,0,11,0,0,Aldrassil,0

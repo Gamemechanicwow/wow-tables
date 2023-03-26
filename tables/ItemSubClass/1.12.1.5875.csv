@@ -1,4 +1,4 @@
-ClassID,SubClassID,PrerequisiteProficiency,PostrequisiteProficiency,Flags,DisplayFlags,WeaponParrySeq,WeaponReadySeq,WeaponAttackSeq,WeaponSwingSize,DisplayName_lang[0],VerboseName_lang[0]
+ClassID,SubClassID,PrerequisiteProficiency,PostrequisiteProficiency,Flags,DisplayFlags,WeaponParrySeq,WeaponReadySeq,WeaponAttackSeq,WeaponSwingSize,DisplayName_lang,VerboseName_lang
 -1,-1,-1,-1,0,1,0,0,3,0,NewItem,
 0,0,-1,-1,0,1,3,2,3,0,Consumable,
 0,1,-1,-1,0,1,3,2,3,0,Cheese/Bread(OBSOLETE),

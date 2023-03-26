@@ -1,4 +1,4 @@
-ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
+ID,CategoryID,SkillCostsID,DisplayName_lang,Description_lang,SpellIconID
 125,9,0,Orc Racial,,0
 315,10,0,Language: Troll,,0
 139,10,0,Language: Demon Tongue,,0

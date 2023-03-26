@@ -1,4 +1,4 @@
-ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang[0],ItemVisual
+ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang,ItemVisual
 1,2,0,0,5,0,0,10,0,0,0,0,0,Sharpened (TEST),0
 2,1,0,0,100,0,0,0,0,0,2626,0,0,Lightning Proc (TEST),0
 3,1,0,0,50,0,0,0,0,0,2647,0,0,Freeze Enemy,0

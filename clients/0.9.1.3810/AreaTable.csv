@@ -1,4 +1,4 @@
-ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang[0],FactionGroupMask
+ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang,FactionGroupMask
 134,0,1,214,0,0,11,0,8,0,10,Gol'Bolar Quarry,0
 135,0,1,215,0,0,11,0,8,0,0,Frostmane Hold,0
 136,0,1,216,0,0,11,0,0,0,5,The Grizzled Den,0

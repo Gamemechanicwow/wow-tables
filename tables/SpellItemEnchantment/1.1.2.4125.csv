@@ -1,4 +1,4 @@
-ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang[0],ItemVisual,Flags
+ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang,ItemVisual,Flags
 43,3,0,0,0,0,0,0,0,0,9784,0,0,Iron Spike (8-12),0,0
 44,3,0,0,0,0,0,0,0,0,7445,0,0,Absorption (10),0,0
 64,3,0,0,0,0,0,0,0,0,7450,0,0,Spirit +3,0,0

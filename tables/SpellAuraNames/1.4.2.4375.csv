@@ -1,4 +1,4 @@
-EnumID,SpecialMiscValue,Globalstrings_tag,Name_lang[0]
+EnumID,SpecialMiscValue,Globalstrings_tag,Name_lang
 94,0,SPELL_AURA_INTERRUPT_REGEN,Interrupt Regen
 95,0,SPELL_AURA_GHOST,Ghost
 96,0,SPELL_AURA_SPELL_MAGNET,Spell Magnet
@@ -53,7 +53,7 @@ EnumID,SpecialMiscValue,Globalstrings_tag,Name_lang[0]
 109,22,SPELL_AURA_ADD_TARGET_TRIGGER,Add Class Target Trigger
 111,22,SPELL_AURA_ADD_CASTER_HIT_TRIGGER,Add Class Caster Hit Trigger
 112,23,SPELL_AURA_OVERRIDE_CLASS_SCRIPTS,Override Class Scripts
-121,0,SPELL_AURA_EMPATHY,Empathy (Lore, whatever)
+121,0,SPELL_AURA_EMPATHY,"Empathy (Lore, whatever)"
 128,0,SPELL_AURA_MOD_POSSESS_PET,Mod Possess Pet
 130,0,SPELL_AURA_MOD_MOUNTED_SPEED_ALWAYS,Mod Mounted Speed Always
 131,9,SPELL_AURA_MOD_CREATURE_RANGED_ATTACK_POWER,Mod Creature Ranged Attack Power

@@ -1,4 +1,4 @@
-ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0],SpellIconID
+ID,CategoryID,SkillCostsID,DisplayName_lang,Description_lang,SpellIconID
 204,7,0,Pet - Voidwalker,,0
 205,7,0,Pet - Succubus,,0
 206,7,0,Pet - Infernal,,0

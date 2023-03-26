@@ -1,4 +1,4 @@
-ID,MapID,AreaID,Icon,String_lang[0],Tooltip_lang[0],FactionID,StateVariable,Type,DynamicIcon,DynamicTooltip_lang[0],ExtendedUI,ExtendedUIStateVariable[0],ExtendedUIStateVariable[1],ExtendedUIStateVariable[2]
+ID,MapID,AreaID,Icon,String_lang,Tooltip_lang,FactionID,StateVariable,Type,DynamicIcon,DynamicTooltip_lang,ExtendedUI,ExtendedUIStateVariable[0],ExtendedUIStateVariable[1],ExtendedUIStateVariable[2]
 136,0,139,Interface\WorldStateFrame\AllianceTower,Towers Controlled: %2327w,,0,0,0,,,,2031678,67,0
 137,0,139,Interface\WorldStateFrame\HordeTower,Towers Controlled: %2328w,,0,0,0,,,,2031678,157,0
 138,0,139,,Progress: %2427w,,0,0,0,,,,2031678,0,0

@@ -1,4 +1,4 @@
-ID,PlayerClass,DamageBonusStat,DisplayPower,PetNameToken,Name_lang[0],Filename
+ID,PlayerClass,DamageBonusStat,DisplayPower,PetNameToken,Name_lang,Filename
 1,1,0,1,PET,Warrior,
 2,1,0,0,PET,Paladin,
 3,1,1,2,PET,Hunter,

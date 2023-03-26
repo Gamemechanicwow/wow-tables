@@ -1,4 +1,4 @@
-EnumID,SpecialMiscValue,Globalstrings_tag,Name_lang[0]
+EnumID,SpecialMiscValue,Globalstrings_tag,Name_lang
 97,15,SPELL_AURA_MANA_SHIELD,Mana Shield
 0,0,SPELL_AURA_NONE,None
 1,0,SPELL_AURA_BIND_SIGHT,Bind Sight

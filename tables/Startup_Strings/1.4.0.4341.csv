@@ -1,4 +1,4 @@
-ID,Name,Message_lang[0]
+ID,Name,Message_lang
 1,MSG_TITLE_WOW,World of Warcraft
 2,MSG_GX_INIT_FAILED_D3D,World of Warcraft was unable to start up 3D acceleration. Please make sure DirectX 9.0c is installed and your video drivers are up-to-date.
 3,MSG_GX_INIT_FAILED,World of Warcraft was unable to start up 3D acceleration.

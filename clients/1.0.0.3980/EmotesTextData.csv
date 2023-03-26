@@ -1,5 +1,5 @@
-ID,Text_lang[0]
-109,With arms flapping, %s struts around you.  Cluck, Cluck, Chicken!
+ID,Text_lang
+109,"With arms flapping, %s struts around you.  Cluck, Cluck, Chicken!"
 115,You chuckle at %s.
 117,You let out a hearty chuckle.
 118,%s claps excitedly for %s.
@@ -44,7 +44,7 @@ ID,Text_lang[0]
 252,You grin wickedly.
 253,%s looks at %s and groans.
 258,%s grovels before %s like a subservient peon.
-261,%s grovels on the ground, wallowing in subservience.
+261,"%s grovels on the ground, wallowing in subservience."
 264,%s takes one look at you and lets out a guffaw!
 267,You let out a boisterous guffaw!
 268,%s hails %s.
@@ -69,7 +69,7 @@ ID,Text_lang[0]
 322,%s moans suggestively.
 324,%s drops his trousers and moons %s.
 330,%s drops her trousers and moons you.
-334,In quiet contemplation, you mourn the death of %s.
+334,"In quiet contemplation, you mourn the death of %s."
 339,You tell %s NO.  Not going to happen.
 345,%s nods.
 348,%s picks his nose and shows it to you.
@@ -88,7 +88,7 @@ ID,Text_lang[0]
 403,You salute %s with respect.
 404,%s stands at attention and salutes.
 405,You stand at attention and salute.
-411,%s scratches herself.  Ah, much better!
+411,"%s scratches herself.  Ah, much better!"
 414,You think %s is a sexy devil.
 419,%s shakes his rear at you.
 425,%s shakes her rear.
@@ -198,12 +198,12 @@ ID,Text_lang[0]
 346,You nod.
 347,%s picks his nose and shows it to %s.
 349,You pick your nose and show it to %s.
-351,With a finger deep in one nostril, you pass the time.
+351,"With a finger deep in one nostril, you pass the time."
 354,%s takes one look at %s and panics.
 356,You take one look at %s and panic.
 359,%s peers at %s searchingly.
 361,You peer at %s searchingly.
-363,You peer around, searchingly.
+363,"You peer around, searchingly."
 367,%s drops to his knees and pleads in desperation.
 233,%s glares angrily at %s.
 234,%s glares angrily at you.
@@ -296,7 +296,7 @@ ID,Text_lang[0]
 423,%s shakes her rear at %s.
 432,%s shrugs at you.  Who knows?
 441,%s sighs at %s.
-445,You let out a long, drawn-out sigh.
+445,"You let out a long, drawn-out sigh."
 453,%s bares his teeth and snarls.
 460,You spit on %s.
 468,%s is suprised by %s's actions.
@@ -306,8 +306,8 @@ ID,Text_lang[0]
 702,You sniff %s.
 704,You sniff the air around you.
 705,%s sniffs the air around her.
-714,You soothe %s. There, there...things will be ok.
-718,%s smells you. Wow, someone stinks!
+714,"You soothe %s. There, there...things will be ok."
+718,"%s smells you. Wow, someone stinks!"
 730,%s teases you.
 731,You tease %s.
 732,%s is such a tease.
@@ -352,7 +352,7 @@ ID,Text_lang[0]
 104,%s cheers at you.
 106,%s cheers!
 107,You cheer!
-111,With arms flapping, %s struts around.  Cluck, Cluck, Chicken!
+111,"With arms flapping, %s struts around.  Cluck, Cluck, Chicken!"
 134,%s coughs at you.
 135,You cough at %s.
 140,You cower in fear at the sight of %s.
@@ -462,8 +462,8 @@ ID,Text_lang[0]
 699,A sly smirk spreads across your face.
 709,%s snubs all of the lowly peons around him.
 710,You snub all of the lowly peons around you.
-712,%s soothes %s. There, there...things will be ok.
-713,%s soothes you. There, there...things will be ok.
+712,"%s soothes %s. There, there...things will be ok."
+713,"%s soothes you. There, there...things will be ok."
 716,You need to be soothed.
 724,%s makes a taunting gesture at you. Bring it!
 727,You taunt everyone around you. Bring it fools!
@@ -506,7 +506,7 @@ ID,Text_lang[0]
 475,You surrender before %s.  Such is the agony of defeat...
 492,You question %s.
 756,You want to be tickled.  Hee hee!
-112,With arms flapping, you strut around.  Cluck, Cluck, Chicken!
+112,"With arms flapping, you strut around.  Cluck, Cluck, Chicken!"
 810,You bark at %s
 757,%s plays the world's smallest violin for %s.
 759,You play the world's smallest violin for %s.
@@ -522,7 +522,7 @@ ID,Text_lang[0]
 479,%s wants to talk things over with %s.
 484,%s talks to herself since no one else seems interested.
 103,%s cheers at %s!
-108,With arms flapping, %s struts around %s.  Cluck, Cluck, Chicken!
+108,"With arms flapping, %s struts around %s.  Cluck, Cluck, Chicken!"
 138,%s cowers in fear at the sight of %s.
 764,You smile at %s.
 778,%s makes a rude gesture at %s.
@@ -565,7 +565,7 @@ ID,Text_lang[0]
 245,You greet %s warmly.
 257,You begin to groan.
 259,%s grovels before you like a subservient peon.
-262,You grovel on the ground, wallowing in subservience.
+262,"You grovel on the ground, wallowing in subservience."
 266,%s lets out a boisterous guffaw!
 271,%s hails everyone around him.
 284,%s hugs %s.
@@ -576,7 +576,7 @@ ID,Text_lang[0]
 344,You nod at %s.
 350,%s passes the time with a finger deep in one nostril.
 357,%s runs around in a frenzied state of panic.
-362,%s peers around, searchingly.
+362,"%s peers around, searchingly."
 368,You drop to your knees and plead in desperation.
 547,%s works with you.
 667,%s lets you know that he is ready!
@@ -607,7 +607,7 @@ ID,Text_lang[0]
 398,You make a rude gesture at %s.
 406,%s scratches %s.  How catty!
 408,You scratch %s.  How catty!
-410,You scratch yourself.  Ah, much better!
+410,"You scratch yourself.  Ah, much better!"
 451,%s bares his teeth and snarls at you.
 454,You bare your teeth and snarl.
 456,%s bares her teeth and snarls at you.
@@ -618,7 +618,7 @@ ID,Text_lang[0]
 510,You threaten %s with the wrath of doom.
 512,You threaten everyone with the wrath of doom.
 539,%s whines pathetically.
-341,You clearly state, NO.
+341,"You clearly state, NO."
 401,%s salutes %s with respect.
 527,%s waves at you.
 541,%s whistles at %s.
@@ -626,10 +626,10 @@ ID,Text_lang[0]
 384,%s prays to the Gods.
 391,%s rolls on the floor laughing at %s.
 393,You roll on the floor laughing at %s.
-409,%s scratches himself.  Ah, much better!
+409,"%s scratches himself.  Ah, much better!"
 421,%s shakes his rear.
 434,%s shrugs.  Who knows?
-444,%s lets out a long, drawn-out sigh.
+444,"%s lets out a long, drawn-out sigh."
 461,%s spits on the ground.
 477,You surrender to your opponents.
 493,%s wants to know the meaning of life.
@@ -670,7 +670,7 @@ ID,Text_lang[0]
 697,You smirk slyly at %s.
 706,%s snubs %s.
 711,%s snubs all of the lowly peons around her.
-721,You smell the air around you. Wow, someone stinks!
+721,"You smell the air around you. Wow, someone stinks!"
 48,%s looks around for someone to bite.
 734,%s lets %s know he is thirsty. Spare a drink?
 740,%s lets you know she is thirsty. Spare a drink?
@@ -690,9 +690,9 @@ ID,Text_lang[0]
 802,You pity those around you.
 808,%s barks at %s.
 64,You bonk %s on the noggin.  Doh!
-78,%s will be right back.  Sit tight, %s.
+78,"%s will be right back.  Sit tight, %s."
 97,You wave goodbye to everyone.  Farewell!
-110,With arms flapping, you strut around %s.  Cluck, Cluck, Chicken!
+110,"With arms flapping, you strut around %s.  Cluck, Cluck, Chicken!"
 126,%s is hopelessly confused.
 132,You congratulate everyone around you.
 144,%s cracks his knuckles while staring at you.
@@ -719,7 +719,7 @@ ID,Text_lang[0]
 495,%s taps his foot as he waits for %s.
 497,You tap your foot as you wait for %s.
 328,You drop your trousers and moon everyone.
-340,%s clearly states, NO.
+340,"%s clearly states, NO."
 352,%s picks her nose and shows it to %s.
 360,%s peers at you searchingly.
 197,%s brushes up against %s and farts loudly.
@@ -745,13 +745,13 @@ ID,Text_lang[0]
 630,You mock the foolishness of %s.
 631,%s mocks life and all it stands for.
 634,%s ponders your actions.
-717,%s smells %s. Wow, someone stinks!
-719,You smell %s. Wow, someone stinks!
-720,%s smells the air around him. Wow, someone stinks!
+717,"%s smells %s. Wow, someone stinks!"
+719,"You smell %s. Wow, someone stinks!"
+720,"%s smells the air around him. Wow, someone stinks!"
 723,%s makes a taunting gesture at %s. Bring it!
 745,You veto the motion on the floor.
-333,In quiet contemplation, %s mourns your death.
-335,In quiet contemplation, %s mourns the loss of the dead.
+333,"In quiet contemplation, %s mourns your death."
+335,"In quiet contemplation, %s mourns the loss of the dead."
 338,%s tells you NO.  Not going to happen.
 235,You glare angrily at %s.
 238,%s gloats over %s's misfortune.
@@ -762,7 +762,7 @@ ID,Text_lang[0]
 676,%s shimmies before the masses.
 693,You slap yourself across the face. Ouch!
 708,You snub %s.
-722,%s smells the air around her. Wow, someone stinks!
+722,"%s smells the air around her. Wow, someone stinks!"
 744,%s vetoes the motion on the floor.
 753,%s tickles you.  Hee hee!
 46,%s bites you.  Ouch!
@@ -803,8 +803,8 @@ ID,Text_lang[0]
 270,You hail %s.
 282,%s greets everyone with a hearty hello!
 290,%s is hungry.  Maybe you have some food...
-332,In quiet contemplation, %s mourns the death of %s.
-336,In quiet contemplation, you mourn the loss of the dead.
+332,"In quiet contemplation, %s mourns the death of %s."
+336,"In quiet contemplation, you mourn the loss of the dead."
 337,%s tells %s NO.  Not going to happen.
 342,%s nods at %s.
 355,%s takes one look at you and panics.

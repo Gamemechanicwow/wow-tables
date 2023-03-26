@@ -1,4 +1,4 @@
-ID,Name_lang[0],SpellIconID,RaceMask,ClassMask,OrderIndex,BackgroundFile
+ID,Name_lang,SpellIconID,RaceMask,ClassMask,OrderIndex,BackgroundFile
 181,Combat,0,0,0,0,
 41,Fire,0,0,0,0,
 161,Arms,0,0,0,0,

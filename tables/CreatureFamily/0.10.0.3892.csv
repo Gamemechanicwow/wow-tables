@@ -1,4 +1,4 @@
-ID,MinScale,MinScaleLevel,MaxScale,MaxScaleLevel,SkillLine[0],SkillLine[1],PetFoodMask,Name_lang[0],IconFile
+ID,MinScale,MinScaleLevel,MaxScale,MaxScaleLevel,SkillLine[0],SkillLine[1],PetFoodMask,Name_lang,IconFile
 24,0.5,1,1.2,70,653,270,48,Bat,
 1,0.5,1,1.2,70,208,270,1,Wolf,
 2,0.5,1,1.2,70,209,270,3,Cat,

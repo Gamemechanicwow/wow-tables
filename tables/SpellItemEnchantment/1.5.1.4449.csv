@@ -1,4 +1,4 @@
-ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang[0],ItemVisual,Flags
+ID,Effect[0],Effect[1],Effect[2],EffectPointsMin[0],EffectPointsMin[1],EffectPointsMin[2],EffectPointsMax[0],EffectPointsMax[1],EffectPointsMax[2],EffectArg[0],EffectArg[1],EffectArg[2],Name_lang,ItemVisual,Flags
 122,4,0,0,24,0,0,24,0,0,0,0,0,+24 Armor,0,0
 124,1,0,0,100,0,0,100,0,0,8253,0,0,Flametongue Totem 1,0,0
 127,3,0,0,0,0,0,0,0,0,7523,0,0,Sword Skill +3,0,0

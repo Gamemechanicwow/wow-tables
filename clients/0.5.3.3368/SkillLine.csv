@@ -1,4 +1,4 @@
-ID,RaceMask,ClassMask,ExcludeRace,ExcludeClass,CategoryID,SkillType,MinCharLevel,MaxRank,Abandonable,DisplayName_lang[0]
+ID,RaceMask,ClassMask,ExcludeRace,ExcludeClass,CategoryID,SkillType,MinCharLevel,MaxRank,Abandonable,DisplayName_lang
 6,0,128,0,0,3,0,1,1000,0,Frost Magic
 8,0,448,0,0,3,0,1,1000,0,Fire Magic
 26,0,1,0,0,3,0,1,1000,0,Combat Maneuvers

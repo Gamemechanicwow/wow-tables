@@ -1,4 +1,4 @@
-ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang[0],FactionGroupMask
+ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang,FactionGroupMask
 324,0,45,56,64,0,11,0,186,182,36,Stromgarde Keep,0
 327,0,45,59,64,0,11,0,3,0,40,Faldir's Cove,0
 330,0,0,60,64,0,11,44,3,0,0,Thandol Span,0

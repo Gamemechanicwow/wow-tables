@@ -1,4 +1,4 @@
-ID,CategoryID,SkillCostsID,DisplayName_lang[0],Description_lang[0]
+ID,CategoryID,SkillCostsID,DisplayName_lang,Description_lang
 267,7,0,Protection,
 8,7,0,Fire Magic,
 46,6,0,Guns,

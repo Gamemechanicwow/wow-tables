@@ -1,4 +1,4 @@
-ID,MapID,Icon,String_lang[0],Tooltip_lang[0],FactionID,StateVariable,Type,DynamicIcon,DynamicTooltip_lang[0]
+ID,MapID,Icon,String_lang,Tooltip_lang,FactionID,StateVariable,Type,DynamicIcon,DynamicTooltip_lang
 63,30,Interface\WorldStateFrame\ColumnIcon-GraveyardCapture,Graveyards Assaulted,,0,0,0,,
 65,30,Interface\WorldStateFrame\ColumnIcon-GraveyardDefend,Graveyards Defended,,0,0,0,,
 61,30,Interface\WorldStateFrame\ColumnIcon-TowerCapture,Towers Assaulted,,0,0,0,,

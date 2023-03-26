@@ -1,4 +1,4 @@
-ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang[0],FactionGroupMask
+ID,ContinentID,ParentAreaID,AreaBit,Flags,SoundProviderPref,SoundProviderPrefUnderwater,AmbienceID,ZoneMusic,IntroSound,ExplorationLevel,AreaName_lang,FactionGroupMask
 135,0,1,215,64,0,11,0,0,121,7,Frostmane Hold,0
 137,0,1,217,64,0,11,0,0,0,7,Brewnall Village,0
 142,0,38,221,64,0,11,0,1,0,15,Ironband's Excavation Site,0

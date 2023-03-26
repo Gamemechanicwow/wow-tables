@@ -1,4 +1,4 @@
-ClassID,SubclassMapID,Flags,ClassName_lang[0]
+ClassID,SubclassMapID,Flags,ClassName_lang
 0,0,0,Consumable
 1,1,0,Container
 2,2,1,Weapon
