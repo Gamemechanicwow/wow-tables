@@ -1,0 +1,42 @@
+ID,Directory,PVP,MapName_lang,MinLevel,MaxLevel,Unk0,Unk1,Unk2,Unk3,MapDescription0_lang,Unk5,MapDescription1_lang,Unk6,Unk4
+429,DireMaul,0,Dire Maul,0,0,0,0,0,0,,524288,,0,-1
+169,EmeraldDream,0,Emerald Dream,0,0,0,0,0,0,,983058,,0,-1
+209,TanarisInstance,0,Zul'farrak,0,0,0,0,0,0,,983058,,0,-1
+309,Zul'gurub,0,Zul'gurub,0,0,0,0,0,0,,983042,,0,-1
+329,Stratholme,0,Stratholme,0,0,0,0,0,0,,983042,,0,-1
+369,DeeprunTram,0,Deeprun Tram,0,0,0,0,0,0,,983042,,0,-1
+389,OrgrimmarInstance,0,OrgrimmarInstance,0,0,0,0,0,0,,983042,,0,-1
+0,Azeroth,0,Eastern Kingdoms,0,0,0,0,0,0,,983042,,0,-1
+1,Kalimdor,0,Kalimdor,0,0,0,0,0,0,,7274514,,0,-1
+2,UnderMine,0,UnderMine,0,0,0,0,0,0,,7274514,,0,-1
+13,test,0,Testing,0,0,0,0,0,0,,7274514,,0,-1
+17,Kalidar,0,Kalidar,0,0,0,0,0,0,,7274514,,0,-1
+25,ScottTest,0,Scott Test,0,0,0,0,0,0,,7274514,,0,-1
+29,Test,0,CashTest,0,0,0,0,0,0,,7274514,,0,-1
+30,PVPZone01,1,PVPZone01,0,0,0,0,0,0,,7274514,,0,-1
+33,Shadowfang,0,Shadowfang,0,0,0,0,0,0,,7274514,,0,-1
+34,StormwindJail,0,StormwindJail,0,0,0,0,0,0,,7274514,,0,-1
+35,StormwindPrison,0,StormwindPrison,0,0,0,0,0,0,,7274514,,0,-1
+36,DeadminesInstance,0,DeadminesInstance,0,0,0,0,0,0,,7274514,,0,-1
+37,PVPZone02,1,PVPZone02,0,0,0,0,0,0,,7274514,Dire Maul,20,0
+42,Collin,0,Collin's Test,0,0,0,0,0,0,,7274514,,0,-1
+43,WailingCaverns,0,WailingCavernsInstance,0,0,0,0,0,0,,7274514,,0,-1
+44,Monastery,0,MonasteryInterior,0,0,0,0,0,0,,7274514,,0,-1
+47,RazorfenKraulInstance,0,RazorfenKraul,0,0,0,0,0,0,,7274514,,0,-1
+48,Blackfathom,0,Blackfathom Instance,0,0,0,0,0,0,,7274514,,0,-1
+109,SunkenTemple,0,SunkenTempleInstance,0,0,0,0,0,0,,7274498,,0,-1
+70,Uldaman,0,Uldaman Instance,0,0,0,0,0,0,,7274514,,0,-1
+90,GnomeragonInstance,0,GnomeragonInstance,0,0,0,0,0,0,,7274514,,0,-1
+129,RazorfenDowns,0,RazorfenDownsInstance,0,0,0,0,0,0,,7274514,,0,-1
+249,OnyxiaLairInstance,0,Onyxias Lair Instance,0,0,0,0,0,0,,983042,,0,-1
+289,SchoolofNecromancy,0,School of Necromancy,0,0,0,0,0,0,,983042,,0,-1
+409,MoltenCore,0,Molten Core,0,0,0,0,0,0,,589824,,0,-1
+469,BlackwingLair,0,Blackwing Lair,0,0,0,0,0,0,,524288,,0,-1
+189,MonasteryInstances,0,MonasteryInstances,0,0,0,0,0,0,,983058,,0,-1
+269,CavernsOfTime,0,Caverns of Time,0,0,0,0,0,0,,983042,,0,-1
+229,BlackRockSpire,0,Blackrock Upper Instance,0,0,0,0,0,0,,983042,,0,0
+230,BlackrockDepths,0,Blackrock Lower Instance,0,0,0,0,0,0,,983042,,0,0
+349,Mauradon,0,Mauradon,0,0,0,0,0,0,,983042,,0,-1
+449,AlliancePVPBarracks,0,Alliance PVP Barracks,0,0,0,0,0,0,,524288,,0,-1
+450,HordePVPBarracks,0,Horde PVP Barracks,0,0,0,0,0,0,,524288,,0,-1
+451,development,0,Development Land,0,0,0,0,0,0,,524288,,0,-1
